@@ -1,5 +1,5 @@
 ---
-name: Rahimi
+name: Reto
 masthead: Elev8 Fold
 place: Zürich
 language: de
