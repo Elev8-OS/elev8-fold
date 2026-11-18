@@ -1,0 +1,152 @@
+{
+ "date": "2026-11-18",
+ "kind": "issue",
+ "start": "2026-11-18T06:04:09Z",
+ "end": "2026-11-18T06:15:33Z",
+ "environment_cached": false,
+ "environment": "pymupdf/playwright/faster_whisper missing; ran engine/tools/env_setup.sh (ok). Embedding model missing from model/: fetched with get_model.py --split and committed.",
+ "engine": "git submodule update --init engine (worked first try), pinned 90096e6",
+ "headless_browser": "available; used by fetch.py for phocuswire listing; rescued no article (rentalscaleup 403 also failed in browser)",
+ "late": "Run started 06:04 UTC = 07:04 Zurich, already after publish_by 06:55. Published about 07:40 Zurich. Schedule should start ~2 h earlier.",
+ "sources_read": 8,
+ "sources_failed": [],
+ "sources_note": "First read of all 8 sources: each set its baseline; 269 undated backlog items dropped, 0 news items. Whole issue built from WebSearch.",
+ "replies": "none: first issue, no artifact existed before this run",
+ "searches": [
+  "Airbnb news Nov 2026",
+  "Booking.com hosts Nov 2026",
+  "STR regulation EU/DE/AT/CH",
+  "Bali villa registration",
+  "PMS acquisitions/funding",
+  "PriceLabs/Wheelhouse launches",
+  "EC DSA Booking.com",
+  "AI guest messaging PMS",
+  "Airbnb house rules Nov 20",
+  "Wien Kurzzeitvermietung Landtag",
+  "Wiener Landtag 19 Nov (corroboration)"
+ ],
+ "reporter_batches": [
+  {
+   "name": "A Airbnb",
+   "articles": 6,
+   "skips": "airbnb help/article/2894 is the guest ground-rules page, not the house-rules policy; policy page not found"
+  },
+  {
+   "name": "B Booking.com",
+   "articles": 3,
+   "skips": "rentalscaleup Booking Q3: HTTP 403, browser fallback empty"
+  },
+  {
+   "name": "C Wien WKVRG",
+   "articles": 5,
+   "skips": "none"
+  },
+  {
+   "name": "D PMS AI messaging",
+   "articles": 4,
+   "skips": "none; corrected a search-summary claim (Smoobu AI drafts since July 2026 not in source)"
+  }
+ ],
+ "editor_reads": [
+  "wien.orf.at/stories/3375904 (Landtag beschloss) and 3375510: showed the Landtag already passed the WKVRG; reporter C and the search summary had it as still pending (19 Nov). Added APPROVED edge, policy status adopted."
+ ],
+ "candidates": [
+  {
+   "name": "Airbnb house rules from 20 Nov",
+   "impact": 3,
+   "novelty": 3,
+   "origins": 3,
+   "depth": 0,
+   "total": 9,
+   "corroboration": "Skift (2 articles), Fortune read; search also listed OneMileAtATime, ConsumerAffairs, IBTimes, Dexerto, San reporting the same policy (not read). Policy page itself not read.",
+   "result": "story 1"
+  },
+  {
+   "name": "Wien WKVRG registration duty",
+   "impact": 3,
+   "novelty": 2,
+   "origins": 3,
+   "depth": 0,
+   "total": 8,
+   "corroboration": "Stadt Wien (primary, =2), ORF Wien, DFZ (reprints Rathauskorrespondenz), Kosmo. Landtag decision rests on ORF only.",
+   "result": "story 2"
+  },
+  {
+   "name": "EC DSA proceedings vs Booking.com",
+   "impact": 3,
+   "novelty": 2,
+   "origins": 3,
+   "depth": 0,
+   "total": 8,
+   "corroboration": "EC press item (primary), PhocusWire, TNW; search also listed thepaypers, grcreport, traveltomorrow.",
+   "result": "story 3"
+  },
+  {
+   "name": "Airbnb Q3 / AI agent H1 2027",
+   "impact": 2,
+   "novelty": 2,
+   "origins": 3,
+   "depth": 0,
+   "total": 7,
+   "result": "in brief"
+  },
+  {
+   "name": "PMS AI messaging status",
+   "impact": 2,
+   "novelty": 1,
+   "origins": 1,
+   "depth": 0,
+   "total": 4,
+   "result": "in brief (thesis)"
+  },
+  {
+   "name": "Booking Q3 alt accommodation +7%",
+   "impact": 2,
+   "novelty": 1,
+   "origins": 0,
+   "depth": 0,
+   "total": 3,
+   "result": "dropped: article unreadable"
+  },
+  {
+   "name": "Bali enforcement",
+   "impact": 3,
+   "novelty": 0,
+   "origins": 0,
+   "depth": 0,
+   "total": 3,
+   "result": "dropped: only consultancy pages on spring deadlines, nothing dated this week"
+  },
+  {
+   "name": "Airbnb housing innovation prize",
+   "impact": 0,
+   "novelty": 2,
+   "origins": 1,
+   "depth": 0,
+   "total": 3,
+   "result": "dropped: off beat"
+  }
+ ],
+ "dossiers": "desk check ran dossiers on company:airbnb, policy:airbnb-reasonable-house-rules-and-requests, policy:wkvrg, company:booking-com, regulator:european-commission",
+ "from_the_memory": "impossible in the first issue (graph empty before this run); story 1 carries an honest note instead; stories 2-3 omit the box",
+ "desk_check": "~20 fixes: Airbnb sanctions wording and attributions; Wien: platform duty is spot checks, fines split (50k Registergesetz / 2k Bauordnung), 90-day rule disputed, EU-regulation link marked as editor's view, headline for existing hosts, Kosmo likely conflated committee vote; Booking: Virkkunen title, EC item is a short notice, data-incident link marked as editor's, commitments are offered not demanded, Visibility Booster link qualified; briefs: Umsatz, vendor attributions.",
+ "rival_read": "Argued visibility risk and 'unpaid guest work' were unsupported; My read on Airbnb rewritten around the no-rules-after-booking point, sanctions qualified.",
+ "grounding_refusals": "none reported",
+ "theses": [
+  {
+   "name": "KI-Gästeservice wird Standard",
+   "from": 0.7,
+   "to": 0.6
+  }
+ ],
+ "signals": "none published",
+ "rules_counted": "none (no rules yet)",
+ "problems": [
+  "late start vs publish_by",
+  "all sources baselined: zero items from registry on first run",
+  "rentalscaleup blocks fetch (403)",
+  "search summaries contained wrong claims (Smoobu July 2026; Wien vote pending on 19 Nov) caught by reporters/editor"
+ ],
+ "engine_issues": [],
+ "differently": "Read primary/ORF texts before framing a regulatory story as upcoming; add Airbnb policy help page URL to the Airbnb sources; consider adding rentalscaleup via browser or WebSearch fallback; Bali needs an Indonesian-language source (e.g. Bali provincial government, local news)."
+}

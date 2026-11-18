@@ -10,7 +10,7 @@ dreaming_day: Sat
 week_ahead_day: Sun
 publish_by: "06:55"
 quiet_window: "04:45-07:25"
-artifact_url: ""
+artifact_url: "https://claude.ai/artifact/1K9BigbztoRRakTdiPQaHw"
 watch: ["Airbnb", "Booking.com", "PriceLabs", "Elev8", "Hostaway", "Guesty"]
 regions: ["Schweiz", "Deutschland", "Österreich", "EU", "Bali", "Indonesien"]
 ---

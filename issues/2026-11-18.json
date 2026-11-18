@@ -1,0 +1,114 @@
+{
+ "number": 1,
+ "date": "2026-11-18",
+ "url": "https://claude.ai/artifact/1K9BigbztoRRakTdiPQaHw",
+ "stories": [
+  {
+   "kicker": "Plattformen · Airbnb",
+   "headline": "Ab Freitag gelten Airbnbs neue Hausregeln",
+   "deck": "Für Buchungen ab dem 20. November dürfen Gastgeber Gästen in der Regel keine Putzarbeiten mehr auferlegen. Nach Protest hat Airbnb die Regel schon einmal gelockert.",
+   "body": "Ab Freitag, 20. November, gelten bei Airbnb weltweit neue Hausregeln für alle Buchungen ab diesem Datum; bestehende Buchungen sind nicht betroffen (Fortune). Gastgeber wählen dann aus sieben Standardregeln und dürfen Gäste „generally not“ bitten, Geschirr zu spülen, Betten abzuziehen oder den Müll hinauszubringen (Skift). Bußen für Regelverstöße sind nicht mehr erlaubt, und Regeln dürfen nach der Buchung weder per Nachricht noch per Aushang oder persönlich nachgeschoben werden (Fortune). Wiederholte Verstöße können laut Skift einen Hinweis im Inserat, weniger Sichtbarkeit, stornierte Buchungen oder den Verlust von Superhost-Status kosten, bis hin zur Kontosperre.\n\nDer Protest war laut. Eine Petition auf Change.org hatte laut Fortune am 28. Oktober über 10.000 Unterschriften; einige Gastgeber rufen für den 20. November zu einem Buchungsstopp auf, andere drohen mit höheren Preisen. Am 3. November lenkte Airbnb teilweise ein, berichtet allein Skift (16. November): Aus „Bitten“ werden „zusätzliche Regeln“, die Gäste einhalten sollen, und Gastgeber dürfen einen separaten Mietvertrag verlangen, wenn ihre Versicherung das fordert. Der Kern bleibt: keine Putzpflichten beim Checkout, keine Bußen.\n\nAirbnb prüft die Regeln der Inserate ab dem 20. November bis März 2027; Gastgeber haben mindestens 20 Tage, eine beanstandete Regel zu ändern, und einen Einspruch pro Regel (Skift). Die Seite mit dem Policy-Text selbst konnte die Redaktion nicht abrufen; die Angaben stützen sich auf Skift und Fortune. Fortune hält fest, dass Airbnb Reinigungsgebühren nicht deckelt.",
+   "from_memory": "Dies ist die erste Ausgabe; das Gedächtnis der Zeitung beginnt heute. Ab den nächsten Ausgaben steht hier eine datierte Aussage aus früheren Ausgaben.",
+   "stat": "20.11. Stichtag: gilt für Buchungen ab diesem Datum (Skift, Fortune)",
+   "my_read": "Wo Gastgeber Checkout-Aufgaben bisher den Gästen übertrugen, landen sie beim Reinigungsteam; wie viel das ist, belegt keine Quelle. Die Kosten können über die Reinigungsgebühr weitergegeben werden, Airbnb deckelt sie nicht. Der heiklere Punkt für Elev8 sind die Texte. Regeln, die erst nach der Buchung per Nachricht kommen, sind ab Freitag ausdrücklich unzulässig; das trifft genau die automatisierten Checkout-Nachrichten und KI-Antworten, die heute „bitte Betten abziehen“ schreiben. Ob und wie Airbnb Nachrichten prüft, sagen die gelesenen Quellen nicht. Sanktionen drohen erst bei wiederholten Verstößen, nach mindestens 20 Tagen Frist zur Korrektur.",
+   "sources": [
+    "Skift",
+    "Fortune"
+   ],
+   "score": {
+    "impact": 3,
+    "novelty": 3,
+    "origins": 3,
+    "depth": 0,
+    "total": 9
+   }
+  },
+  {
+   "kicker": "Regulierung · Österreich",
+   "headline": "Wien: Kein Inserat ohne Registrierungsnummer, Frist bis Ende März",
+   "deck": "Laut ORF Wien hat der Landtag das Kurzzeitvermietungsregistergesetz beschlossen. Ab 1. Januar 2027 brauchen neue Inserate eine Nummer, bestehende ab April.",
+   "body": "Ab 1. Jänner 2027 muss jede Wohnung, die in Wien kurzzeitvermietet wird, eine Nummer aus einem neuen elektronischen Register tragen. „Wer keine Nummer hat, darf nicht inserieren“, berichtet ORF Wien am 20. Oktober unter dem Titel „Landtag beschloss neue AirBnB-Regeln“. Wer schon heute vermietet, hat bis Ende März 2027 Zeit; ab April droht ohne Registrierung das Aus. Die Nummer gilt auch unter 90 Tagen Vermietung im Jahr (DFZ, Kosmo). Plattformen sollen laut Stadt und DFZ stichprobenartig kontrollieren, unzulässige Inserate entfernen und den Magistrat informieren. Die Registrierung ist kein Automatismus: Die Stadt prüft vorher, ob Gründe gegen die Kurzzeitvermietung sprechen (Kosmo).\n\nDazu kommen schärfere Regeln für Umwidmungen: Mindestens 80 Prozent der Nutzfläche eines Gebäudes müssen Wohnzwecken dienen. Für Verstöße gegen das Registergesetz nennt die Stadt Strafen bis 50.000 Euro; für wiederholte Verstöße gegen die Bauordnung eine Mindeststrafe von 2.000 Euro. Ob die 90-Tage-Regel von 2024 unverändert bleibt, ist offen: ORF schreibt das, DFZ und Kosmo melden eine engere Ausnahme für private Vermieter.\n\nDie Quellen widersprechen sich im Detail. Die Seite der Stadt Wien spricht noch von einem Beschluss „im November 2026“, die Floridsdorfer Zeitung vom 20. Oktober nur von einem Ausschussbeschluss. ORF Wien und Kosmo melden den Landtagsbeschluss, wobei Kosmo die Stimmen von SPÖ, NEOS, FPÖ und Grünen nennt, also genau das Ausschussvotum laut DFZ. Gesetzestext und Landesgesetzblatt hat die Redaktion nicht gesehen. Für den Stichtag der Rückwirkung bei Umwidmungen nennt die Stadt „seit dem Sommer 2026“, ORF den 10. Oktober, die DFZ den 11. Oktober. Der Verband der Apartmentvermieter bestreitet Ludwigs Begründung, Umwidmungen umgingen Regeln.",
+   "from_memory": null,
+   "stat": "31.3.2027 Ende der Übergangsfrist für bestehende Gastgeber (Stadt Wien, ORF)",
+   "my_read": "Für Elev8-Kunden mit Wiener Objekten wird die Registrierungsnummer ab 2027 ein Pflichtfeld je Inserat und Kanal; fehlt sie Ende März, verschwindet das Inserat bei den Plattformen. Weil die Stadt vor der Vergabe prüft, ist die Nummer nicht nur eine Formalie: Objekte ohne Bewilligung können ganz aus dem Angebot fallen. Einschätzung der Redaktion: Das Muster mit Registernummer, Plattformkontrolle und Löschpflicht ist dasselbe, das die EU-Verordnung zu Kurzzeitvermietungsdaten vorsieht, und dürfte in weiteren Städten folgen.",
+   "sources": [
+    "Stadt Wien",
+    "ORF Wien",
+    "DFZ",
+    "Kosmo"
+   ],
+   "score": {
+    "impact": 3,
+    "novelty": 2,
+    "origins": 3,
+    "depth": 0,
+    "total": 8
+   }
+  },
+  {
+   "kicker": "Plattformen · Regulierung EU",
+   "headline": "Brüssel prüft Booking.com nach dem DSA",
+   "deck": "Die EU-Kommission hat am 21. Oktober ein förmliches Verfahren eröffnet: Betrugsinserate, Phishing mit Buchungsdaten und bezahlte Platzierungen ohne Werbekennzeichnung.",
+   "body": "Die EU-Kommission prüft, ob Booking.com gegen den Digital Services Act verstößt. Sie hat am 21. Oktober ein förmliches Verfahren eröffnet, laut The Next Web das erste dieser Art gegen die Plattform. Es geht um drei Punkte: betrügerische und nicht regelkonforme Inserate, Phishing, das Buchungs- und Gästedaten ausnutzt, und bezahlte Ranking-Boosts, die nicht klar als Werbung gekennzeichnet sind.\n\nDie Kommission kann vorläufige Maßnahmen verhängen, einen Verstoß feststellen oder Zusagen von Booking.com verbindlich machen. Bußgelder können bis zu 6 Prozent des weltweiten Jahresumsatzes erreichen; eine Frist gibt es nicht (The Next Web). Booking.com sagt, es kooperiere vollständig (PhocusWire). Henna Virkkunen, Exekutiv-Vizepräsidentin der Kommission für technologische Souveränität, Sicherheit und Demokratie, wird zitiert: „Europeans should be able to book their holidays without fear of being scammed“ (PhocusWire, The Next Web).\n\nPhocusWire erinnert an einen Datenvorfall im April, bei dem Unbefugte auf Reservierungsdaten zugriffen; einen Zusammenhang mit dem Verfahren stellt die Redaktion her, nicht die Quelle. Booking.com ist seit April 2023 als sehr große Online-Plattform eingestuft. Die Quellen sind eine Kurzmitteilung der Kommission und zwei Fachmedien; eine Gegenposition jenseits von Bookings Kooperationserklärung fand sich nicht.",
+   "from_memory": null,
+   "stat": null,
+   "my_read": "Zwei der drei Punkte betreffen die Wege, über die Gastgeber und ihre Software mit Booking.com arbeiten: Inseratsprüfung und die Weitergabe von Buchungs- und Gästedaten an Gastgeber samt Messaging. Bietet Booking.com Zusagen an, um das Verfahren zu beenden, dürften sie genau dort ansetzen; mehr Verifikation von Inseraten und Einschränkungen im Nachrichtenkanal wären die naheliegenden Folgen für PMS wie Elev8. Das ist eine Einschätzung, keine Ankündigung. Ob der dritte Punkt, bezahlte Platzierungen, auch Gastgeber-Programme wie Visibility Booster trifft, sagen die Quellen nicht.",
+   "sources": [
+    "EU-Kommission",
+    "PhocusWire",
+    "The Next Web"
+   ],
+   "score": {
+    "impact": 3,
+    "novelty": 2,
+    "origins": 3,
+    "depth": 0,
+    "total": 8
+   }
+  }
+ ],
+ "in_brief": [
+  {
+   "kicker": "Plattformen · Airbnb",
+   "headline": "Airbnb steigert den Umsatz um 19 Prozent und plant den KI-Agenten für 2027",
+   "text": "Airbnb meldet für das dritte Quartal 4,9 Milliarden Dollar Umsatz (+19 Prozent) und hebt die Jahresprognose auf ein Wachstum im hohen Zehnerbereich; dazu kommen bis zu 12 Milliarden Dollar Aktienrückkauf. Den KI-Reiseagenten für Gäste will Airbnb im ersten Halbjahr 2027 ausrollen; gesponserte Inserate sollen erst danach kommen. Rund 40 Prozent der Support-Fälle löst Airbnb bereits ohne Menschen.",
+   "sources": [
+    "Airbnb",
+    "PhocusWire"
+   ]
+  },
+  {
+   "kicker": "KI im Gästeservice",
+   "headline": "KI-Antworten bei PMS: viel Entwurf, wenig Standard",
+   "text": "Ein Blick auf die fünf großen PMS zeigt: Hospitable automatisiert Gästenachrichten laut Vergleichsseiten von Wettbewerbern voll nur im teuersten Plan Mogul, Lodgify bietet einen KI-Schreibassistenten für Entwürfe und testet einen „AI Co-Host“ in Early Access, Smoobu nennt auf seinem Blog nur KI-Übersetzung. Für Hostaway und Guesty fanden sich in den gelesenen Quellen nur Angaben von Konkurrenten. Guesty hat sein Einsteigerprodukt „Guesty For Hosts“ per 31. Mai 2026 eingestellt (Recal).",
+   "sources": [
+    "Smoobu",
+    "Lodgify",
+    "Conduit",
+    "Recal"
+   ]
+  }
+ ],
+ "theses": [
+  {
+   "name": "KI-Gästeservice wird Standard",
+   "p": 0.6,
+   "prev": 0.7,
+   "why": "Keiner der fünf Anbieter bietet KI-Antworten nachweislich im Standardplan an."
+  },
+  {
+   "name": "PMS-Konsolidierung",
+   "p": 0.45,
+   "prev": 0.45,
+   "why": "Nichts Neues."
+  },
+  {
+   "name": "Bali-Registrierung greift",
+   "p": 0.4,
+   "prev": 0.4,
+   "why": "Nichts Neues mit Datum aus dieser Woche."
+  }
+ ],
+ "heard": [],
+ "letter": "Das ist die erste Ausgabe. Zwei Fragen: Ist die Mischung aus Plattformen und Regulierung richtig gewichtet, oder fehlt Ihnen etwas zu Bali und dem Schweizer Markt? Und soll „My read“ bei Elev8 konkreter werden, also auch Produktentscheide ansprechen?"
+}
