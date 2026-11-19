@@ -1,0 +1,110 @@
+{
+ "number": 2,
+ "date": "2026-11-19",
+ "url": "https://claude.ai/artifact/1K9BigbztoRRakTdiPQaHw",
+ "stories": [
+  {
+   "kicker": "Plattformen · Booking Holdings",
+   "headline": "Booking bündelt das B2B-Geschäft, Priceline bleibt laut Skift draussen",
+   "deck": "Ab Januar 2027 verkauft eine neue Booking Partner Division das Inventar von Booking.com und Agoda an Banken, Airlines und Reiseplattformen. Priceline fehlt, laut Skift wegen einer möglichen Klage der US-Behörde FTC.",
+   "body": "Booking Holdings hat am 18. November die Booking Partner Division angekündigt. Sie entsteht aus Booking.com Strategic Partnerships und Rocket Travel by Agoda und soll ab Januar 2027 operativ sein (Pressemitteilung; TNW und Quartz geben sie wieder). Kunden sind Banken, Finanzinstitute, Airlines, Online-Reisebüros, Travel-Tech-Plattformen, Affiliates und Publisher. Sie bekommen White-Label-Seiten, API-Zugang, Markenangebote und Hotelketten-Raten. Das Portfolio: über 4,7 Millionen Unterkünfte, über 33 Millionen Inserate, mehr als 500 Airlines und über 200 Autovermieter.\n\nChef wird Omri Morgenshtern, der Agoda-CEO bleibt und die Division von New York aus führt (Skift). Laut CNBC, zitiert von TNW und Quartz, schätzt er den adressierbaren Markt auf rund 2 Billionen Dollar und plant einen KI-Agenten für Partner, ohne Termin. Umsatz- oder Gewinnziele nannte er nicht.\n\nWas die Pressemitteilung nicht sagt, berichtet allein Skift: Ursprünglich sollte auch das Priceline Partner Network in die Division. Wegen einer möglichen Klage der FTC gegen Priceline bleibt es nun getrennt; Morgenshtern sprach von „operational complexities“. Booking verbuchte im dritten Quartal eine Belastung von 1 Milliarde Dollar wegen der möglichen FTC-Klage. Es geht laut Skift um Vorwürfe zu Offenlegung, Gebühren, Kundendienst und Abrechnung.",
+   "from_memory": "Am 21. Oktober 2026 eröffnete die EU-Kommission ein förmliches DSA-Verfahren gegen Booking.com wegen betrügerischer Inserate, Phishing mit Buchungsdaten und nicht gekennzeichneter bezahlter Platzierungen (EU-Kommission, PhocusWire; gemeldet in der Ausgabe vom 18. November). Brüssel ermittelt also förmlich, in den USA droht eine FTC-Klage gegen Priceline.",
+   "stat": "4,7 Mio. Unterkünfte im Portfolio der neuen Division, dazu über 33 Mio. Inserate (Booking Holdings)",
+   "my_read": "Die Division verkauft Nachfrage weiter: Inventar geht per White Label und API an Banken, Airlines und Reiseportale. Zur Anbindung der Anbieterseite, über die ein Channel Manager wie Elev8 Inserate zu Booking.com überträgt, sagen die Quellen nichts, weder Änderungen noch Bestandsschutz. Wenn die Division auch Ferienwohnungen weiterverkauft, und keine Quelle schliesst sie aus den 33 Millionen Inseraten aus, erreichen Elev8-Kunden über Booking mehr Wiederverkaufskanäle. Ob daraus neue Raten- oder Inhaltsanforderungen für Anbieter folgen, ist offen. Zu beobachten ist, ob Booking die B2B-Zahlen künftig separat ausweist, wie Skift erwartet. Dann wird messbar, wie gross dieser Kanal ist. Die FTC-Belastung von 1 Milliarde Dollar betrifft Priceline und die USA. Sie zeigt aber, wie teuer Gebühren- und Preisangaben werden können, und das könnte auch Inserate mit separat ausgewiesenen Reinigungs- und Servicegebühren betreffen.",
+   "sources": [
+    "https://www.prnewswire.com/news-releases/booking-holdings-stellt-die-booking-partner-division-vor-um-innovationen-im-b2b-reisesektor-voranzutreiben-302941968.html",
+    "https://skift.com/2026/11/18/booking-holdings-leaves-priceline-out-of-b2b-unit-amid-ftc-scrutiny/",
+    "https://thenextweb.com/news/booking-holdings-merges-its-b2b-travel-units-into-a-new-partner-division",
+    "https://qz.com/booking-holdings-partner-division-b2b-travel-agoda-111826"
+   ],
+   "score": {
+    "impact": 2,
+    "novelty": 3,
+    "origins": 3,
+    "depth": 1,
+    "total": 9
+   }
+  },
+  {
+   "kicker": "Regulierung · Bali",
+   "headline": "Bali setzt auf die Plattformen als Lizenzkontrolle",
+   "deck": "Jakarta drohte rund 1600 unlizenzierten Unterkünften mit der Löschung von Airbnb, Booking.com, Agoda und Tiket.com. Laut Gouverneur Koster haben 2025 und 2026 rund 5000 Villenbetriebe eine Lizenz beantragt. Die Zeitung trägt diese Entwicklung heute nach.",
+   "body": "Die Fakten sind nicht von heute, aber neu in dieser Zeitung, und sie betreffen Elev8s Heimmarkt direkt. Am 26. Mai 2026 kündigte Tourismusministerin Widianti Putri Wardhana in Jakarta an, dass rund 1600 unlizenzierte Unterkünfte ab 1. August von Agoda, Booking.com, Airbnb und Tiket.com entfernt werden (Kanal Bali). Vier Tage später schwächte Vizeministerin Ni Luh Puspa an der Bali & Beyond Travel Fair ab: Das Ministerium lösche nichts selbst und schliesse keine Villen. Es verlange von den Plattformen, dass jeder Anbieter eine Geschäftsnummer (NIB) und die nötigen Bewilligungen hat. Die Frist wurde von März auf Mitte 2026 verschoben, und das Ministerium baut mit den Plattformen eine API zur Prüfung (detikBali, Kanal Bali).\n\nDie Provinz zog nach. Am 8. Mai empfing Koster die Plattformen in seiner Residenz Jayasabha mit zwei Forderungen: nur legale Betriebe listen und beim Einzug der Tourismusabgabe für ausländische Gäste helfen (Balinetizen). Am 21. September berichtete er dem Provinzparlament, acht grosse Plattformen, darunter Airbnb, Agoda und Booking.com, hätten zugesagt, nur noch lizenzierte Unterkünfte zu vermarkten. Plattformen, die weiter Unlizenzierte vermarkten, drohte er Sanktionen an. Die Kontrolle betreffe Badung, Denpasar, Gianyar und Tabanan; 2025 und 2026 hätten rund 5000 Betriebe eine Lizenz beantragt (IDN Times, Balinetizen). Schon im Januar hatte Koster angekündigt, die Plattformen schrittweise einzubinden (Merdeka). Alles stützt sich auf zwei Regierungsstellen, das Ministerium und den Gouverneur; eine Bestätigung der Plattformen oder eine unabhängige Zählung fand die Redaktion nicht. Ob die 1600 Inserate tatsächlich gelöscht wurden, sagt keine der gelesenen Quellen.",
+   "from_memory": "Am 18. November meldete die Zeitung, dass Wien mit dem Registergesetz, laut ORF Wien vom Landtag beschlossen, ab 1. Januar 2027 Plattformen wie Airbnb und Booking.com verpflichtet, Registrierungsnummern zu prüfen und ungültige Inserate zu entfernen (ORF Wien, Stadt Wien). Wien setzt dazu Bussen bis 50 000 Euro gegen Gastgeber; Bali hat von den Plattformen bisher Zusagen. Beide setzen beim selben Hebel an: der Plattform.",
+   "stat": "5000 Villenbetriebe haben 2025–2026 eine Lizenz beantragt, sagte Gouverneur Wayan Koster am 21. September (IDN Times, Balinetizen)",
+   "my_read": "Wenn die Plattformen ihre Zusage einlösen, wird die Lizenz in Bali zum Pflichtfeld des Inserats. Ein Objekt ohne NIB riskiert dann, nicht mehr ausgespielt zu werden, unabhängig davon, ob eine Behörde je kontrolliert. Für Kunden ohne Lizenz verschiebt sich das Risiko von einer Busse zum Umsatzausfall. Für ein PMS wird die Lizenznummer damit zu Objektdaten, die die Kanäle verlangen können, wie in Wien ab Januar. Offen ist, wie streng die Plattformen prüfen: Jakarta setzt auf eine API und Mitwirkung, nicht auf Schliessungen. Die These „Bali-Registrierung greift“ steigt von 40 auf 70 Prozent. Diese Massnahmen liegen allerdings vor dem 18. November, dem Tag, an dem die These eröffnet wurde. Sie zeigen, dass die Behörden handeln, erfüllen die These aber nicht nachträglich. Ihre Bedingung wird am Samstag präzisiert.",
+   "sources": [
+    "https://kanalbali.id/terancam-dihapus-dari-platform-online-ribuan-vila-ilegal-di-bali-diminta-urus-izin/",
+    "https://www.detik.com/bali/bisnis/d-8511410/kemenpar-ogah-tutup-vila-ilegal-di-bali-akan-dampingi-urus-izin",
+    "https://bali.idntimes.com/news/bali/5-ribu-vila-di-bali-ajukan-izin-usai-penertiban-online-travel-agent-00-pfsg1-ck7vhz",
+    "https://www.balinetizen.com/penertiban-ota-dorong-5-000-villa-di-bali-mengurus-legalitas-usaha/",
+    "https://www.merdeka.com/uang/penertiban-akomodasi-ilegal-bali-gubernur-koster-kumpulkan-ota-untuk-tata-ulang-pariwisata-516507-mvk.html"
+   ],
+   "score": {
+    "impact": 3,
+    "novelty": 2,
+    "origins": 3,
+    "depth": 1,
+    "total": 9
+   }
+  }
+ ],
+ "in_brief": [
+  {
+   "kicker": "Plattformen · Airbnb",
+   "headline": "Airbnb wirbt Hotels mit einem Seitenhieb auf Booking",
+   "text": "Lou Zameryka, bei Airbnb Global Head of Hotel Enterprise and Connectivity Partnerships, sagte Skift am 18. November nach seinem Auftritt an der Phocuswright: „Booking is not hotel-centric.“ Airbnb sei um Aufenthalte herum gebaut. Das ist Airbnbs eigene Verkaufsbotschaft, und bisher berichtet sie nur Skift (hinter der Paywall). Im September zählte AirDNA 3939 Hotels im neuen Hotel-Inserateformat; Chesky nannte Hotels damals noch einen einstelligen Prozentanteil der Nächte (Skift, 21. September).",
+   "sources": [
+    "Skift",
+    "Skift"
+   ]
+  },
+  {
+   "kicker": "Plattformen · Vrbo",
+   "headline": "Vrbo stellt ab 29. Oktober auf 12 Prozent für alle um",
+   "text": "Vrbo kündigte am 29. September an, Gastgeber und Verwalter ab 29. Oktober auf eine einheitliche Kommission von 12 Prozent umzustellen. Bisher zahlten über ein PMS angebundene Verwalter 5 Prozent, Gastgeber ohne PMS 8 Prozent (Skift, 29. September). Laut AirDNA laufen weltweit rund 55 Prozent der Vrbo-Inserate über ein PMS. Für sie steigt die Provision auf mehr als das Doppelte. Ob die Gästegebühr von 11–14 Prozent sinkt, ist nicht bestätigt; ob die Umstellung wie angekündigt in Kraft trat, konnte die Redaktion nicht prüfen, die Vrbo-Mitteilung war nicht abrufbar.",
+   "sources": [
+    "Skift"
+   ]
+  },
+  {
+   "kicker": "KI · Vertrieb",
+   "headline": "Analysten: KI-Buchungsagenten treffen Expedia am härtesten, Airbnb am wenigsten",
+   "text": "Citizens testete in einem Bericht vom 15. November die Buchungsagenten Instinct und Metas Muse, fand sie „underwhelming“ und stuft Expedia als am stärksten exponiert ein, dann Booking Holdings; Airbnb sei am besten geschützt (laut Skift-Kolumne von Rafat Ali). Airbnb will den eigenen KI-Agenten laut eigenem Quartalsbericht vom 5. November im ersten Halbjahr 2027 ausrollen.",
+   "sources": [
+    "Skift",
+    "Airbnb"
+   ]
+  },
+  {
+   "kicker": "KI · Gästeservice",
+   "headline": "HostBuddy AI verbindet Haustier-Prüfung mit dem Gästechat",
+   "text": "PetScreening und der KI-Messaging-Anbieter HostBuddy AI haben am 12. November eine Integration angekündigt. Gäste werden im Chat automatisch durch die Prüfung von Haustieren und Assistenztieren geführt, und Updates gehen über Action Items, Slack, E-Mail, SMS oder WhatsApp an den Gastgeber. Die Zahl „24 Prozent mehr Umsatz pro Buchung“ für tierfreundliche Inserate nennt die Mitteilung ohne Quelle.",
+   "sources": [
+    "PR Newswire (Unternehmensmitteilung)"
+   ]
+  }
+ ],
+ "theses": [
+  {
+   "name": "Bali-Registrierung greift",
+   "p": 0.7,
+   "prev": 0.4,
+   "why": "Jakarta setzte Plattformen eine Löschfrist, acht Plattformen sagten zu, nur Lizenzierte zu listen."
+  },
+  {
+   "name": "KI-Gästeservice wird Standard",
+   "p": 0.6,
+   "prev": 0.6,
+   "why": "Nichts Neues von den fünf grossen Anbietern."
+  },
+  {
+   "name": "PMS-Konsolidierung",
+   "p": 0.45,
+   "prev": 0.45,
+   "why": "Keine neue Übernahme gefunden."
+  }
+ ],
+ "heard": [],
+ "letter": "Heute steht Bali auf Seite 2, obwohl die Fakten aus Mai bis September stammen: Die Zeitung hatte sie bisher nicht. Ist so ein Nachtrag nützlich, oder soll Bali nur mit frischen Meldungen kommen? Und soll die Zeitung indonesische Quellen wie detikBali und IDN Times Bali regelmässig lesen?"
+}

@@ -1,0 +1,172 @@
+{
+ "date": "2026-11-19",
+ "kind": "issue",
+ "start": "2026-11-19T03:45:00Z",
+ "end": "2026-11-19T04:15:22Z",
+ "environment_cached": false,
+ "environment": "pymupdf/playwright/faster_whisper missing again; ran engine/tools/env_setup.sh (ok, ~4 min). Embedding model present in model/.",
+ "engine": "git submodule update --init engine (first try), pinned 90096e6",
+ "branch": "Pushed to claude/eager-volta-tpsko4 as the session's git policy requires (RUN.md says main; previous run did the same).",
+ "headless_browser": "available; used for airbnb-help and lodgify-blog listings; rescued no article (Tempo 403, Phocuswright 403, rentalscaleup 403, Expedia newsroom 429)",
+ "late": "no: run started 04:45 Zurich",
+ "sources_read": 14,
+ "sources_failed": [],
+ "sources_note": "8 sources set baselines (undated backlog dropped). Ranked list dominated by ORF Wien and DFZ local news (Vienna city news, off-beat): both were added for one WKVRG story and are noise as daily sources; candidates for demotion on dreaming day. Skift gave the 3 relevant items. Core 8 sources from sources.json were not due.",
+ "replies": "none new",
+ "searches": [
+  "Airbnb hosts news 19 Nov",
+  "Booking.com partners Nov 2026",
+  "Kurzzeitvermietung Gesetz CH/DE Nov 2026",
+  "Bali villa licence crackdown Nov 2026",
+  "PMS funding/acquisition Nov 2026",
+  "PriceLabs/Wheelhouse/Hostaway/Guesty Nov 2026",
+  "AI guest messaging launch Nov 2026",
+  "Airbnb hotels Skift 18 Nov",
+  "Bali Badung Nov 2026",
+  "EU 2024/1028 Nov 2026",
+  "Expedia Vrbo hosts Nov 2026",
+  "Tribunal Supremo registro único (Spain; result: ruling of 19 May 2026, old)",
+  "Lou Zameryka Phocuswright (corroboration)",
+  "Bali vila ilegal OTA penertiban (Indonesian)"
+ ],
+ "reporter_batches": [
+  {
+   "name": "A Booking Partner Division",
+   "articles": 4,
+   "skips": "none; PR text mojibake, quotes stored as fetched"
+  },
+  {
+   "name": "B Airbnb hotels / AI agents",
+   "articles": 3,
+   "skips": "Phocuswright speaker page 403; all Skift pages paywalled (450-1076 chars)"
+  },
+  {
+   "name": "C Vrbo / HostBuddy",
+   "articles": 3,
+   "skips": "Expedia newsroom 429 x3; rentalscaleup 403; Skift Vrbo paywalled"
+  },
+  {
+   "name": "D Bali OTA enforcement",
+   "articles": 5,
+   "skips": "none; Merdeka date (2026-01-04) may be the Antara original date"
+  }
+ ],
+ "editor_reads": [
+  "Tempo Bali article: 403"
+ ],
+ "candidates": [
+  {
+   "name": "Booking Partner Division, Priceline out",
+   "impact": 2,
+   "novelty": 3,
+   "origins": 3,
+   "depth": 1,
+   "total": 9,
+   "corroboration": "press release (primary=2), Skift, TNW and Quartz (both relay CNBC, counted once)",
+   "result": "story 1"
+  },
+  {
+   "name": "Bali: OTAs as licence enforcement (May-Sept 2026)",
+   "impact": 3,
+   "novelty": 2,
+   "origins": 3,
+   "depth": 1,
+   "total": 9,
+   "corroboration": "Kanal Bali, detikBali, IDN Times, Balinetizen, Merdeka; old developments new to the paper, said so",
+   "result": "story 2"
+  },
+  {
+   "name": "Airbnb pitches hotels vs Booking",
+   "impact": 2,
+   "novelty": 3,
+   "origins": 0,
+   "depth": 2,
+   "total": 7,
+   "corroboration": "searched Zameryka/Phocuswright: only the speaker page (403), no second outlet for the claim",
+   "result": "in brief"
+  },
+  {
+   "name": "Vrbo flat 12% since 29 Oct",
+   "impact": 2,
+   "novelty": 1,
+   "origins": 0,
+   "depth": 1,
+   "total": 4,
+   "corroboration": "Expedia newsroom unreadable (429)",
+   "result": "in brief"
+  },
+  {
+   "name": "Citizens: AI agents exposure ranking",
+   "impact": 1,
+   "novelty": 3,
+   "origins": 0,
+   "depth": 1,
+   "total": 5,
+   "result": "in brief"
+  },
+  {
+   "name": "HostBuddy AI + PetScreening",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 1,
+   "depth": 0,
+   "total": 4,
+   "result": "in brief"
+  },
+  {
+   "name": "Spain Supreme Court annuls national STR registry",
+   "impact": 2,
+   "novelty": 0,
+   "origins": 3,
+   "depth": 0,
+   "total": 5,
+   "result": "dropped: ruling of 19 May 2026, not news"
+  },
+  {
+   "name": "Airbnb house rules effective 20 Nov",
+   "result": "dropped: printed 18 Nov, no new development"
+  }
+ ],
+ "patterns": "none",
+ "dossiers": {
+  "story 1": [
+   "company:booking-partner-division",
+   "company:priceline",
+   "company:booking-com"
+  ],
+  "story 2": [
+   "policy:bali-ota-unlicensed-listing-crackdown",
+   "regulator:kemenpar",
+   "person:wayan-koster",
+   "policy:wkvrg"
+  ]
+ },
+ "from_the_memory": {
+  "story 1": "e:1ef1a2382b6d5cb6 (EU DSA proceedings vs Booking.com, 21 Oct 2026, in graph since 18 Nov)",
+  "story 2": "e:a2302a4997fe1487 (WKVRG platform duty, in graph since 18 Nov)"
+ },
+ "desk_check": "Fixed: '1 Mrd Rückstellung/FTC-Verfahren' -> 'Belastung wegen möglicher FTC-Klage'; Priceline exclusion attributed to Skift in headline/deck; TNW/Quartz 'geben wieder' (not independent confirmation); DSA memory line no longer claims 'Transparenz in beiden Fällen'; Bali headline softened ('setzt auf'), '5000 seither' -> '2025 und 2026', two government origins and no platform confirmation stated, Koster sanctions added, Merdeka cited; Wien memory: 'laut ORF beschlossen', fines vs pledges; My read Bali recast as finding and thesis-timing caveat made explicit; in brief: Vrbo 'ab 29. Oktober angekündigt', AirDNA 'weltweit', RedAwning tag dropped, Airbnb AI-agent claim sourced to Airbnb Q3 release, Action Items added. Lead headline changed only in attribution, desk check not re-run.",
+ "rival_read": "Held up: My read of story 1 asserted 'no change at the connectivity interface' and 'no extra contract' without evidence, and stretched the FTC point. Rewritten: sources silent on supply-side connectivity; resale reach conditional; FTC point softened to 'könnte'.",
+ "grounding_refusals": "none reported by reporters",
+ "theses": [
+  {
+   "name": "Bali-Registrierung greift",
+   "from": 0.4,
+   "to": 0.7,
+   "why": "Kemenpar removal deadline 1 Aug 2026 for ~1600 listings on named OTAs; 8 OTAs agreed to list only licensed (Koster, 21 Sep). Thesis is ill-formed: its condition was already met before it was opened (18 Nov). Rephrase on dreaming day (e.g. a NEW measure after 18 Nov, or actual delisting numbers)."
+  }
+ ],
+ "signals": "none published; none open",
+ "rules_counted": "no rules exist yet",
+ "problems": [
+  "Environment unprepared again (second run in a row): every run pays ~4 min for env_setup.sh",
+  "Skift paywall: only the first 450-1076 chars readable; Skift-only claims stay in brief",
+  "Expedia newsroom HTTP 429"
+ ],
+ "engine_issues": [
+  "fetch.py article returned mojibake (UTF-8 read as Latin-1) for the German PR Newswire release; quotes had to be stored in mojibake form to pass the grounding check"
+ ],
+ "differently": "Add Indonesian Bali sources (detikBali, IDN Times Bali, Kanal Bali) to the registry if the reader agrees; demote ORF Wien and DFZ to avoid noise in the ranking.",
+ "origins_note": "Bali story origins: Kemenpar statements (Kanal Bali, detikBali) and Koster statements (IDN Times, Balinetizen) are two origins -> origins 1, total 7; published as story 2 under min_stories with the single-government-source caveat in the text.",
+ "published": "2026-11-19 ~05:16 Zurich, artifact version 2 (first publish attempt refused because the session had not viewed yesterday's live version; republished unchanged as the daily replacement)"
+}
