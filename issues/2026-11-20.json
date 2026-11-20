@@ -1,0 +1,94 @@
+{
+ "number": 3,
+ "date": "2026-11-20",
+ "url": "https://claude.ai/artifact/1K9BigbztoRRakTdiPQaHw",
+ "stories": [
+  {
+   "kicker": "Plattformen · Airbnb",
+   "headline": "Airbnbs Hausregeln gelten ab heute, und die Check-out-Anweisungen verschwinden aus dem Editor",
+   "deck": "Fristen und Sanktionen standen am Mittwoch hier. Neu ist Airbnbs eigene Gastgeberseite: Sie zeigt, was sich im Inserat technisch ändert.",
+   "body": "Für Buchungen ab heute, 20. November, gilt Airbnbs neue Hausregel-Richtlinie. Die BBC meldet am Freitag, Airbnb habe mit der Prüfung der Inserate begonnen. Die Fristen (mindestens 20 Tage, ein Einspruch, erste Prüfwelle bis März 2027) standen am Mittwoch in dieser Zeitung.\n\nNeu ist, was Airbnbs undatierte Ressourcenseite für Gastgeber festhält. Erstens: „Der Abschnitt mit den Anweisungen für den Check-out wurde aus dem Inserate-Editor entfernt.“ Abschließen ist jetzt eine der sieben Standardregeln; weitere Check-out-Hinweise, etwa Geräte ausschalten, können als „Zusätzliche Regeln“ unter „Vor dem Check-out“ erneut hinzugefügt werden. Zweitens: Verträge sind nur in wenigen Fällen zulässig (Gesetz, Versicherung, Eigentümergemeinschaft, Langzeitaufenthalt, Airbnb Luxe, optionale Ausstattung) und müssen in den Inseratseinstellungen hochgeladen werden; Airbnb setzt sie nicht durch. Drittens: Die Grenzen sind konkret. Geschirr in die Spüle stellen ja, spülen nein; Handtücher einsammeln ja, Betten abziehen nein; Müll im Haus trennen ja, außer Haus bringen nein.\n\nDie Gastgeber-Perspektive kommt von BBC und Frommer’s: Gastgeber sagen, sie könnten Reinigungskosten an die Gäste weitergeben. Die BBC nennt als Hintergrund des Ärgers Airbnbs Provisionserhöhungen „im letzten Jahr“, ohne Größenordnung, und Gastgeber, die in eigene Direktbuchungsseiten investieren. Die Aussagen zum Editor stützen sich allein auf Airbnbs Seite.",
+   "from_memory": "Am 28. Oktober berichtete Fortune, einige Gastgeber planten für heute, den Tag des Inkrafttretens, einen Buchungsstopp. Ob er stattfindet und wie groß er ist, belegt bis Redaktionsschluss keine gelesene Quelle.",
+   "stat": "7Standard-Hausregeln im Inserate-Editor; alles andere läuft als „Zusätzliche Regeln“ (Airbnb)",
+   "my_read": "Für Elev8 ist die offene Frage technisch: Was passiert mit Check-out-Anweisungen, die ein PMS bisher über die Schnittstelle in das entfernte Editorfeld geschrieben hat? Keine gelesene Quelle sagt, ob Airbnb sie automatisch zu „Zusätzlichen Regeln“ macht oder ob sie neu erfasst werden müssen. Inhalt geht laut Airbnb nicht verloren, er muss aber am richtigen Ort stehen, und dafür gibt es mindestens 20 Tage. Die Prüfung trifft Verwalter mit vielen Inseraten am stärksten, weil jede Beanstandung einzeln per E-Mail kommt; ein Hinweis auf der Inseratsseite droht erst, wenn eine abgelehnte Regel stehen bleibt.",
+   "sources": [
+    "Airbnb",
+    "BBC",
+    "Frommer’s",
+    "Fortune"
+   ],
+   "score": {
+    "impact": 3,
+    "novelty": 1,
+    "origins": 2,
+    "depth": 2,
+    "total": 8
+   }
+  },
+  {
+   "kicker": "Plattformen · Airbnb gegen Booking.com",
+   "headline": "Airbnb holt Booking-Leute und wirbt um Hotels",
+   "deck": "Den Seitenhieb auf Booking.com meldete diese Zeitung am Donnerstag. Neu ist, wer Airbnbs Hotelgeschäft führt: zwei Manager mit langer Booking-Vergangenheit.",
+   "body": "Am Donnerstag stand hier Lou Zamerykas Satz von der Phocuswright, Booking sei „not hotel-centric“ (Skift, 18. November). Zameryka ist bei Airbnb globaler Leiter für Hotel-Enterprise- und Connectivity-Partnerschaften. Hotel Dive (16. November) und Tageskarte (9. November) zeigen, wer hinter dem Angriff steht.\n\nPepijn Rijvers ist seit September Chief Business Officer und verantwortet Homes, Hotels und internationale Expansion; er führte früher bei Booking.com das Unterkunftsgeschäft und kam zuletzt von Tripadvisor (Hotel Dive, Tageskarte, Airbnb-Mitteilung). Andrea D’Amico, seit Juni Vizepräsident Hotels, war laut Hotel Dive über 18 Jahre bei Booking.com; er nennt franchisierte und Markenhotels als wahrscheinlich nächsten Schritt. Im dritten Quartal schloss Airbnb einen Vertrag mit Lark Hotels über mehr als 75 Häuser.\n\nWo die Quellen auseinandergehen: Chesky erwartet laut Hotel Dive „multiple billions“ Hotelumsatz in den kommenden Jahren; beide Berichte stützen sich auf den Analystencall vom 5. November, und Tageskarte hält fest, dass er dafür weder Zeitplan noch formelle Prognose nannte. Zu Provisionen und Konditionen für Hotels hat Airbnb nichts veröffentlicht. Die Perspektive ist durchweg die von Airbnb und der Hotelpresse; eine Stimme von Booking.com fand sich nicht.",
+   "from_memory": "Airbnbs Q3-Mitteilung vom 5. November, im Archiv seit Mittwoch: Hotels machen „a single-digit percentage of total nights booked“ aus, aber rund 35 Prozent der Gäste, deren erste Airbnb-Buchung ein Hotel ist, „return to book a home“. Im September zählte AirDNA laut Skift 3939 Hotels im neuen Hotelformat (gemeldet am Donnerstag). Hotels sind für Airbnb ein Zubringer für das Kerngeschäft.",
+   "stat": "60+Destinationen mit Boutique- und unabhängigen Hotels auf Airbnb (Airbnb, Q3-Brief vom 5. November)",
+   "my_read": "Für Ferienwohnungen ist das zunächst eine Angebotsfrage: Jede Hotelzimmer-Nacht im Airbnb-Suchergebnis konkurriert mit einem Inserat von Elev8-Kunden. Dass Airbnb ehemalige Booking-Manager einsetzt, spricht dafür, dass auch Hotel-Konnektivität (Channel-Manager-Anbindung) ausgebaut wird; das wäre für ein PMS mit Hotel- oder Boutique-Kunden der relevante Punkt. Belegt ist das in den gelesenen Quellen nur über Zamerykas Titel. Die Konditionen sind der Prüfstein: Solange sie unbekannt sind, bleibt offen, ob Airbnb über den Preis oder über Reichweite angreift.",
+   "sources": [
+    "Hotel Dive",
+    "Tageskarte",
+    "Airbnb",
+    "Skift"
+   ],
+   "score": {
+    "impact": 2,
+    "novelty": 1,
+    "origins": 2,
+    "depth": 2,
+    "total": 7
+   }
+  }
+ ],
+ "in_brief": [
+  {
+   "kicker": "Regulierung · Wien",
+   "headline": "Wiener Register: Start hängt an einer Bundesschnittstelle",
+   "text": "Nachtrag zu Mittwoch: Laut Landtagsprotokoll und Vienna.at fiel der Beschluss zum Kurzzeitvermietungsregistergesetz am 20. Oktober, gegen die Stimmen der ÖVP, und nicht erst im November, wie die Stadt im September angekündigt hatte. Der geplante Start am 1. Januar 2027 (ORF) hängt laut Vienna.at noch an einer technischen Schnittstelle, die der Bund bereitstellen muss.",
+   "sources": [
+    "Wiener Landtag",
+    "Vienna.at",
+    "ORF Wien"
+   ]
+  },
+  {
+   "kicker": "Regulierung · Schweiz",
+   "headline": "Basel will Registrierung, Bern noch nicht",
+   "text": "Nachgetragen, weil die Zeitung im September noch nicht erschien: Der Basler Grosse Rat hat am 23. September eine Motion von Ivo Balmer (SP) für eine Registrierungspflicht vor Vermietungsbeginn mit 68 zu 24 Stimmen an die Regierung überwiesen; ein Gesetz ist das noch nicht. Auf Bundesebene verlangt die Motion 24.4165 (de Quattro) nur eine nationale Datenerhebung; der Nationalrat stimmte im Sommer zu und wies sie der Kommission zu; einen Entscheid des Ständerats fand die Redaktion nicht.",
+   "sources": [
+    "htr.ch / Keystone-SDA",
+    "HotellerieSuisse"
+   ]
+  }
+ ],
+ "theses": [
+  {
+   "name": "Bali-Registrierung greift",
+   "p": 0.7,
+   "prev": 0.7,
+   "why": "Seit Donnerstag nichts Neues mit Datum."
+  },
+  {
+   "name": "KI-Gästeservice wird Standard",
+   "p": 0.6,
+   "prev": 0.6,
+   "why": "Keine neue Standardplan-Funktion."
+  },
+  {
+   "name": "PMS-Konsolidierung",
+   "p": 0.45,
+   "prev": 0.45,
+   "why": "Keine Übernahme."
+  }
+ ],
+ "heard": [],
+ "letter": "Die Zeitung trägt heute die Basler Motion vom September nach, weil Schweizer Regeln für Sie zählen. Wollen Sie solche Nachträge, oder nur Neues seit der letzten Ausgabe? Und: Laufen die Check-out-Anweisungen Ihrer Kunden heute über das Airbnb-Editorfeld, das wegfällt? Ein Satz dazu hilft der Zeitung, das Thema richtig zu gewichten."
+}
