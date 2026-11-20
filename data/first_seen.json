@@ -1,1 +1,3165 @@
-{"https://digital-strategy.ec.europa.eu/en/activities/digital-programme":["baseline","2026-11-20","source:european-commission"],"https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy":["baseline","2026-11-20","source:european-commission"],"https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake":["baseline","2026-11-20","source:european-commission"],"https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal":["baseline","2026-11-20","source:european-commission"],"https://digital-strategy.ec.europa.eu/en/news/european-citizens-panel-deliver-recommendations-strengthening-eu-democracy":["baseline","2026-11-20","source:european-commission"],"https://digital-strategy.ec.europa.eu/en/news/first-european-standard-published-support-cyber-resilience-act":["baseline","2026-11-20","source:european-commission"],"https://digital-strategy.ec.europa.eu/en/newsletters":["baseline","2026-11-20","source:european-commission"],"https://digital-strategy.ec.europa.eu/en/policies/europes-digital-decade":["baseline","2026-11-20","source:european-commission"],"https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/15/sam-altman-openai-ai-safety-pause-trump-xi/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/26/how-social-media-is-changing-the-rare-watch-market-instagram-tiktok-watch-collecting/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/27/becoming-tim-cook-apple-ceo/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/28/how-ai-stock-market-concentration-could-put-401k-retirement-savings-at-risk/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/29/carrier-ai-strategy-agentic-ai-data-center-cooling/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/29/fortune-aiq-75-newcomers-pfizer-ups-cisco-ai-strategy/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/29/how-adobe-salesforce-kyndryl-freeport-use-ai-agents/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/29/how-banks-are-using-ai-agents-copilots-roi/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/29/how-netflix-is-using-ai-to-personalize-streaming/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/30/ceos-states-corporate-relocation-threats-paramount-coca-cola/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/09/30/nikesh-arora-palo-alto-networks-ceo-ai-cybersecurity-defense/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/10/13/workday-ceo-aneel-bhusri-unfinished-business/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/55-billion-dollars-ea-cofounder-bing-gordon-compared-make-or-break-interview-questions-with-amazon-ceo-andy-jassy-career-advice/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/ai-agents-trust-identity-agent-name-service-dns-godaddy-jared-sine/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/ai-leadership-test-workers-empathy-adecco-denis-machuel/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/ai-operating-model-build-consensus-ibm/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/anthropic-ipo-amazon-google-stake-windfall-nonvoting/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/anthropic-ipo-millionaire-employees-billionaire-early-hires-wealth-concentration-warning-dario-amodei/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/anthropic-ipo-sound-ventures-ashton-kutcher-7-billion-stake/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/anthropics-ipo-nets-goldman-sachs-and-morgan-stanley-113-million-apiece-in-fees-eclipsing-their-spacex-paydays/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/aws-marketplace-rolls-out-ai-agents-to-shop-for-software-autonomously/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/bill-ackman-nvidia-jensen-huang-reinstatement-board/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/china-greater-bay-area-finally-ready-hong-kong-shenzhen-macau/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/costco-generators-sold-out-britain-pentagon-prepare-apocalypse-insurance/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/elon-musk-not-maga-445-million-election-spending-midterms/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/employer-branding-rejection-emails-candidate-experience/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/gap-chief-entertainment-officer-pam-kaufman-explained/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/harvard-phone-ban-study-school-kids-learn-two-weeks/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/indonesia-china-investment-smart-cities-danantara/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/indonesia-needs-investor-confidence-for-growth/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/jeff-bezos-10-billion-climate-2030-earth-fund-amazon/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/maybank-pursuing-gradual-agentic-ai-rollout/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/midterms-ai-moratorium-pause-data-centers-hardwired-pause-david-krueger/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/nvidia-funding-deal-anthropic-ipo/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/nvidia-jensen-huang-downdall-investment-ai-boom/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/ollama-ceo-open-models-ai-security-enterprise-data-jeffrey-morgan/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/outlook-faa-chase-crashed-down-detector-outages-ai-agents-hack/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/poppi-founders-jetty-gatorade-hydration/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/series-a-funding-skyrocketed-2026-founders-arent-getting-more-chances/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/social-security-22-percent-cut-ron-johnson-stop-scaring-seniors-act-borrow-190-trillion-crfb/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/sunrun-overview-energy-ceos-grid-ai-energy/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/target-q3-booked-301-million-from-trump-tariff-refunds/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/trump-xi-putin-trade-war-shenzen/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/verizon-ceo-elon-musk-spacex-starlink-mobile-cost-300-billion-dollars/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/2026/11/19/what-california-regulators-want-from-waymo/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/article/current-arm-mortgage-rates-11-19-2026/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/article/current-mortgage-rates-11-19-2026/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/article/current-refi-mortgage-rates-11-19-2026/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/article/home-equity-rates-11-19-2026/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/article/price-of-oil-11-19-2026/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/ranking/best-small-workplaces-for-women/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/ranking/best-workplaces-for-women/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/ranking/best-workplaces-parents/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/ranking/worlds-best-workplaces/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/ranking/worlds-most-admired-companies/":["baseline","2026-11-20","source:fortune"],"https://fortune.com/topic/aiq":["baseline","2026-11-20","source:fortune"],"https://hello.pricelabs.co/blog/ai-branding-for-vacation-rentals/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/ai-integrations-vacation-rentals/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/ai-revenue-alerts-vacation-rentals/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/airbnb-analytics-to-improve-hosting/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/airbnb-investing-mistakes/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/airbnb-investing-risks/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/airbnb-launch/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/airbnb-listing-optimization-data/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/airbnb-prelaunch/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/airbnb-profit-margin/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/airbnb-property-buying/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/automated-database-backup-system/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/booking-curve-analysis-vacation-rental/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/christmas-new-year-2026-pricing/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/direct-bookings-future-short-term-rentals/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/dynamic-minimum-stay-rules/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/european-str-demand-accelerates-into-september/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/future-demand-vacation-rental/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/hotel-growth-operations-complete-guide/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/hotel-guest-experience-satisfaction/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/hotel-guest-satisfaction-survey-template/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/hotel-rate-shopping-tool/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/how-to-become-an-airbnb-host-the-complete-guide/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/improve-vacation-rental-reviews/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/listing-optimizer-the-faster-way-to-optimize-your-airbnb-listing-and-improve-your-search-ranking/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/lombardy-str-market/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/market-maturity-direct-bookings-hawaii-smokies/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/negative-reviews-explanation-to-owners/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/pricelabs-launches-athena-revenue-managers/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/revenue-accelerator-release/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/str-voices-professional-pm/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/str-voices-scaling-pm/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/thanksgiving-2026-pricing-plan/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/thanksgiving-2026-short-term-rental-data/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/the-canary-islands-str-market-trends/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/top-vacation-rental-amenities-boost-bookings/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/vacation-rental-comp-set-benchmarking-owners/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/vacation-rental-demand-trends-pivot-revenue-strategy/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/vacation-rental-market-analytics/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/vacation-rental-markets-opportunities/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/vacation-rental-mid-term-rentals-off-season-survival-guide/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/vacation-rental-profitability-metrics-beyond-revpar/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/vacation-rental-reporting-for-owners-vs-internal-teams/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/blog/vrbo-refund-policy/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/category/vacation-rental-automation/":["baseline","2026-11-18","source:pricelabs-blog"],"https://hello.pricelabs.co/revenue-estimator-api-widget/":["baseline","2026-11-18","source:pricelabs-blog"],"https://news.airbnb.com/2026-winter-travel-trends-revealed":["baseline","2026-11-18","source:airbnb-newsroom"],"https://news.airbnb.com/airbnb-contributes-100k-to-massachusetts-legalize-starter-homes-campaign":["baseline","2026-11-18","source:airbnb-newsroom"],"https://news.airbnb.com/airbnb-q3-2026-financial-results":["baseline","2026-11-18","source:airbnb-newsroom"],"https://news.airbnb.com/co-founder-and-ceo-brian-chesky-donates-historic-100m-gift-to-sf-parks":["baseline","2026-11-18","source:airbnb-newsroom"],"https://news.airbnb.com/expanding-access-to-openai-frontier-models-including-gpt-6-astra":["baseline","2026-11-18","source:airbnb-newsroom"],"https://news.airbnb.com/gen-z-is-driving-a-45-jump-in-halloween-weekend-searches":["baseline","2026-11-18","source:airbnb-newsroom"],"https://news.airbnb.com/introducing-one-of-a-kind-fan-experiences-for-fifa-world-cup-2026":["baseline","2026-11-18","source:airbnb-newsroom"],"https://news.airbnb.com/stay-at-mexico-city-stadium-with-hugo-sanchez-with-world-cup-tickets-including-tickets-to-the-opening-match-of-the-fifa-world-cup-2026":["baseline","2026-11-18","source:airbnb-newsroom"],"https://news.booking.com/bookingcom-2027-travel-predictions-reveal-the-ultimate-travel-flex/":["baseline","2026-11-18","source:booking-newsroom"],"https://news.booking.com/bookingcom-uncovers-trending-destinations-for-2027/":["baseline","2026-11-18","source:booking-newsroom"],"https://news.booking.com/bookingcoms-how-india-travels-2026-explores-the-rise-of-alternative-accommodations/":["baseline","2026-11-18","source:booking-newsroom"],"https://news.booking.com/en-us/":["baseline","2026-11-18","source:booking-newsroom"],"https://news.booking.com/es-co/":["baseline","2026-11-18","source:booking-newsroom"],"https://news.booking.com/es-mx/":["baseline","2026-11-18","source:booking-newsroom"],"https://news.booking.com/how-will-group-budgets-personalized-wellness--recovery-maxxing-shape-2027-guest-experiences/":["baseline","2026-11-18","source:booking-newsroom"],"https://news.booking.com/pt-br/":["baseline","2026-11-18","source:booking-newsroom"],"https://news.booking.com/travel-enabled-by-bookingcom-supported-au47-billion-in-economic-activity-across-australia-in-2025/":["baseline","2026-11-18","source:booking-newsroom"],"https://skift.com/2026/10/06/inside-mews-2-5-billion-valuation-can-the-economics-catch-up/":["baseline","2026-11-20","source:skift"],"https://skift.com/2026/10/09/delta-ceo-on-20-percent-fare-hikes-and-starlink/":["baseline","2026-11-20","source:skift"],"https://skift.com/2026/10/19/the-quiet-rise-of-loveholidays-with-a-20-year-old-business-idea/":["baseline","2026-11-20","source:skift"],"https://skift.com/2026/11/12/iag-launches-media-business-to-cash-in-on-connected-passengers-exclusive/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/12/one-night-in-bangkok-eurovision-asia-tests-thailands-bet-on-events/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/13/tripadvisor-reverses-merger-of-experiences-teams-cuts-cruise-critic-staff-60-scoop/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/16/ground-stop-dent-airlines-fourth-quarter-holiday-demand-steady/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/16/nuitee-adds-cruises-from-boundless-labs-opens-door-to-ai-agents-exclusive/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/17/accors-1-8-billion-ennismore-buyout-tops-4-rival-lifestyle-deals-combined/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/17/airlines-race-to-keep-up-with-vietnams-indian-travel-boom/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/17/kayak-adds-28-ai-features-letting-travelers-ask-for-the-cheapest-dates-to-fly/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/17/klooks-ai-agent-handles-the-admin-but-operators-want-help-selling/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/17/marriott-bonvoy-sign-ins-were-down-for-hours-disrupting-mobile-keys/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/17/skift-aviation-forum-2026-airlines-contend-with-costs-double-down-on-what-works/":["baseline","2026-11-18","source:skift"],"https://skift.com/2026/11/18/airbnb-pitches-hotels-we-care-more-about-stays-than-booking-com-does/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/2026/11/18/lola-ceo-steve-hafner-on-metas-muse-the-more-they-scale-the-more-money-they-will-lose/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/2026/11/19/los-angeles-area-raise-hotel-taxes-before-olympics/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/2026/11/19/outdoor-water-experiences-hospitality-opportunities-2027/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/2026/11/19/sabre-wants-to-be-the-transaction-engine-behind-ai-travel-bookings/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/2026/11/19/the-case-for-pollution-tourism-in-india-sell-the-toxic-air/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/2026/11/19/tour-associations-attempt-to-take-on-package-emissions-reporting/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/2026/11/19/turkey-earns-more-from-fewer-tourists-but-hotels-miss-out/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/2026/11/19/united-cfo-plays-down-jetblue-deal-chatter/":["2026-11-20","2026-11-20","source:skift"],"https://skift.com/asia-forum-2026-livestream/":["baseline","2026-11-20","source:skift"],"https://skift.com/insights/new-report-closing-the-accountability-gap-across-a-fragmented-travel-experience/":["baseline","2026-11-20","source:skift"],"https://skift.com/insights/new-report-winning-hearts-in-an-age-of-infinite-travel-choices/":["baseline","2026-11-20","source:skift"],"https://skift.com/insights/new-research-5-paths-to-sustainable-success-in-saudi-tourism/":["baseline","2026-11-20","source:skift"],"https://skift.com/skift-aviation-forum-event-intelligence/":["baseline","2026-11-20","source:skift"],"https://skift.com/skift-creator-summit-event-intelligence-hub/":["baseline","2026-11-20","source:skift"],"https://skift.com/skift-data-ai-summit-europe-event-intelligence/":["baseline","2026-11-20","source:skift"],"https://skift.com/skift-data-ai-summit-livestream/":["baseline","2026-11-20","source:skift"],"https://skift.com/skift-global-forum-event-intelligence/":["baseline","2026-11-20","source:skift"],"https://skift.com/skift-live-tourism-summit-event-intelligence/":["baseline","2026-11-20","source:skift"],"https://skift.com/skift-private-speaking-engagements/":["baseline","2026-11-20","source:skift"],"https://skift.com/skift-transatlantic-summit-event-intelligence/":["baseline","2026-11-20","source:skift"],"https://skift.com/subscribe/":["baseline","2026-11-20","source:skift"],"https://thenextweb.com/news/adobe-disney-ai-alliance-firefly-foundry":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/alibaba-megaspeed-zhejiang-lab-military-nvidia-chips-nyt":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/anthropic-ipo-amodei-nasdaq-bell-ant-debut-needham-staff-sales":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/anthropic-shares-jump-34-percent-nasdaq-debut-ant":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/apple-iphone-camera-chief-jon-mccormack-retires":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/eu-ai-budget-open-letter-elevenlabs-lovable-deepl-lecun":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/everful-48-5m-series-a-ai-sourcing-global-commerce":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/gemini-4-neon-google-third-intelligence-index-replaces-argon":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/gemini-for-healthcare-google-cloud-ai-agent-launch":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/google-quantum-ai-contextuality-science-105-qubits":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/google-workers-petition-schools-search-without-ai":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/hubspot-brian-halligan-returns-ceo-refounding":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/intelliprove-2-7m-seed-face-scan-humanoid-robots":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/jeff-bezos-james-bond-pattinson-nvidia-prometheus-semafor":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/jpmorgan-chase-visa-mastercard-vendor-breach-n0n-leak":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/magnific-300m-arr-cuenca-outside-funding-chinese-models":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/megarobo-200m-oman-investment-authority-ai-lab-experiments":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/microsoft-mai-code-2-licensed-weights-ignite":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/microsoft-office-in-copilot-nadella-ignite-agi-pilled":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/model-ml-250m-series-b-1-5bn-valuation-ai-agents-bankers":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/nvidia-h200-china-exports-commerce-kessler-the-information":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/orange-ventures-250m-ai-cybersecurity-startups-2027-2032":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/orange-wolof-ai-models-qwen3-hugging-face":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/salesforce-american-si-exports-program-33-consortia":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/trump-nvidia-trades-97-5m-cnbc-huang-briefing":["baseline","2026-11-20","source:thenextweb"],"https://thenextweb.com/news/waymo-california-freeway-ban-dmv-construction-zones":["baseline","2026-11-20","source:thenextweb"],"https://www.conduit.ai/blog/after-the-ai-agent-books":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/agentic-commerce-for-hotels":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/ai-agents-airbnb-vrbo-hosts":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/best-unified-inbox-vacation-rentals":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/direct-bookings-from-chatgpt-ai-agents":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/making-ci-61-faster-while-test-suite-grew-5x":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/portals":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/vacation-rental-operations":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/vacation-rental-phone-systems":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/blog/why-otas-might-keep-winning":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/industry/hotel-groups/direct-booking":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/industry/hotel-groups/guest-management":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/industry/independent-hotels":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/industry/short-term-rentals":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/industry/short-term-rentals/housekeeping":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/industry/short-term-rentals/vacation-rental-automation":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/product/agents":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/product/inbox":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/product/portals":["baseline","2026-11-20","source:conduit-blog"],"https://www.conduit.ai/product/workflows":["baseline","2026-11-20","source:conduit-blog"],"https://www.guesty.com/affiliate-program/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/aparthotels-property-management-software/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/bb-property-management-software/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/7-high-impact-guest-communication-strategies/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/8-ways-to-go-green-with-your-vacation-rentals/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/agentic-ai-transform-str-operations/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/ai-agents-cross-system-execution/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/ai-agents-run-operations/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/airbnb-host-str-tax-responsibility/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/airbnb-upsells-boost-revenue-guest-friendly/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/automate-airbnb-reviews/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/automate-str-business/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/best-bnb-reservation-systems-for-small-inns/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/best-smart-locks-for-airbnb/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/build-high-performing-str-team/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/build-vacation-rental-website-template/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/calculate-str-revenue-occupancy-2/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/communication-agent-pms/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/compare-direct-booking-tools/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/creating-a-digital-guidebook-for-your-short-term-rental/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/essential-elements-of-a-great-airbnb-welcome-basket/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/guest-messaging-tools-vacation-rentals/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/guest-surveys-vs-reviews/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/guesty-copilot-real-answers-from-your-guesty-data/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/guesty-pricelabs-comparison/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/guesty-renjoy-suiteop-partnership/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/handle-str-owner-payouts-trust-accounting/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/how-checkmyguest-is-boosting-airbnb-rankings-and-elevating-guest-experience/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/incentivize-loyalty-by-rewarding-repeat-guest/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/infographic-what-is-a-chargeback/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/lodgify-ownerrez-guesty-small-str/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/manage-multiple-airbnb-listings-dashboard-2/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/meet-guestys-ai-powered-bank-reconciliation/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/migrating-to-growth-switching-to-guesty/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/new-to-guesty-january/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/owner-portal-real-time-reporting/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/property-manager-ai-guide/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/scale-str-revenue-management/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/sync-airbnb-vrbo-booking-calendars/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/uk-airbnb-alternatives/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/unified-inbox-manage-str-messages/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/vacation-rental-direct-booking-success-hostai/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/what-the-2026-world-cup-actually-did-to-short-term-rentals/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/whats-new-in-guesty-trust-accounting/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/blog/your-inbox-just-learned-how-to-operate-itself/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/customers/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/events/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/accounting/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/channel-manager/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/enterprise-management-hub/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/guest-app/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/guest-communication-management/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/guesty-websites/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/multi-calendar/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/payment-solutions/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/revenue-management/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/tasks-management/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/features/unified-inbox/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/home-rentals-property-management/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/hotel-property-management-system/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/integrations-marketplace/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/new-to-pms/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/onboarding/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/outdoor-stays-property-management-software/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/packages/guesty-enterprise/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/packages/guesty-lite/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/packages/guesty-pro/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/property-management-for-rentals/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/real-estate-property-management/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/reports-and-guides/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/switch-to-pms/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/urban-rentals/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/vacation-rental-guide/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/vacation-rental/":["baseline","2026-11-18","source:guesty-blog"],"https://www.guesty.com/wp-content/uploads/2026/08/Guesty-Licenses-Website-list-Sheet1.pdf":["baseline","2026-11-18","source:guesty-blog"],"https://www.hostaway.com/blog/2026-str-ai-benchmark-report/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/24-7-guest-communication-scheduled-messages/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/airbnb-2026-fall-update-what-it-means-for-hosts/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/airbnb-competitors/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/airbnb-vs-expedia/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/airbnb-vs-marriott-homes-and-villas/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/audit-vacation-rental-property-management-software-before-renewing/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/audit-vacation-rental-property-management-software/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/best-enterprise-pms-large-vacation-rental-portfolio/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/booking-com-guest-phone-numbers/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/booking-window-data-for-smarter-pricing-decisions/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/consistent-vacation-rental-guest-experience/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/direct-booking-website-checklist/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/disconnected-vacation-rental-tech-stack/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/grow-short-term-rental-management-company-automation/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/how-to-earn-airbnb-guest-favorite-status/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/how-to-manage-finances-multiple-vacation-rentals/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/is-a-channel-manager-the-same-as-a-pms/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/list-property-on-agoda/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/scaling-without-adding-headcount/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/short-term-rental-software-multiple-cities/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/the-ai-ready-pms-questions/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/vrbo-new-commission-for-hosts/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/blog/what-features-should-a-good-vacation-rental-owner-portal-include/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hostaway.com/features/analytics-and-reporting/":["baseline","2026-11-18","source:hostaway-newsroom"],"https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/check-in-chalet-montriond":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/check-in-continental-luzern":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/check-in-hospitality-summit":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/frischer-wind-im-bundeshaus":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/kandidierende-verbandsleitung":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/branche/branchenverzeichnis":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/leistungen/betrieb-und-strategie/distribution-und-marketing":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/leistungen/betrieb-und-strategie/finanz-und-versicherungswesen":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/leistungen/bildung-und-fachkraefte/fachkraefte-gewinnen-foerdern":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/leistungen/bildung-und-fachkraefte/nachwuchs-gewinnen-ausbilden":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/leistungen/klassifikation/ablauf-der-klassifikation":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/medien":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/netzwerk/verankerung-in-der-wirtschaft":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/politik":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/politik/wirtschaft/finanzen-und-steuern/mehrwertsteuersatz":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/politik/wirtschaft/tourismuspolitik/tourismussensibilisierung":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/verband/agenda/2026-06-07":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/verband/agenda/delegiertenversammlung-2026-11-26":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/verband/agenda/kopas-3":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/verband/agenda/receptionskurs-3":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/verband/mitgliedschaft":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/verband/news/news-american-express-5":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/verband/regionen/basel-und-region/unser-regionales-netzwerk":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/de/verband/regionen/zentralschweiz/goenner-kooperationen":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.hotelleriesuisse.ch/fr/association/regions/suisse-romande/nos-partenaires-economiques":["baseline","2026-11-18","source:hotellerie-suisse"],"https://www.kosmo.at/1450-wien-gesundheit-hat-eine-nummer/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/4-baba-wanga-prophezeiungen-was-ist-2026-eingetroffen/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/450-jahre-alt-und-unbezahlbar-sloweniens-aussergewoehnlichster-wein/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/740-millionen-kinder-koennten-bis-2050-kurzsichtig-sein-forscher-sehen-vermeidbare-risiken/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/adria-immobilien-im-risiko-check-diese-istrischen-orte-fallen-in-der-studie-auf/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/alle-reden-ueber-gta-6-nikola-jokic-spielt-lieber-etwas-ganz-anderes/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/allergie-prognose-fuer-oesterreich-bis-2050-koennten-175-millionen-menschen-auf-ambrosia-reagieren/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/baba-vangas-letzte-warnung-tiefgreifenden-veraenderungen-bis-ende-2026/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/billig-vs-teuer-zwei-euro-haarfarbe-schlaegt-packung-um-26-euro-im-test/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/boeller-zerfetzt-hand-anrainerin-findet-blutenden-buben-am-boden/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/datenschutzerklaerung-eu/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/daumen-hoch-im-spitalsbett-bosniens-stuermer-laechelt-trotz-meniskus-aus/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/denis-sakic-im-interview-am-ende-zaehlt-nicht-woher-wir-kommen/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/der-klick-koenig-im-gipfelstuermer/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/die-50-besten-restaurants-der-welt-oesterreich-muss-rueckschlag-hinnehmen/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/elektroauto-und-herd-gleichzeitig-warum-die-viertelstunde-bei-den-stromkosten-wichtiger-wird/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/esc-millionen-in-wien-was-die-stadt-bei-ihrer-erfolgsbilanz-nicht-erzaehlt/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/fall-danka-angeklagte-widerrufen-gestaendnis-und-beschuldigen-polizei-der-folter/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/fonds-soziales-wien-wie-zusammenarbeit-im-alltag-spuerbar-wird/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/geschenke-im-kofferraum-wann-der-familienbesuch-beim-zoll-teuer-wird/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/gewalt-und-missbrauchsvorwuerfe-gegen-latin-legende-iglesias-83-bestreitet-alles/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/hammerstrafe-fur-fussballer-nach-steinwurf-auf-schiri/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/immer-mehr-menschen-wohnen-allein-was-das-fuer-oesterreichs-wohnungsmarkt-bedeutet/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/jeder-vierte-fragt-ki-nach-fakten-doch-das-wissen-haelt-nicht-schritt/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/kickl-tobt-steuergeldvernichtung-bei-ruanda-plaenen-karner-schweigt-zu-kosten/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/krebs-bei-kindern-zwischen-schmerz-kampf-und-hoffnung/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/legionellen-in-oesterreich-423-erkrankte-groesste-gefahr-lauert-oft-in-der-eigenen-dusche/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/naomi-campbell-kommt-nach-bosnien-weltstar-sorgt-fuer-ski-spektakel/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/neue-eu-regel-ab-2027-elektroautos-bekommen-einen-batteriepass-doch-eine-wichtige-angabe-bleibt-verborgen/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/nickerchen-waehrend-xi-rede-trump-szene-geht-viral-video/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/nur-unterhose-und-socken-polizisten-finden-schwer-verletzten-mann-auf-der-strasse/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/oesterreich-wird-aelter-zahl-der-menschen-ab-85-soll-sich-verdoppeln/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/pattinson-als-007-fix-erstmals-trans-frau-als-bond-girl/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/rekordverdaechtig-oesterreicher-erkocht-sich-4-hauben-in-7-monaten/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/september-bringt-seltenes-himmelsschauspiel-ueber-oesterreich/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/skiurlaub-2026-27-jahorina-kopaonik-oder-oesterreich-wo-familien-wirklich-sparen/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/smoki-ajvar-plazma-so-viel-teurer-sind-balkan-produkte-in-oesterreich-wirklich/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/staedtetrip-statt-weihnachtsstress-5-guenstige-reiseziele-ab-wien/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/suche-nach-007-hat-ein-ende-robert-pattinson-ist-der-neue-james-bond/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/suho-meso-kaese-rakija-was-nach-dem-familienbesuch-nicht-einfach-mit-darf/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/trump-putin-und-xi-warnen-vor-atomkrieg-historische-einigung-in-china/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/ueberweisungen-nach-bosnien-worauf-die-diaspora-in-oesterreich-jetzt-achten-sollte/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/uefa-untersagt-spiel-zwischen-bosnien-herzegowina-und-kosovo/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/un-prognose-bosnien-koennte-jeden-vierten-einwohner-verlieren/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/vernichtungsverbot-fuer-unverkaufte-kleidung-das-aendert-sich-jetzt-fuer-haendler-und-kaeufer/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/vidim-ti-put-wenn-balkan-tanten-aus-dem-kaffeesatz-lesen/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/vom-balkan-nach-wien-nemanja-zilovic-will-magenta-veraendern/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/vom-gastarbeiterkind-zum-chef-der-wandel-der-balkan-community-in-oesterreich/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/wie-funktionieren-live-wetten-waehrend-eines-fussballspiels/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/wien-nimmt-maenner-in-die-pflicht-neue-kampagne-gegen-gewalt-an-frauen/":["baseline","2026-11-20","source:kosmo"],"https://www.kosmo.at/wurst-kaese-kajmak-warum-vakuumieren-an-der-eu-grenze-nicht-hilft/":["baseline","2026-11-20","source:kosmo"],"https://www.ots.at/presseaussendung/OTS_20261119_OTS0208/linzer-altbischof-ludwig-schwarz-verstorben":["baseline","2026-11-20","source:ots"],"https://www.ots.at/topthema/16-tage-gegen-gewalt-an-frauen":["baseline","2026-11-20","source:ots"],"https://www.phocuswire.com/Green-Light-For-Ground-Transportation/ ":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/events/adobe-webinar-state-digital-transformation-ai-world":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/events/onyx-webinar-smarter-insights-stronger-partnerships-maximizing-performance-with-business-intelligence":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/events/paypal-webinar-rise-agentic-commerce-travel":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/hot-25-travel-startups-2023 ":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/hot-25-travel-startups-2024/ ":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/hot-25-travel-startups-2025/ ":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/hot-25-travel-startups-2026/ ":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/online/ceo-spotlight-andres-spitzer-civitatis":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/online/ceo-spotlight-harman-singh-narula-canary-technologies":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/online/despegar-ceo-gonzalo-estebarena":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/startups/hot-25-travel-startups-2027-folio":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/startups/hot-25-travel-startups-2027-passtination":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/startups/hot-25-travel-startups-2027-pintours":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/startups/hot-25-travel-startups-2027-rove":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/startups/startup-stage-routes":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/technology/ceo-spotlight-filip-filipov-oag":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/technology/ceo-spotlight-julie-cheetham-travalyst":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/technology/ceo-spotlight-matthijs-welle-mews":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/technology/meta-exec-sanjay-bhatia-messaging-muse-travel":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/interviews/technology/phocuswright-europe-2026-interview-gavira-watts":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/london-tmai-summit-2026":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/distribution/travelport-demonstrates-agentic-booking-pitching-airline-control":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/finance/airbnb-q3-2026-earnings":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/finance/booking-holdings-q3-2026-earnings":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/finance/expedia-group-q3-2026-earnings":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/finance/fairly-raises-22m-expand-vacation-rental-presence-build-out-ai":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/finance/sabre-q3-2026-earnings":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/finance/weroad-kicks-of-ma-strategy-with-acquisition-of-traveltribe":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/online/phocuswright-europe-2026-executive-interview-gary-morrison-hostelworld":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/online/travel-destinations-creators-launch-alliance-against-ai-generated-content":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/startups/2026-hot-25-travel-startups-check-in-2026":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/startups/ai-agent-vayo-adds-travel-booking":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/startups/global-startup-pitch-2027-kick-off-london":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/startups/hot-25-travel-startups":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/technology/biztrip-ai-adds-trip-planning-in-slack-teams-and-imessage":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/technology/brand-loyalty-retains-influence-personal-ai-agents-take-on-travel-booking":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/technology/kayak-ask-ai-finds-cheapest-dates-fly-using-live-prices":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/technology/lessons-frontline-independent-travel-companies-ai-wins-misses":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/technology/qantas-cut-jobs-through-modernization-drive":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/technology/united-blocks-third-party-ai-agents-from-app-website":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/news/technology/what-faa-outage-exposes-about-legacy-infrastructure-fragile-recovery":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/opinion/finance/why-next-airline-tech-race-will-reward-commercial-discipline-over-spending":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/opinion/technology/3-themes-shaping-next-phase-ai-travel-marketing":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/partner-content/online/intrepid-adventure-travel-help-brands-meet-changing-traveler-expectation":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/partner-content/online/journey-fragmented-care-should-not-be":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/partner-content/online/onyx-beyond-adr-revpar-view-hotel-performance":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/partner-content/online/trade-desk-why-travel-marketers-look-beyond-search":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/partner-content/technology/trust-identity-payments-preparing-agentic-commerce-travel":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/phocuswright-launch-travel-marketing-ai-summit-march-2026":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/the-phocuswright-conference-2026-event":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/travel-tech-news-briefs/2026/november-13":["baseline","2026-11-18","source:phocuswire"],"https://www.phocuswire.com/webinar-travel-forward-data-insights-trends-2026":["baseline","2026-11-18","source:phocuswire"],"https://www.smoobu.com/en/blog/airbnb-new-guest-rules-check-in/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/blog/built-to-book-what-to-automate-and-what-to-keep-human/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/blog/the-complete-automated-guest-journey/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/blog/top-short-term-rental-software/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/blog/uber-vrbo-vacation-rentals/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/do-not-sell-or-share-my-personal-information/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/free-trial/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/glossary/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/guides/automate-the-management-of-your-vacation-rental/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/guides/cancellation-policy-for-vacation-rentals/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/guides/how-to-increase-your-bookings/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/guides/starting-a-vacation-rental-business/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/reservation-system-pms-vacation-rental/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.smoobu.com/en/vacation-apartments-and-homes/":["baseline","2026-11-20","source:smoobu-blog"],"https://www.wien.gv.at/bildung/kindergartenanmeldung":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/bildung/tagesbetreuung":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/freizeit/weihnachtsmaerkte":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/gesundheit/aerzte-apotheken":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/inhalt/datenschutz":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/kontakt/eine-stadt-ein-buch":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/sozialinfo/content/de/10/Homepage.do":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/stadtplanung/2er-linie-neugestaltung":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/umwelt/forst-landwirtschaft":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/veranstaltungen/kinderfilmfestival":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/veranstaltungen/wiener-lichtblicke":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/verwaltung/oeffentliche-verlautbarungen":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/wirtschaft/esc-2026-wertschoepfung":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/wirtschaft/foerderung-finanzierung":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/wohnen/mieterhilfe-beratung":["baseline","2026-11-20","source:stadt-wien"],"https://www.wien.gv.at/zusammenleben/obdachlosigkeit-winterpaket":["baseline","2026-11-20","source:stadt-wien"]}
+{
+ "https://de.airbnb.com/e/host-hotels": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/e/intro-to-hosting": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/article/126": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/article/1566": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/article/169": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/article/170": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/article/2701/extenuating-circumstances-policy-and-the-coronavirus-covid19": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/article/3116": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/article/823": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/article/92": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/contact-us?entry=DESKTOP_FOOTER_SAFETY": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/feature/1": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/responsible-hosting": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/help/topic/1395/safety-tips-and-guidelines": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/host/experiences": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/host/homes?from_footer=1": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://de.airbnb.com/host/services": [
+  "baseline",
+  "2026-11-19",
+  "source:airbnb-help"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/activities/digital-programme": [
+  "baseline",
+  "2026-11-19",
+  "source:european-commission",
+  "2026-11-20"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/library/proposal-eu-kids-act-eu-keeping-internet-digital-spaces-accountable-and-trustworthy": [
+  "baseline",
+  "2026-11-19",
+  "source:european-commission",
+  "2026-11-20"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/news/commission-hosts-apply-ai-summit-boost-europes-ai-innovation-and-uptake": [
+  "baseline",
+  "2026-11-19",
+  "source:european-commission",
+  "2026-11-20"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/news/commission-invites-feedback-deploying-cellular-based-dual-use-drone-detection-capacity": [
+  "baseline",
+  "2026-11-19",
+  "source:european-commission"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal": [
+  "baseline",
+  "2026-11-19",
+  "source:european-commission",
+  "2026-11-20"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/news/high-level-platform-meets-moldova-strengthen-digital-connectivity-between-eu-black-sea-region-south": [
+  "baseline",
+  "2026-11-19",
+  "source:european-commission"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/newsletters": [
+  "baseline",
+  "2026-11-19",
+  "source:european-commission",
+  "2026-11-20"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/policies/europes-digital-decade": [
+  "baseline",
+  "2026-11-19",
+  "source:european-commission",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/12/sam-altman-interview-ai-doomsday-safety-models-control-ipo-2027/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/15/sam-altman-openai-ai-safety-pause-trump-xi/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/26/how-social-media-is-changing-the-rare-watch-market-instagram-tiktok-watch-collecting/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/27/becoming-tim-cook-apple-ceo/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/28/how-ai-stock-market-concentration-could-put-401k-retirement-savings-at-risk/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/29/carrier-ai-strategy-agentic-ai-data-center-cooling/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/29/fortune-aiq-75-newcomers-pfizer-ups-cisco-ai-strategy/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/29/how-adobe-salesforce-kyndryl-freeport-use-ai-agents/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/29/how-banks-are-using-ai-agents-copilots-roi/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/29/how-netflix-is-using-ai-to-personalize-streaming/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/30/ceos-states-corporate-relocation-threats-paramount-coca-cola/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/09/30/nikesh-arora-palo-alto-networks-ceo-ai-cybersecurity-defense/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/10/13/workday-ceo-aneel-bhusri-unfinished-business/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/2026/11/17/nvidia-nvda-earnings-q3-2027-revenue-forecast-beat-wall-street-jensen-huang-resignation-colette-kress/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/17/wolf-of-wall-street-jordan-belfort-startups-tone-ai-voice-tech/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/ai-bubble-financing-nvidia-coreweave-circular-deals-credit-mark-minevich/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/ai-bubble-owen-lamont-70-percent-four-horsemen-stock-issuance-anthropic-ipo/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/ai-played-a-major-role-in-the-nsa-banking-outages-but-not-in-the-way-you-may-think/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/alex-karp-palantir-mandarin-oriental-motel-6-garry-tan/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/anthropic-ipo-ai-wealth-luxury-watches-san-francisco-bezel-quaid-walker/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/authentic-brands-super-bowl-business-summit-private-weekend-for-executive-meetings-ad-panels-brand-showcase-waldorf-astoria-beverly-hills/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/big-sean-jalen-rose-detroit-giving-back-next-generation/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/brightai-alex-hawkinson-physical-ai-unicorn-roman-infrastructure-inspections/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/burnout-meaningful-work-employee-wellbeing-troy-norris-wellbalance/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/chipotle-macys-ally-ceo-loyalty-programs-consumer-prices/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/doordash-instacart-investigation-silicon-valley-antitrust/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/ecb-financial-stability-review-ai-debt-subprime-2008-off-balance-sheet/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/gao-ai-chatbots-attack-plans-hassan-patching-nsa-outages/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/hourly-workers-inflation-data-center-backlash-workwhile-simon-khalaf/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/jpmorgan-taps-20-year-company-veteran-bregje-de-best-as-its-next-cfo/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/marcos-trump-jollibee-fried-chicken/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/mississippi-governor-data-center-messaging-midterm-elections/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/new-ceos-advice-aryna-sabalenka-coach-jason-stacy/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/nicole-perlroth-vulnpocalypse-outages-rubio-microsoft-faa-nsa/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/nvidia-earnings-q3-interim-ceo-colette-kress/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/nvidia-jensen-huang-megaspeed-honeypot-national-security-export-controls-andrew-king/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/nvidia-posts-blockbuster-quarter-as-jensen-huangs-dealmaking-legacy-hangs-in-the-balance/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/nvidia-q3-2027-investigation-jensen-huang-largest-annual-profit/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/oklahoma-governor-stitt-three-year-college-degree-fortune-500-innovation-forum/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/rahm-emanuel-chris-christie-agree-character-2028-election/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/recession-vulnerabilities-oxford-economics-ai-debt-hiring/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/skilled-trades-work-augmented-but-not-replaced-by-ai-six-figure-salary-potential-opportunity-for-gen-z-ford-carhartt-jobs-for-the-future/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/us-export-controls-nvidia-leadership-transition-remain-key-watchpoints/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/waymo-driverless-freeway-ban-california-nationwide/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/18/week-of-outages-put-resiliency-to-the-test-cios/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/current-arm-mortgage-rates-11-18-2026/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/current-mortgage-rates-11-18-2026/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/current-refi-mortgage-rates-11-18-2026/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/home-equity-rates-11-18-2026/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/price-of-oil-11-16-2026/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/price-of-oil-11-17-2026/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/price-of-oil-11-18-2026/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/ranking/best-small-workplaces-for-women/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/ranking/best-workplaces-for-women/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/ranking/best-workplaces-transportation/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune"
+ ],
+ "https://fortune.com/ranking/worlds-best-workplaces/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/ranking/worlds-most-admired-companies/": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://fortune.com/topic/aiq": [
+  "baseline",
+  "2026-11-19",
+  "source:fortune",
+  "2026-11-20"
+ ],
+ "https://hello.pricelabs.co/blog/ai-branding-for-vacation-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/ai-integrations-vacation-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/ai-revenue-alerts-vacation-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/airbnb-analytics-to-improve-hosting/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/airbnb-investing-mistakes/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/airbnb-investing-risks/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/airbnb-launch/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/airbnb-listing-optimization-data/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/airbnb-prelaunch/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/airbnb-profit-margin/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/airbnb-property-buying/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/automated-database-backup-system/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/booking-curve-analysis-vacation-rental/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/christmas-new-year-2026-pricing/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/direct-bookings-future-short-term-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/dynamic-minimum-stay-rules/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/european-str-demand-accelerates-into-september/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/future-demand-vacation-rental/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/hotel-growth-operations-complete-guide/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/hotel-guest-experience-satisfaction/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/hotel-guest-satisfaction-survey-template/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/hotel-rate-shopping-tool/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/how-to-become-an-airbnb-host-the-complete-guide/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/improve-vacation-rental-reviews/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/listing-optimizer-the-faster-way-to-optimize-your-airbnb-listing-and-improve-your-search-ranking/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/lombardy-str-market/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/market-maturity-direct-bookings-hawaii-smokies/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/negative-reviews-explanation-to-owners/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/pricelabs-launches-athena-revenue-managers/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/revenue-accelerator-release/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/str-voices-professional-pm/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/str-voices-scaling-pm/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/thanksgiving-2026-pricing-plan/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/thanksgiving-2026-short-term-rental-data/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/the-canary-islands-str-market-trends/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/top-vacation-rental-amenities-boost-bookings/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/vacation-rental-comp-set-benchmarking-owners/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/vacation-rental-demand-trends-pivot-revenue-strategy/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/vacation-rental-market-analytics/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/vacation-rental-markets-opportunities/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/vacation-rental-mid-term-rentals-off-season-survival-guide/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/vacation-rental-profitability-metrics-beyond-revpar/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/vacation-rental-reporting-for-owners-vs-internal-teams/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/blog/vrbo-refund-policy/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/category/vacation-rental-automation/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://hello.pricelabs.co/revenue-estimator-api-widget/": [
+  "baseline",
+  "2026-11-18",
+  "source:pricelabs-blog"
+ ],
+ "https://news.airbnb.com/2026-winter-travel-trends-revealed": [
+  "baseline",
+  "2026-11-18",
+  "source:airbnb-newsroom"
+ ],
+ "https://news.airbnb.com/airbnb-contributes-100k-to-massachusetts-legalize-starter-homes-campaign": [
+  "baseline",
+  "2026-11-18",
+  "source:airbnb-newsroom"
+ ],
+ "https://news.airbnb.com/airbnb-q3-2026-financial-results": [
+  "baseline",
+  "2026-11-18",
+  "source:airbnb-newsroom"
+ ],
+ "https://news.airbnb.com/co-founder-and-ceo-brian-chesky-donates-historic-100m-gift-to-sf-parks": [
+  "baseline",
+  "2026-11-18",
+  "source:airbnb-newsroom"
+ ],
+ "https://news.airbnb.com/expanding-access-to-openai-frontier-models-including-gpt-6-astra": [
+  "baseline",
+  "2026-11-18",
+  "source:airbnb-newsroom"
+ ],
+ "https://news.airbnb.com/gen-z-is-driving-a-45-jump-in-halloween-weekend-searches": [
+  "baseline",
+  "2026-11-18",
+  "source:airbnb-newsroom"
+ ],
+ "https://news.airbnb.com/introducing-one-of-a-kind-fan-experiences-for-fifa-world-cup-2026": [
+  "baseline",
+  "2026-11-18",
+  "source:airbnb-newsroom"
+ ],
+ "https://news.airbnb.com/stay-at-mexico-city-stadium-with-hugo-sanchez-with-world-cup-tickets-including-tickets-to-the-opening-match-of-the-fifa-world-cup-2026": [
+  "baseline",
+  "2026-11-18",
+  "source:airbnb-newsroom"
+ ],
+ "https://news.booking.com/bookingcom-2027-travel-predictions-reveal-the-ultimate-travel-flex/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://news.booking.com/bookingcom-uncovers-trending-destinations-for-2027/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://news.booking.com/bookingcoms-how-india-travels-2026-explores-the-rise-of-alternative-accommodations/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://news.booking.com/en-us/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://news.booking.com/es-co/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://news.booking.com/es-mx/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://news.booking.com/how-will-group-budgets-personalized-wellness--recovery-maxxing-shape-2027-guest-experiences/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://news.booking.com/pt-br/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://news.booking.com/travel-enabled-by-bookingcom-supported-au47-billion-in-economic-activity-across-australia-in-2025/": [
+  "baseline",
+  "2026-11-18",
+  "source:booking-newsroom"
+ ],
+ "https://skift.com/2026/10/06/inside-mews-2-5-billion-valuation-can-the-economics-catch-up/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/2026/10/09/delta-ceo-on-20-percent-fare-hikes-and-starlink/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/2026/10/19/the-quiet-rise-of-loveholidays-with-a-20-year-old-business-idea/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/2026/11/12/iag-launches-media-business-to-cash-in-on-connected-passengers-exclusive/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/12/one-night-in-bangkok-eurovision-asia-tests-thailands-bet-on-events/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/13/tripadvisor-reverses-merger-of-experiences-teams-cuts-cruise-critic-staff-60-scoop/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/16/ground-stop-dent-airlines-fourth-quarter-holiday-demand-steady/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/16/nuitee-adds-cruises-from-boundless-labs-opens-door-to-ai-agents-exclusive/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/17/accors-1-8-billion-ennismore-buyout-tops-4-rival-lifestyle-deals-combined/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/17/airlines-race-to-keep-up-with-vietnams-indian-travel-boom/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/17/kayak-adds-28-ai-features-letting-travelers-ask-for-the-cheapest-dates-to-fly/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/17/klooks-ai-agent-handles-the-admin-but-operators-want-help-selling/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-18"
+ ],
+ "https://skift.com/2026/11/17/marriott-bonvoy-sign-ins-were-down-for-hours-disrupting-mobile-keys/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/17/skift-aviation-forum-2026-airlines-contend-with-costs-double-down-on-what-works/": [
+  "baseline",
+  "2026-11-18",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/18/airbnb-pitches-hotels-we-care-more-about-stays-than-booking-com-does/": [
+  "2026-11-19",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20",
+  "2026-11-20"
+ ],
+ "https://skift.com/2026/11/18/booking-holdings-leaves-priceline-out-of-b2b-unit-amid-ftc-scrutiny/": [
+  "2026-11-19",
+  "2026-11-19",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/18/climate-change-could-squeeze-a-third-of-tourist-destinations-by-2050/": [
+  "2026-11-19",
+  "2026-11-19",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/18/from-premier-inn-to-rick-stein-britains-travel-businesses-are-paying-for-higher-labor-costs/": [
+  "2026-11-19",
+  "2026-11-19",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/18/lola-ceo-steve-hafner-on-metas-muse-the-more-they-scale-the-more-money-they-will-lose/": [
+  "2026-11-19",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20",
+  "2026-11-20"
+ ],
+ "https://skift.com/2026/11/18/the-ai-agent-is-travels-ad-blocker/": [
+  "2026-11-19",
+  "2026-11-19",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/18/tony-fernandes-pushes-airasias-comeback-to-2028/": [
+  "2026-11-19",
+  "2026-11-19",
+  "source:skift"
+ ],
+ "https://skift.com/asia-forum-2026-livestream/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/insights/new-report-closing-the-accountability-gap-across-a-fragmented-travel-experience/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/insights/new-report-winning-hearts-in-an-age-of-infinite-travel-choices/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/insights/new-research-5-paths-to-sustainable-success-in-saudi-tourism/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/skift-aviation-forum-event-intelligence/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/skift-creator-summit-event-intelligence-hub/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/skift-data-ai-summit-europe-event-intelligence/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/skift-data-ai-summit-livestream/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/skift-global-forum-event-intelligence/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/skift-live-tourism-summit-event-intelligence/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/skift-private-speaking-engagements/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/skift-transatlantic-summit-event-intelligence/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://skift.com/subscribe/": [
+  "baseline",
+  "2026-11-19",
+  "source:skift",
+  "2026-11-20"
+ ],
+ "https://thenextweb.com/news/adobe-disney-ai-alliance-firefly-foundry": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb",
+  "2026-11-20"
+ ],
+ "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/anthropic-ipo-prices-83-share-1-5-trillion-record-raise": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/coreweave-texas-hinojosa-data-centre-letter": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/dutch-government-pushes-back-on-us-match-act-over-asml-chip-tool-curbs": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/eu-ai-budget-open-letter-elevenlabs-lovable-deepl-lecun": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb",
+  "2026-11-20"
+ ],
+ "https://thenextweb.com/news/gemini-for-healthcare-google-cloud-ai-agent-launch": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb",
+  "2026-11-20"
+ ],
+ "https://thenextweb.com/news/genesis-ai-500m-series-a-3-5bn-valuation-eno-robot": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/google-genie-4-project-genie-ai-ultra-world-model": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/gta-vi-metacritic-99-reviews-30fps-launch": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/hubspot-brian-halligan-returns-ceo-refounding": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb",
+  "2026-11-20"
+ ],
+ "https://thenextweb.com/news/intelliprove-2-7m-seed-face-scan-humanoid-robots": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb",
+  "2026-11-20"
+ ],
+ "https://thenextweb.com/news/jeff-bezos-james-bond-pattinson-nvidia-prometheus-semafor": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb",
+  "2026-11-20"
+ ],
+ "https://thenextweb.com/news/jensen-huang-senate-banking-committee-lutnick-tim-scott": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/meta-project-gryffindor-instagram-schools-teens-npr": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/microsoft-copilot-cheaper-than-claude-chatgpt-ignite": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/nvidia-rtx-spark-compact-desktops-asus-dell-msi-local-ai": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/openai-models-amd-gpu-chip-design-14-percent": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/sam-altman-greg-brockman-jensen-huang-dealbook": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/science-corp-raises-400m-to-expand-its-prima-vision-implant-in-europe": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/science-corporation-400m-series-d-brain-computer-interface-prima": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/sequel-15m-webinars-company-websites-ai-agents": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/shenzhen-summit-trump-xi-putin-ai-nvidia-outages": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/take-two-zelnick-gta-vi-1-5b-budget-doesnt-play-games": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/uk-to-end-palantirs-nhs-data-platform-contract-in-2029-not-now": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/us-outages-patches-ai-found-flaws-nsa-banks-washington-sun": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/vero-security-11m-seed-ai-security-engineering": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/workers-jobs-portfolios-ai-hiring-erodes-trust": [
+  "baseline",
+  "2026-11-19",
+  "source:thenextweb"
+ ],
+ "https://www.conduit.ai/blog/after-the-ai-agent-books": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/agentic-commerce-for-hotels": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/ai-agents-airbnb-vrbo-hosts": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/best-unified-inbox-vacation-rentals": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/direct-bookings-from-chatgpt-ai-agents": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/making-ci-61-faster-while-test-suite-grew-5x": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/portals": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/vacation-rental-operations": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/vacation-rental-phone-systems": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/blog/why-otas-might-keep-winning": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/industry/hotel-groups/direct-booking": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/industry/hotel-groups/guest-management": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/industry/independent-hotels": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/industry/short-term-rentals": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/industry/short-term-rentals/housekeeping": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/industry/short-term-rentals/vacation-rental-automation": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/product/agents": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/product/inbox": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/product/portals": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.conduit.ai/product/workflows": [
+  "baseline",
+  "2026-11-19",
+  "source:conduit-blog",
+  "2026-11-20"
+ ],
+ "https://www.guesty.com/affiliate-program/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/aparthotels-property-management-software/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/bb-property-management-software/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/7-high-impact-guest-communication-strategies/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/8-ways-to-go-green-with-your-vacation-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/agentic-ai-transform-str-operations/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/ai-agents-cross-system-execution/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/ai-agents-run-operations/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/airbnb-host-str-tax-responsibility/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/airbnb-upsells-boost-revenue-guest-friendly/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/automate-airbnb-reviews/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/automate-str-business/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/best-bnb-reservation-systems-for-small-inns/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/best-smart-locks-for-airbnb/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/build-high-performing-str-team/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/build-vacation-rental-website-template/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/calculate-str-revenue-occupancy-2/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/communication-agent-pms/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/compare-direct-booking-tools/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/creating-a-digital-guidebook-for-your-short-term-rental/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/essential-elements-of-a-great-airbnb-welcome-basket/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/guest-messaging-tools-vacation-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/guest-surveys-vs-reviews/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/guesty-copilot-real-answers-from-your-guesty-data/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/guesty-pricelabs-comparison/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/guesty-renjoy-suiteop-partnership/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/handle-str-owner-payouts-trust-accounting/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/how-checkmyguest-is-boosting-airbnb-rankings-and-elevating-guest-experience/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/incentivize-loyalty-by-rewarding-repeat-guest/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/infographic-what-is-a-chargeback/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/lodgify-ownerrez-guesty-small-str/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/manage-multiple-airbnb-listings-dashboard-2/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/meet-guestys-ai-powered-bank-reconciliation/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/migrating-to-growth-switching-to-guesty/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/new-to-guesty-january/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/owner-portal-real-time-reporting/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/property-manager-ai-guide/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/scale-str-revenue-management/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/sync-airbnb-vrbo-booking-calendars/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/uk-airbnb-alternatives/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/unified-inbox-manage-str-messages/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/vacation-rental-direct-booking-success-hostai/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/what-the-2026-world-cup-actually-did-to-short-term-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/whats-new-in-guesty-trust-accounting/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/blog/your-inbox-just-learned-how-to-operate-itself/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/customers/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/events/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/accounting/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/channel-manager/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/enterprise-management-hub/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/guest-app/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/guest-communication-management/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/guesty-websites/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/multi-calendar/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/payment-solutions/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/revenue-management/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/tasks-management/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/features/unified-inbox/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/home-rentals-property-management/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/hotel-property-management-system/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/integrations-marketplace/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/new-to-pms/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/onboarding/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/outdoor-stays-property-management-software/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/packages/guesty-enterprise/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/packages/guesty-lite/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/packages/guesty-pro/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/property-management-for-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/real-estate-property-management/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/reports-and-guides/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/switch-to-pms/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/urban-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/vacation-rental-guide/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/vacation-rental/": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.guesty.com/wp-content/uploads/2026/08/Guesty-Licenses-Website-list-Sheet1.pdf": [
+  "baseline",
+  "2026-11-18",
+  "source:guesty-blog"
+ ],
+ "https://www.hostaway.com/blog/2026-str-ai-benchmark-report/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/24-7-guest-communication-scheduled-messages/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/airbnb-2026-fall-update-what-it-means-for-hosts/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/airbnb-competitors/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/airbnb-vs-expedia/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/airbnb-vs-marriott-homes-and-villas/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/audit-vacation-rental-property-management-software-before-renewing/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/audit-vacation-rental-property-management-software/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/best-enterprise-pms-large-vacation-rental-portfolio/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/booking-com-guest-phone-numbers/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/booking-window-data-for-smarter-pricing-decisions/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/consistent-vacation-rental-guest-experience/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/direct-booking-website-checklist/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/disconnected-vacation-rental-tech-stack/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/grow-short-term-rental-management-company-automation/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/how-to-earn-airbnb-guest-favorite-status/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/how-to-manage-finances-multiple-vacation-rentals/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/is-a-channel-manager-the-same-as-a-pms/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/list-property-on-agoda/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/scaling-without-adding-headcount/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/short-term-rental-software-multiple-cities/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/the-ai-ready-pms-questions/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/vrbo-new-commission-for-hosts/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/blog/what-features-should-a-good-vacation-rental-owner-portal-include/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hostaway.com/features/analytics-and-reporting/": [
+  "baseline",
+  "2026-11-18",
+  "source:hostaway-newsroom"
+ ],
+ "https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/check-in-chalet-montriond": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/check-in-continental-luzern": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/check-in-hospitality-summit": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/frischer-wind-im-bundeshaus": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/branche/branchengeschichten/kandidierende-verbandsleitung": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/branche/branchenverzeichnis": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/leistungen/betrieb-und-strategie/distribution-und-marketing": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/leistungen/betrieb-und-strategie/finanz-und-versicherungswesen": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/leistungen/bildung-und-fachkraefte/fachkraefte-gewinnen-foerdern": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/leistungen/bildung-und-fachkraefte/nachwuchs-gewinnen-ausbilden": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/leistungen/klassifikation/ablauf-der-klassifikation": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/medien": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/netzwerk/verankerung-in-der-wirtschaft": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/politik": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/politik/wirtschaft/finanzen-und-steuern/mehrwertsteuersatz": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/politik/wirtschaft/tourismuspolitik/tourismussensibilisierung": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/verband/agenda/2026-06-07": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/verband/agenda/delegiertenversammlung-2026-11-26": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/verband/agenda/kopas-3": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/verband/agenda/receptionskurs-3": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/verband/mitgliedschaft": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/verband/news/news-american-express-5": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/verband/regionen/basel-und-region/unser-regionales-netzwerk": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/de/verband/regionen/zentralschweiz/goenner-kooperationen": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.hotelleriesuisse.ch/fr/association/regions/suisse-romande/nos-partenaires-economiques": [
+  "baseline",
+  "2026-11-18",
+  "source:hotellerie-suisse"
+ ],
+ "https://www.kosmo.at/131-000-tonnen-alttextilien-verbrannt-was-wirklich-mit-ihren-altkleidern-passiert/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/1450-wien-gesundheit-hat-eine-nummer/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/17-heimspiele-ohne-pleite-rangnicks-elf-trotzt-ganz-europa/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/300-euro-pro-jahr-sozialministerium-plant-geldkarte-fuer-200-000-kinder/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/4-baba-wanga-prophezeiungen-was-ist-2026-eingetroffen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/450-jahre-alt-und-unbezahlbar-sloweniens-aussergewoehnlichster-wein/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/acht-siege-ein-wuerdeloses-ende-rennpferd-landet-im-muellcontainer/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/baba-vangas-letzte-warnung-tiefgreifenden-veraenderungen-bis-ende-2026/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/betrueger-gaben-sich-als-strabag-aus-millionen-von-sloweniens-autobahnbetreiber-weg/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/datenschutzerklaerung-eu/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/denis-sakic-im-interview-am-ende-zaehlt-nicht-woher-wir-kommen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/der-klick-koenig-im-gipfelstuermer/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/die-50-besten-restaurants-der-welt-oesterreich-muss-rueckschlag-hinnehmen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/esc-millionen-in-wien-was-die-stadt-bei-ihrer-erfolgsbilanz-nicht-erzaehlt/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/fonds-soziales-wien-wie-zusammenarbeit-im-alltag-spuerbar-wird/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/freitag-der-13-diese-sieben-dinge-sollte-man-besser-vermeiden/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/fuer-aufenthaltsrecht-als-vater-mann-schwaengert-deutsche-durch-vergewaltigungen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/geschenke-im-kofferraum-wann-der-familienbesuch-beim-zoll-teuer-wird/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/gewalt-und-missbrauchsvorwuerfe-gegen-latin-legende-iglesias-83-bestreitet-alles/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/gift-fuer-die-ewigkeit-frankreich-handelt-oesterreich-zoegert-noch/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/haare-fallen-aus-naegel-loesen-sich-neue-studie-alarmiert-ozempic-nutzer/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/heimatpass-und-oesterreichischer-pass-wann-oesterreich-den-pass-entzieht/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/hochansteckende-vogelkrankheit-bei-mattersburg-entdeckt-ungarn-kaempft-schon-mit-ausbruechen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/kater-brutal-getoetet-volksbegehren-schmotzers-gesetz-fordert-haertere-strafen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/krebs-bei-kindern-zwischen-schmerz-kampf-und-hoffnung/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/maedchen-schildern-sexuelle-uebergriffe-vier-maenner-nach-prozess-freigesprochen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/messer-auf-schultoilette-streit-zwischen-wiener-schuelern-eskaliert/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/morgen-fange-ich-an-coach-adnan-ueber-ausreden-familie-und-seinen-einsatz-fuer-kinder-mit-behinderung/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/nach-erfolgreicher-operation-tabakovic-ueberrascht-arzt-mit-besonderem-dress/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/naomi-campbell-kommt-nach-bosnien-weltstar-sorgt-fuer-ski-spektakel/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/neue-flugroute-ab-sarajevo-familienbesuch-fuer-heimkehrer-ploetzlich-viel-einfacher/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/paketmarkt-wird-neu-verteilt-dpd-und-gls-wollen-fusionieren/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/pattinson-als-007-fix-erstmals-trans-frau-als-bond-girl/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/rekordverdaechtig-oesterreicher-erkocht-sich-4-hauben-in-7-monaten/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/schiri-stoppt-laenderspiel-hasschoere-legen-bosnien-gegen-rumaenien-lahm-video/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/september-bringt-seltenes-himmelsschauspiel-ueber-oesterreich/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/skiurlaub-2026-27-jahorina-kopaonik-oder-oesterreich-wo-familien-wirklich-sparen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/smoki-ajvar-plazma-so-viel-teurer-sind-balkan-produkte-in-oesterreich-wirklich/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/staedtetrip-statt-weihnachtsstress-5-guenstige-reiseziele-ab-wien/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/stress-im-job-arbeitsklimaindex-wieder-auf-dem-stand-1997/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/suche-nach-007-hat-ein-ende-robert-pattinson-ist-der-neue-james-bond/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/suho-meso-kaese-rakija-was-nach-dem-familienbesuch-nicht-einfach-mit-darf/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/urlaub-am-balkan-und-ploetzlich-krank-so-entgeht-man-der-kostenfalle/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/vidim-ti-put-wenn-balkan-tanten-aus-dem-kaffeesatz-lesen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/vom-balkan-nach-wien-nemanja-zilovic-will-magenta-veraendern/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/vom-gastarbeiterkind-zum-chef-der-wandel-der-balkan-community-in-oesterreich/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/vucic-kuendigt-abschied-an-ganzes-mandat-bleibe-ich-sicher-nicht/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/weltreligionen-im-wandel-islam-koennte-christentum-schon-2035-ueberholen/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/weltweit-einzigartig-forscher-entdecken-geheimnisvollen-pilz-in-bosnien/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/wie-funktionieren-live-wetten-waehrend-eines-fussballspiels/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.kosmo.at/wurst-kaese-kajmak-warum-vakuumieren-an-der-eu-grenze-nicht-hilft/": [
+  "baseline",
+  "2026-11-19",
+  "source:kosmo",
+  "2026-11-20"
+ ],
+ "https://www.lodgify.com/consultancy-calls/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/damage-protection/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/deliver-5-star-stays/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/dynamic-pricing/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/events/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/get-direct-bookings/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/get-fully-booked/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/guides/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/payment-processing/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/protect-your-rental/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/reviews/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/streamline-hosting/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/success-stories/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/switching-software/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/vacation-rental-channel-manager/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/vacation-rental-resources/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.lodgify.com/vacation-rental-website-builder/": [
+  "baseline",
+  "2026-11-19",
+  "source:lodgify-blog"
+ ],
+ "https://www.ots.at/presseaussendung/OTS_20261118_OTS0225/21-wiener-gemeinderat-11": [
+  "baseline",
+  "2026-11-19",
+  "source:ots"
+ ],
+ "https://www.ots.at/topthema/honorarobergrenze-bei-wahlaerzten": [
+  "baseline",
+  "2026-11-19",
+  "source:ots"
+ ],
+ "https://www.phocuswire.com/Green-Light-For-Ground-Transportation/ ": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/events/adobe-webinar-state-digital-transformation-ai-world": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/events/onyx-webinar-smarter-insights-stronger-partnerships-maximizing-performance-with-business-intelligence": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/events/paypal-webinar-rise-agentic-commerce-travel": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/hot-25-travel-startups-2023 ": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/hot-25-travel-startups-2024/ ": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/hot-25-travel-startups-2025/ ": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/hot-25-travel-startups-2026/ ": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/online/ceo-spotlight-andres-spitzer-civitatis": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/online/ceo-spotlight-harman-singh-narula-canary-technologies": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/online/despegar-ceo-gonzalo-estebarena": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/startups/hot-25-travel-startups-2027-folio": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/startups/hot-25-travel-startups-2027-passtination": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/startups/hot-25-travel-startups-2027-pintours": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/startups/hot-25-travel-startups-2027-rove": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/startups/startup-stage-routes": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/technology/ceo-spotlight-filip-filipov-oag": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/technology/ceo-spotlight-julie-cheetham-travalyst": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/technology/ceo-spotlight-matthijs-welle-mews": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/technology/meta-exec-sanjay-bhatia-messaging-muse-travel": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/interviews/technology/phocuswright-europe-2026-interview-gavira-watts": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/london-tmai-summit-2026": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/distribution/travelport-demonstrates-agentic-booking-pitching-airline-control": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/finance/airbnb-q3-2026-earnings": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/finance/booking-holdings-q3-2026-earnings": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/finance/expedia-group-q3-2026-earnings": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/finance/fairly-raises-22m-expand-vacation-rental-presence-build-out-ai": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/finance/sabre-q3-2026-earnings": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/finance/weroad-kicks-of-ma-strategy-with-acquisition-of-traveltribe": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/online/phocuswright-europe-2026-executive-interview-gary-morrison-hostelworld": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/online/travel-destinations-creators-launch-alliance-against-ai-generated-content": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/startups/2026-hot-25-travel-startups-check-in-2026": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/startups/ai-agent-vayo-adds-travel-booking": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/startups/global-startup-pitch-2027-kick-off-london": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/startups/hot-25-travel-startups": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/technology/biztrip-ai-adds-trip-planning-in-slack-teams-and-imessage": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/technology/brand-loyalty-retains-influence-personal-ai-agents-take-on-travel-booking": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/technology/kayak-ask-ai-finds-cheapest-dates-fly-using-live-prices": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/technology/lessons-frontline-independent-travel-companies-ai-wins-misses": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/technology/qantas-cut-jobs-through-modernization-drive": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/technology/united-blocks-third-party-ai-agents-from-app-website": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/news/technology/what-faa-outage-exposes-about-legacy-infrastructure-fragile-recovery": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/opinion/finance/why-next-airline-tech-race-will-reward-commercial-discipline-over-spending": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/opinion/technology/3-themes-shaping-next-phase-ai-travel-marketing": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/partner-content/online/intrepid-adventure-travel-help-brands-meet-changing-traveler-expectation": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/partner-content/online/journey-fragmented-care-should-not-be": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/partner-content/online/onyx-beyond-adr-revpar-view-hotel-performance": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/partner-content/online/trade-desk-why-travel-marketers-look-beyond-search": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/partner-content/technology/trust-identity-payments-preparing-agentic-commerce-travel": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/phocuswright-launch-travel-marketing-ai-summit-march-2026": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/the-phocuswright-conference-2026-event": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/travel-tech-news-briefs/2026/november-13": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.phocuswire.com/webinar-travel-forward-data-insights-trends-2026": [
+  "baseline",
+  "2026-11-18",
+  "source:phocuswire"
+ ],
+ "https://www.smoobu.com/en/blog/airbnb-new-guest-rules-check-in/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/blog/built-to-book-what-to-automate-and-what-to-keep-human/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/blog/the-complete-automated-guest-journey/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/blog/top-short-term-rental-software/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/blog/uber-vrbo-vacation-rentals/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/do-not-sell-or-share-my-personal-information/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/free-trial/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/glossary/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/guides/automate-the-management-of-your-vacation-rental/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/guides/cancellation-policy-for-vacation-rentals/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/guides/how-to-increase-your-bookings/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/guides/starting-a-vacation-rental-business/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/reservation-system-pms-vacation-rental/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.smoobu.com/en/vacation-apartments-and-homes/": [
+  "baseline",
+  "2026-11-19",
+  "source:smoobu-blog",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/bildung/kindergartenanmeldung": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/bildung/tagesbetreuung": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/freizeit/weihnachtsmaerkte": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/gesundheit/aerzte-apotheken": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/inhalt/datenschutz": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/kontakt/rechenzentren-strategie": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien"
+ ],
+ "https://www.wien.gv.at/sozialinfo/content/de/10/Homepage.do": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/stadtplanung/2er-linie-neugestaltung": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/umwelt/forst-landwirtschaft": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/veranstaltungen/kinderfilmfestival": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/veranstaltungen/wiener-lichtblicke": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/verwaltung/oeffentliche-verlautbarungen": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/wirtschaft/esc-2026-wertschoepfung": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/wirtschaft/foerderung-finanzierung": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/wohnen/mieterhilfe-beratung": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://www.wien.gv.at/zusammenleben/obdachlosigkeit-winterpaket": [
+  "baseline",
+  "2026-11-19",
+  "source:stadt-wien",
+  "2026-11-20"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/news/european-citizens-panel-deliver-recommendations-strengthening-eu-democracy": [
+  "baseline",
+  "2026-11-20",
+  "source:european-commission"
+ ],
+ "https://digital-strategy.ec.europa.eu/en/news/first-european-standard-published-support-cyber-resilience-act": [
+  "baseline",
+  "2026-11-20",
+  "source:european-commission"
+ ],
+ "https://fortune.com/2026/11/19/55-billion-dollars-ea-cofounder-bing-gordon-compared-make-or-break-interview-questions-with-amazon-ceo-andy-jassy-career-advice/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/ai-agents-trust-identity-agent-name-service-dns-godaddy-jared-sine/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/ai-leadership-test-workers-empathy-adecco-denis-machuel/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/ai-operating-model-build-consensus-ibm/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/anthropic-ipo-amazon-google-stake-windfall-nonvoting/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/anthropic-ipo-millionaire-employees-billionaire-early-hires-wealth-concentration-warning-dario-amodei/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/anthropic-ipo-sound-ventures-ashton-kutcher-7-billion-stake/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/anthropics-ipo-nets-goldman-sachs-and-morgan-stanley-113-million-apiece-in-fees-eclipsing-their-spacex-paydays/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/aws-marketplace-rolls-out-ai-agents-to-shop-for-software-autonomously/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/bill-ackman-nvidia-jensen-huang-reinstatement-board/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/china-greater-bay-area-finally-ready-hong-kong-shenzhen-macau/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/costco-generators-sold-out-britain-pentagon-prepare-apocalypse-insurance/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/elon-musk-not-maga-445-million-election-spending-midterms/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/employer-branding-rejection-emails-candidate-experience/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/gap-chief-entertainment-officer-pam-kaufman-explained/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/harvard-phone-ban-study-school-kids-learn-two-weeks/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/indonesia-china-investment-smart-cities-danantara/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/indonesia-needs-investor-confidence-for-growth/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/jeff-bezos-10-billion-climate-2030-earth-fund-amazon/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/maybank-pursuing-gradual-agentic-ai-rollout/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/midterms-ai-moratorium-pause-data-centers-hardwired-pause-david-krueger/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/nvidia-funding-deal-anthropic-ipo/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/nvidia-jensen-huang-downdall-investment-ai-boom/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/ollama-ceo-open-models-ai-security-enterprise-data-jeffrey-morgan/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/outlook-faa-chase-crashed-down-detector-outages-ai-agents-hack/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/poppi-founders-jetty-gatorade-hydration/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/series-a-funding-skyrocketed-2026-founders-arent-getting-more-chances/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/social-security-22-percent-cut-ron-johnson-stop-scaring-seniors-act-borrow-190-trillion-crfb/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/sunrun-overview-energy-ceos-grid-ai-energy/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/target-q3-booked-301-million-from-trump-tariff-refunds/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/trump-xi-putin-trade-war-shenzen/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/verizon-ceo-elon-musk-spacex-starlink-mobile-cost-300-billion-dollars/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/2026/11/19/what-california-regulators-want-from-waymo/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/current-arm-mortgage-rates-11-19-2026/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/current-mortgage-rates-11-19-2026/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/current-refi-mortgage-rates-11-19-2026/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/home-equity-rates-11-19-2026/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/article/price-of-oil-11-19-2026/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://fortune.com/ranking/best-workplaces-parents/": [
+  "baseline",
+  "2026-11-20",
+  "source:fortune"
+ ],
+ "https://skift.com/2026/11/19/los-angeles-area-raise-hotel-taxes-before-olympics/": [
+  "2026-11-20",
+  "2026-11-20",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/19/outdoor-water-experiences-hospitality-opportunities-2027/": [
+  "2026-11-20",
+  "2026-11-20",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/19/sabre-wants-to-be-the-transaction-engine-behind-ai-travel-bookings/": [
+  "2026-11-20",
+  "2026-11-20",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/19/the-case-for-pollution-tourism-in-india-sell-the-toxic-air/": [
+  "2026-11-20",
+  "2026-11-20",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/19/tour-associations-attempt-to-take-on-package-emissions-reporting/": [
+  "2026-11-20",
+  "2026-11-20",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/19/turkey-earns-more-from-fewer-tourists-but-hotels-miss-out/": [
+  "2026-11-20",
+  "2026-11-20",
+  "source:skift"
+ ],
+ "https://skift.com/2026/11/19/united-cfo-plays-down-jetblue-deal-chatter/": [
+  "2026-11-20",
+  "2026-11-20",
+  "source:skift"
+ ],
+ "https://thenextweb.com/news/alibaba-megaspeed-zhejiang-lab-military-nvidia-chips-nyt": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/anthropic-ipo-amodei-nasdaq-bell-ant-debut-needham-staff-sales": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/anthropic-shares-jump-34-percent-nasdaq-debut-ant": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/apple-iphone-camera-chief-jon-mccormack-retires": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/everful-48-5m-series-a-ai-sourcing-global-commerce": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/gemini-4-neon-google-third-intelligence-index-replaces-argon": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/google-blue-origin-new-glenn-project-suncatcher-2029": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/google-gemini-mac-computer-use-multi-step-tasks": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/google-quantum-ai-contextuality-science-105-qubits": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/google-workers-petition-schools-search-without-ai": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/jpmorgan-chase-visa-mastercard-vendor-breach-n0n-leak": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/magnific-300m-arr-cuenca-outside-funding-chinese-models": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/megarobo-200m-oman-investment-authority-ai-lab-experiments": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/microsoft-mai-code-2-licensed-weights-ignite": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/microsoft-office-in-copilot-nadella-ignite-agi-pilled": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/model-ml-250m-series-b-1-5bn-valuation-ai-agents-bankers": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/nvidia-h200-china-exports-commerce-kessler-the-information": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/orange-ventures-250m-ai-cybersecurity-startups-2027-2032": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/orange-wolof-ai-models-qwen3-hugging-face": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/salesforce-american-si-exports-program-33-consortia": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/trump-nvidia-trades-97-5m-cnbc-huang-briefing": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://thenextweb.com/news/waymo-california-freeway-ban-dmv-construction-zones": [
+  "baseline",
+  "2026-11-20",
+  "source:thenextweb"
+ ],
+ "https://www.kosmo.at/740-millionen-kinder-koennten-bis-2050-kurzsichtig-sein-forscher-sehen-vermeidbare-risiken/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/adria-immobilien-im-risiko-check-diese-istrischen-orte-fallen-in-der-studie-auf/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/alle-reden-ueber-gta-6-nikola-jokic-spielt-lieber-etwas-ganz-anderes/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/allergie-prognose-fuer-oesterreich-bis-2050-koennten-175-millionen-menschen-auf-ambrosia-reagieren/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/billig-vs-teuer-zwei-euro-haarfarbe-schlaegt-packung-um-26-euro-im-test/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/boeller-zerfetzt-hand-anrainerin-findet-blutenden-buben-am-boden/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/daumen-hoch-im-spitalsbett-bosniens-stuermer-laechelt-trotz-meniskus-aus/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/elektroauto-und-herd-gleichzeitig-warum-die-viertelstunde-bei-den-stromkosten-wichtiger-wird/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/fall-danka-angeklagte-widerrufen-gestaendnis-und-beschuldigen-polizei-der-folter/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/hammerstrafe-fur-fussballer-nach-steinwurf-auf-schiri/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/immer-mehr-menschen-wohnen-allein-was-das-fuer-oesterreichs-wohnungsmarkt-bedeutet/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/jeder-vierte-fragt-ki-nach-fakten-doch-das-wissen-haelt-nicht-schritt/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/kickl-tobt-steuergeldvernichtung-bei-ruanda-plaenen-karner-schweigt-zu-kosten/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/legionellen-in-oesterreich-423-erkrankte-groesste-gefahr-lauert-oft-in-der-eigenen-dusche/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/neue-eu-regel-ab-2027-elektroautos-bekommen-einen-batteriepass-doch-eine-wichtige-angabe-bleibt-verborgen/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/nickerchen-waehrend-xi-rede-trump-szene-geht-viral-video/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/nur-unterhose-und-socken-polizisten-finden-schwer-verletzten-mann-auf-der-strasse/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/oesterreich-wird-aelter-zahl-der-menschen-ab-85-soll-sich-verdoppeln/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/trump-putin-und-xi-warnen-vor-atomkrieg-historische-einigung-in-china/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/ueberweisungen-nach-bosnien-worauf-die-diaspora-in-oesterreich-jetzt-achten-sollte/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/uefa-untersagt-spiel-zwischen-bosnien-herzegowina-und-kosovo/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/un-prognose-bosnien-koennte-jeden-vierten-einwohner-verlieren/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/vernichtungsverbot-fuer-unverkaufte-kleidung-das-aendert-sich-jetzt-fuer-haendler-und-kaeufer/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.kosmo.at/wien-nimmt-maenner-in-die-pflicht-neue-kampagne-gegen-gewalt-an-frauen/": [
+  "baseline",
+  "2026-11-20",
+  "source:kosmo"
+ ],
+ "https://www.ots.at/presseaussendung/OTS_20261119_OTS0208/linzer-altbischof-ludwig-schwarz-verstorben": [
+  "baseline",
+  "2026-11-20",
+  "source:ots"
+ ],
+ "https://www.ots.at/topthema/16-tage-gegen-gewalt-an-frauen": [
+  "baseline",
+  "2026-11-20",
+  "source:ots"
+ ],
+ "https://www.wien.gv.at/kontakt/eine-stadt-ein-buch": [
+  "baseline",
+  "2026-11-20",
+  "source:stadt-wien"
+ ]
+}
