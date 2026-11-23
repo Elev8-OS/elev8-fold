@@ -1,0 +1,101 @@
+{
+ "number": 5,
+ "date": "2026-11-23",
+ "stories": [
+  {
+   "kicker": "Regulierung · EU",
+   "headline": "Spanien: 8352 Inserate ohne gültige Nummer müssen weg",
+   "deck": "Das Konsumministerium verlangt von zwei grossen Plattformen die Löschung. Weil gesperrte Inserate im Ausland sichtbar bleiben, hat das Ministerium der Stadt Madrid die Daten zu den im Oktober gesperrten Inseraten für eine Sperre auch im Ausland geschickt.",
+   "stat": "8352 Inserate ohne oder mit falscher Registrierungsnummer, Aufforderung vom 12. November (Ministerio de Consumo)",
+   "body": "Spaniens Konsumministerium hat am 12. November zwei grosse Ferienvermietungsplattformen aufgefordert, 8352 Inserate zu entfernen. Die Mitteilung des Ministeriums nennt die Plattformen nicht. 7199 Inserate betreffen die eine, 1153 die andere. 7227 haben keine Registrierungsnummer, 1125 eine falsche: erloschene Nummern für Zimmervermietung, die für ganze Wohnungen verwendet werden.\n\nEs ist die zweite Welle in drei Wochen. Am 22. Oktober verlangte das Ministerium über die Meldewege des Digital Services Act die Löschung von 8318 Inseraten, die als Saisonvermietung auftraten, aber Buchungen unter 31 Nächten erlaubten, die meisten in Madrid (6523 in der Stadt). 4443 Madrider Inserate hat eine Plattform danach in Spanien gesperrt; laut Mitteilung vom 12. November bleiben sie von ausländischen IP-Adressen aus sichtbar. Andrés Barragán, Generalsekretär für Konsum und Glücksspiel, hat der Stadt Madrid deshalb jedes Inserat mit ID und URL geschickt, damit sie bei der Plattform die Sperre auch im Ausland verlangen kann, gestützt auf die EU-Verordnung 2022/2065.\n\nFür die Oktober-Welle nennt Europa Press Airbnb als eine der Plattformen. Airbnb sagte, es habe die verlangten Massnahmen umgesetzt, kritisierte aber fehlende klare Regeln und Kompetenzkonflikte zwischen den Behörden, die laut Airbnb bei Gastgebern, Anbietern, Plattformen und Reisenden „unnecessary confusion“ stifteten (Europa Press, übersetzt). In der Mitteilung vom 22. Oktober erinnert das Ministerium an seine Busse von 64 Millionen Euro gegen Airbnb und droht bei Nichtbefolgung mit einem Verfahren. Eine Frist oder eine Bussenhöhe nennt keine der beiden Mitteilungen; die Zahl von bis zu 100 000 Euro steht nur bei Moncloa.com, ohne Quelle.\n\nDie Quellenlage ist schmal: eine Primärquelle, keine unabhängige Gegenprobe. Alle Berichte geben die Mitteilungen des Ministeriums wieder, die die Redaktion im Original gelesen hat: zur Mitteilung vom 12. November EFE (über Infobae), Moncloa.com und Spanish Property Insight, zur Oktober-Welle Demócrata (Europa Press). Eigene Recherchen der Medien fand sie nicht.",
+   "from_memory": "Am 16. Oktober kündigte Bürgermeister Ludwig an, Plattformen wie Airbnb und Booking.com müssten die Angaben „überprüfen und ungültige Inserate“ entfernen (ORF Wien). Der Landtag hat das Gesetz inzwischen beschlossen; das Register gilt ab Januar 2027, für bestehende Inserate ab April. Was Wien per Gesetz regelt, verlangt Madrid schon jetzt per Aufforderung.",
+   "my_read": "Neu ist, dass Spanien nicht nur fehlende, sondern auch 1125 unpassende Nummern beanstandet, etwa eine Zimmernummer für eine ganze Wohnung. Für ein PMS heisst das (eine Annahme der Redaktion): Die Registrierungsnummer wird zum Datenfeld, dessen Inhalt geprüft wird, nicht nur dessen Vorhandensein, und ein falscher Eintrag kann das Inserat zur Löschung bringen. Der Oktober-Fall zeigt, dass Spanien solche Sperren auch über die Landesgrenze hinaus durchsetzen will.",
+   "sources": [
+    "Ministerio de Consumo",
+    "EFE",
+    "Demócrata (Europa Press)"
+   ],
+   "score": {
+    "impact": 3,
+    "novelty": 3,
+    "origins": 2,
+    "depth": 1,
+    "total": 9
+   }
+  },
+  {
+   "kicker": "Plattformen · Gebühren",
+   "headline": "Vrbos 12 Prozent gelten, Hospitable reicht sie an die Gäste weiter",
+   "deck": "Die Umstellung meldete diese Zeitung am Donnerstag. Neu: Vrbos Hilfeseite bestätigt sie und nennt bis zu 15 Prozent in Teilen Europas, und Hospitable hat die Vrbo-Aufschläge berechtigter Inserate automatisch erhöht.",
+   "stat": "12 % Vrbo-Kommission auf Miete plus Reinigungs- und Haustiergebühren, vorher 5 % mit PMS-Anbindung (Hostaway)",
+   "body": "Am Donnerstag konnte die Redaktion nicht prüfen, ob die Umstellung in Kraft trat. Vrbos eigene Hilfeseite und Hospitable bestätigen es jetzt: 12 Prozent auf Miete und Gastgebergebühren wie Reinigung oder Haustier, Steuern und Kautionen ausgenommen. Laut Vrbos Hilfeseite ist die Zahlungsabwicklung enthalten, wenn Vrbo selbst kassiert; in Teilen Europas, Australiens und Neuseelands können es für Professional-Plan-Gastgeber bis zu 15 Prozent sein. Angekündigt hat Vrbo das am 29. September (Skift, Futurestay), gültig ist es seit Donnerstag, 29. Oktober.\n\nBisher zahlten an ein PMS angebundene Gastgeber 5 Prozent, die übrigen 5 Prozent plus 3 Prozent Zahlungsgebühr (Hostaway). Abo-Kunden wechseln, wenn ihr Jahresvertrag ausläuft; Vrbo stellt das Abo-Modell ein. Laut Hostaway zählt das Buchungsdatum, nicht das Aufenthaltsdatum. Hospitable schreibt, die Umstellung laufe gestaffelt Konto für Konto.\n\nDie PMS-Anbieter reagieren mit Preisen. Hostaway rechnet vor, dass ein Gastgeber, der bisher 5 Prozent zahlte, rund 7,95 Prozent aufschlagen muss, um gleich viel auszuzahlen, und bietet dafür einen Vrbo-spezifischen Aufschlag an. Hospitable hat die Vrbo-Aufschläge berechtigter Inserate am 29. Oktober automatisch angehoben, sofern der Kunde nicht bis 28. Oktober widersprach, und rechnet vor: Aus 10 Prozent Aufschlag bei 8 Prozent Kommission werden 15 Prozent bei 12.\n\nZwei Punkte sind offen. Erstens die Zahlungsgebühr: Futurestay sah am 2. Oktober auf Vrbos Hilfeseite noch eine zusätzliche 3-Prozent-Zeile, was Vrbos Anteil auf rund 15 statt 12 Prozent heben würde; die heutige Seite zeigt sie nicht mehr. Zweitens berichtet nur Futurestay von neuen Gastgeberbedingungen: Preise auf Vrbo müssten mindestens so günstig sein wie auf der eigenen Website und anderen Kanälen, und Vrbo dürfe Kommission auf Direktbuchungen erheben, die innerhalb von 30 Tagen nach einer Vrbo-Anfrage entstehen. In den Vrbo-Bedingungen selbst hat die Redaktion das nicht geprüft. Die Quellen sind Vrbo selbst, Skift (29. September) und drei Softwareanbieter, die Vrbos Ankündigung wiedergeben und ihren Kunden Werkzeuge verkaufen; Rental Scale-Up blockiert den Abruf.",
+   "from_memory": "Laut AirDNA laufen weltweit rund 55 Prozent der Vrbo-Inserate über ein PMS (Skift, 29. September). Für diese Mehrheit steigt die Kommission von 5 auf 12 Prozent, und für sie entscheiden die PMS-Anbieter über den Aufschlag.",
+   "my_read": "Für Channel Manager wird die Kommission pro Kanal zur Preisfunktion: Hospitable hat gezeigt, dass ein PMS die Plattformgebühr per Opt-out in den Gastpreis verschieben kann. Ob das mit Vrbos Regeln vereinbar ist, ist offen. Die von Futurestay gemeldete Paritätsklausel verlangt Vrbo-Preise, die mindestens so günstig sind wie auf der eigenen Website; ein reiner Vrbo-Aufschlag macht Vrbo teurer. Hostaway und Hospitable bieten solche Aufschläge aber weiter an, ohne einen Konflikt zu erwähnen, und durchgesetzt wurde nichts. Für Elev8 und seine Kunden entscheiden deshalb zwei Fragen, die nur Vrbos eigene Bedingungen beantworten: Gilt die Parität, und enthalten die 12 Prozent die Zahlungsgebühr wirklich?",
+   "sources": [
+    "Vrbo",
+    "Skift",
+    "Hostaway",
+    "Hospitable",
+    "Futurestay"
+   ],
+   "score": {
+    "impact": 3,
+    "novelty": 1,
+    "origins": 3,
+    "depth": 1,
+    "total": 8
+   }
+  }
+ ],
+ "in_brief": [
+  {
+   "kicker": "Regulierung · Schweiz",
+   "headline": "Genf kontrolliert Airbnb per Software statt mit neuer Behörde",
+   "text": "Der Genfer Grosse Rat hat am Donnerstag, 5. November, eine Motion zur Kontrolle von Kurzzeitvermietungen mit 65 zu 31 Stimmen angenommen, aber abgeschwächt: keine neue Aufsicht, kein Inventar aller Inserate, nur ein Bericht in zwölf Monaten. Der Staatsrat will per Verordnung eine offizielle Nummer einführen, die Plattformen anzeigen müssen, die Gästemeldung auf alle Gastgeber ausdehnen und bei 90 Nächten automatisch das Wohnungsamt alarmieren; der Kredit ist laut Staatsrat Nicolas Walder bewilligt. Alle Berichte stammen von der Agentur Keystone-ATS; ein Inkrafttreten ist nicht genannt.",
+   "sources": [
+    "La Télé",
+    "Le Temps",
+    "Swissinfo (Keystone-ATS)"
+   ]
+  },
+  {
+   "kicker": "Plattformen · Airbnb",
+   "headline": "Chesky deutet Preisgarantie für Ferienwohnungen an",
+   "text": "Auf X schrieb Airbnb-Chef Brian Chesky: „You presume we could never offer a price-match guarantee.“ Angekündigt ist nichts; Airbnb bietet die Garantie bisher nur für ausgewählte Hotels (Gutschrift bis 400 Dollar, NerdWallet, Mai). Skift liess einen KI-Agenten 16 Inserate mit den Websites der Vermieter vergleichen: In 10 Fällen war direkt günstiger, um bis zu 42 Prozent; eine kleine Stichprobe, Steuern und Gebühren waren unterschiedlich ausgewiesen. Beides berichtet nur Skift.",
+   "sources": [
+    "Skift",
+    "NerdWallet"
+   ]
+  },
+  {
+   "kicker": "PMS · Deals",
+   "headline": "Nachgetragen: Guesty hat Smily gekauft",
+   "text": "Schon am 17. September meldete Guesty den Abschluss der Übernahme von Smily (früher BookingSync), einem führenden PMS und Channel Manager Frankreichs. Den Preis nennt Guesty nicht; die fünf Gründer investieren einen Teil des Erlöses in Guesty-Aktien. Smily ist 2026 Premier-Plus-Partner im Connectivity-Programm von Booking.com. Die Redaktion hatte den Deal bei der Eröffnung der These zur PMS-Konsolidierung übersehen.",
+   "sources": [
+    "Guesty"
+   ]
+  }
+ ],
+ "theses": [
+  {
+   "name": "PMS-Konsolidierung",
+   "p": 0.6,
+   "prev": 0.45,
+   "why": "Guesty kaufte Smily am 17. September, vor Eröffnung der These. Ein Beleg für die Basisrate, kein Treffer im Fenster."
+  },
+  {
+   "name": "KI-Gästeservice wird Standard",
+   "p": 0.6,
+   "prev": 0.6,
+   "why": "Nichts Neues seit Mittwoch."
+  },
+  {
+   "name": "Bali-Registrierung greift",
+   "p": 0.7,
+   "prev": 0.7,
+   "why": "Seit Donnerstag nichts Neues mit Datum."
+  }
+ ],
+ "heard": [],
+ "letter": "Die These „PMS-Konsolidierung“ fragt, ob bis Ende Juni 2027 ein grosser PMS einen anderen übernimmt. Guesty hat das mit Smily schon im September getan, vor Eröffnung der These. Soll die These nur Deals ab dem 18. November zählen (so lese ich sie jetzt), oder soll ich sie schärfer fassen, etwa mit einem Käufer ausserhalb der Branche? Und: Spielt Vrbo für Elev8-Kunden überhaupt eine Rolle, oder reichen Airbnb und Booking.com?"
+}
