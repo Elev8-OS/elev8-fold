@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-24",
+ "kind": "issue",
+ "start": "2026-11-24T03:46Z",
+ "end": "2026-11-24T03:58Z",
+ "environment_cached": false,
+ "environment": "pymupdf missing at start; ran engine/tools/env_setup.sh, then requests/feedparser/trafilatura/onnxruntime/pymupdf import ok",
+ "engine": "git submodule update --init (worked first try), pinned 90096e6",
+ "headless_browser": "available; used by fetch for brusselstimes",
+ "replies": "none new (ArtifactData query status==new returned nothing)",
+ "sources_read": 53,
+ "sources_failed": [
+  {
+   "id": "source:phocuswire",
+   "ok": false,
+   "mode": null,
+   "browser": false,
+   "new": 0,
+   "error": "HTTP 403",
+   "undated_backlog_dropped": null,
+   "baseline": null
+  },
+  {
+   "id": "source:vrbo-help-center",
+   "ok": false,
+   "mode": null,
+   "browser": false,
+   "new": 0,
+   "error": "HTTP 429",
+   "undated_backlog_dropped": null,
+   "baseline": null
+  }
+ ],
+ "items": {
+  "new": 509,
+  "undated_backlog_dropped": 966,
+  "note": "top 30 dominated by cash.ch, detik-bali, kosmo, ORF/news.at general news; only ~27 of 509 matched beat keywords. Ranking still floods with regional general news (region boost)."
+ },
+ "searches": [
+  "Airbnb news 23 Nov (house rules repeats; Costa Rica 10% bill)",
+  "Booking.com hosts/partners (Partner Division repeat; ProtoThema/ot.gr claim + Greek HCC)",
+  "Kurzzeitvermietung CH/DE/AT (nothing new dated)",
+  "Bali villa OTA crackdown EN+ID (nothing after 21 Sep)",
+  "PMS funding/acquisitions Nov 2026 (nothing)",
+  "EU STR regulation SDEP (nothing new)",
+  "Zürich 90-Tage (Stadtrat counter-proposal due Jan 2027, older)",
+  "Wien WKVRG (already known)",
+  "BFS Logiernächte Oktober (found)",
+  "AI guest messaging launches (vendor guides only)",
+  "Airbnb price match (repeat)",
+  "Costa Rica 25.910"
+ ],
+ "reporter_batches": [
+  {
+   "batch": "b1 Booking claim + Greek HCC",
+   "articles": 5,
+   "skips": 0
+  },
+  {
+   "batch": "b2 Swiss hotel stays",
+   "articles": 3,
+   "skips": 0,
+   "note": "BFS release itself not retrievable; numbers from AWP/SDA texts"
+  },
+  {
+   "batch": "b3 Bali wages",
+   "articles": 4,
+   "skips": 2,
+   "note": "two DECIDED edges same src/rel/dst/valid_from merged; editor restored the decree quote (e:8905fc9521d0384a)"
+  },
+  {
+   "batch": "b4 Expedia/Booking research/Dwelly/Costa Rica",
+   "articles": 5,
+   "skips": 0,
+   "note": "Skift Expedia B2B only 983 chars (paywall)"
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Booking: 18,135-hotel claim + Greek HCC plenary 19 Jan",
+   "impact": 2,
+   "novelty": 2,
+   "origins": 3,
+   "depth": 1,
+   "total": 8,
+   "decision": "story",
+   "corroboration": "HOTREC release (primary, organiser), Adnkronos/Hotel-Online, NL Times, ProtoThema, OT.gr; all numbers trace to SHCA/HOTREC"
+  },
+  {
+   "name": "Bali UMP 2027 +42%, UMK Badung/Denpasar",
+   "impact": 2,
+   "novelty": 3,
+   "origins": 1,
+   "depth": 1,
+   "total": 7,
+   "decision": "story (min_stories fill; off high beats, only one such)",
+   "corroboration": "CNBC Indonesia + detikBali (CNBC partly cites detikBali); decree not read"
+  },
+  {
+   "name": "Swiss hotels Oct +1.9% (BFS 2nd estimate)",
+   "impact": 1,
+   "novelty": 3,
+   "origins": 2,
+   "depth": 0,
+   "total": 6,
+   "decision": "in brief"
+  },
+  {
+   "name": "Costa Rica 10% platform-commission tax bill",
+   "impact": 1,
+   "novelty": 3,
+   "origins": 1,
+   "depth": 0,
+   "total": 5,
+   "decision": "in brief"
+  },
+  {
+   "name": "Dwelly AI agents 55% of letting steps",
+   "impact": 1,
+   "novelty": 3,
+   "origins": 0,
+   "depth": 0,
+   "total": 4,
+   "decision": "in brief"
+  },
+  {
+   "name": "Expedia B2B slowdown (Skift)",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 0,
+   "depth": 1,
+   "total": 4,
+   "decision": "in brief"
+  },
+  {
+   "name": "Booking UK Christmas research",
+   "impact": 0,
+   "novelty": 2,
+   "origins": 0,
+   "depth": 0,
+   "total": 2,
+   "decision": "dropped (PR, UK only)"
+  }
+ ],
+ "patterns": "Omri Morgenshtern / Booking Partner Division and Lou Zameryka: both printed 19-23 Nov; nothing new",
+ "dossiers": {
+  "booking": [
+   "policy:shca-collective-action-booking-parity-clauses",
+   "policy:hcc-booking-com-abuse-case",
+   "company:booking-com"
+  ],
+  "bali": [
+   "policy:bali-ump-2027",
+   "policy:umk-badung-2027",
+   "policy:bali-ota-unlicensed-listing-crackdown"
+  ]
+ },
+ "desk_check": "Changed: stat attribution to SHCA; Greek hotel count hedged (OT.gr ~1000 vs ProtoThema hundreds); 'entscheidet'->'berät'; NL Times not used for chronology; memory items marked as printed 18/19 Nov; Bali memory overreach removed; Badung union 5.3->5.0; deck hedged (recommendations); headline adds Badung +23; In brief wording (Dwelly September estimate, Expedia forecast, parahotel line).",
+ "rival_read": "Held up partly: added DMA removal of parity clauses in EEA and Sept 2026 transparency changes, Booking's position, commitments target the ranking lever, holiday-rental transfer marked as editor's assumption.",
+ "grounding_refusals": "none reported by reporters",
+ "theses": "no moves",
+ "signals": "none published; none open",
+ "rules_counted": "'Vor dem Lesen die Arbeit früherer Läufe zusammenführen': checked ls-remote; no unmerged newer branch (eager-volta-4dy02y is from 18 Nov, already merged).",
+ "problems": [
+  "Feeds very thin on beats; most material came from WebSearch.",
+  "phocuswire 403, vrbo-help-center 429.",
+  "BFS parahotellerie Q3 due 24 Nov 08:30, after publish: read tomorrow.",
+  "Graph: two edges with same src/rel/dst/valid_from merge (lost a quote once)."
+ ],
+ "engine_issues": [
+  "Upsert merges distinct facts that share src, rel, dst and valid_from but have different quotes (e.g. two figures DECIDED in one decree); the second overwrote the first's quote. Facts with different props/quotes need a way to coexist.",
+  "Ranking: the region boost lets general Vienna/Bali/Swiss news (cash.ch markets, detik local) crowd the top 30 out; beat relevance is weak for these feeds.",
+  "Same as 23 Nov: scheduled sessions run on claude/ branches; this run pushes to both the harness branch and main."
+ ],
+ "differently": "Search Greek/hotel-association angle earlier; check the BFS parahotellerie release next run; follow Governor's UMK decisions (25 Nov) for Badung/Denpasar."
+}
