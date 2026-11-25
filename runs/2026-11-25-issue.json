@@ -1,0 +1,154 @@
+{
+ "date": "2026-11-25",
+ "kind": "issue",
+ "start": "2026-11-25T03:46Z",
+ "end": "2026-11-25T04:12Z",
+ "environment_cached": false,
+ "environment": "pymupdf missing at start; ran engine/tools/env_setup.sh, then requests/feedparser/trafilatura/onnxruntime/pymupdf import ok",
+ "engine": "engine/ empty at start; git submodule update --init worked first try, pinned 90096e6",
+ "headless_browser": "available; no source rescued by it noted; hospitalitynet still HTTP 403",
+ "replies": "none new (ArtifactData query status==new returned nothing)",
+ "sources_read": 57,
+ "sources_failed": [],
+ "items": {
+  "new": 847,
+  "undated_backlog_dropped": 853,
+  "note": "top 30 again dominated by regional general news (balinetizen, cash, kosmo, moncloa); ~10 beat keyword matches. Material came mostly from WebSearch."
+ },
+ "podcasts": "none listed",
+ "searches": [
+  "Airbnb news 24 Nov (nothing new)",
+  "Booking.com partners (Partner Division repeat)",
+  "UMK Badung/Denpasar Gubernur (still recommendations, no decision found)",
+  "Kurzzeitvermietung DE/AT (nothing new dated)",
+  "EU STR registration (nothing new)",
+  "PMS funding Nov 2026 (nothing; Abode 2027 STR Tech Index found)",
+  "BFS Parahotellerie Q3 2026 (found)",
+  "AI guest messaging launches (Conduit 3.23)",
+  "Bali OTA crackdown (nothing new)",
+  "Zürich/Bern/Luzern Airbnb (Bern Postulat, Bern Lex Airbnb ruling)",
+  "Expedia/Vrbo hosts (nothing new)",
+  "Wien WKVRG (already known)",
+  "Airbnb DTV NaturMomente",
+  "Bern Verwaltungsgericht Lex Airbnb corroboration"
+ ],
+ "reporter_batches": [
+  {
+   "batch": "b1 Swiss parahotel + Bern",
+   "articles": 8,
+   "skips": 2,
+   "note": "htr and cash Q3 items were 2025; BFS page gives levels only, rates from one AWP text"
+  },
+  {
+   "batch": "b2 Airbnb DTV + Barcelona",
+   "articles": 4,
+   "skips": 1,
+   "note": "no Airbnb release on winners; Barcelona figures one council source via two outlets; editor removed wrong valid_to on Collboni DECIDED edge"
+  },
+  {
+   "batch": "b3 STR tech/AI",
+   "articles": 4,
+   "skips": 2,
+   "note": "hospitalitynet Abode index HTTP 403 (also for editor); shorttermrentalz link was the 2024 index"
+  }
+ ],
+ "candidates": [
+  {
+   "name": "Ferienwohnungen Q3 -9% (BFS)",
+   "impact": 2,
+   "novelty": 3,
+   "origins": 2,
+   "depth": 2,
+   "total": 9,
+   "decision": "story",
+   "corroboration": "BFS topic page (primary, levels); AWP text in nau/Moneycab/Radio BEO (one origin for rates); htr Q3 2025 as base check"
+  },
+  {
+   "name": "Bern Lex Airbnb ab 2027 + SP Postulat Zürcher Mechanismus",
+   "impact": 3,
+   "novelty": 2,
+   "origins": 1,
+   "depth": 2,
+   "total": 8,
+   "decision": "story (min_stories fill; headline claim rests on one agency report, said in deck/body)",
+   "corroboration": "htr, nau, Baublatt, Hauptstadt: all Keystone-SDA; Gemeinderat answer not read"
+  },
+  {
+   "name": "Barcelona Airbnb listings -20%",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 1,
+   "depth": 1,
+   "total": 5,
+   "decision": "in brief"
+  },
+  {
+   "name": "Airbnb/DTV NaturMomente 12 projects",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 1,
+   "depth": 0,
+   "total": 4,
+   "decision": "in brief"
+  },
+  {
+   "name": "Conduit 3.23 AI guest messaging",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 0,
+   "depth": 1,
+   "total": 4,
+   "decision": "in brief (paid wire)"
+  },
+  {
+   "name": "Booking CSO on partner/supply-chain fraud",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 1,
+   "depth": 1,
+   "total": 5,
+   "decision": "in brief"
+  },
+  {
+   "name": "Abode 2027 STR Tech Index",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 0,
+   "depth": 1,
+   "total": 4,
+   "decision": "dropped: article not readable (403)"
+  }
+ ],
+ "patterns": "Omri Morgenshtern/Booking Partner Division and Costa Rica: printed 19-24 Nov; nothing new",
+ "dossiers": {
+  "ferienwohnungen": [
+   "topic:ch-parahotellerie-ferien",
+   "topic:ch-parahotellerie-logiernaechte"
+  ],
+  "bern": [
+   "policy:bern-altstadt-90-naechte",
+   "policy:zuerich-mechanismus-kurzzeitvermietung",
+   "policy:bern-postulat-zuercher-mechanismus"
+  ]
+ },
+ "desk_check": "Changed: removed 'drittes Quartal in Folge' (Q1 not sourced), 'Stichprobe', private-listing exclusion softened, htr 2025 figure hedged, single AWP origin stated; memory dated by period; cut October hotel repeat. Bern: 'Hauptstadt eigenständig' false (SDA) removed; one-agency origin stated; 'stützt sich'->'verweist'; HEV blockade softened; Basel memory cites cash.ch/AWP only and no longer claims the ruling decided Bern; My read rewritten as possibility without unsupported customer claims.",
+ "rival_read": "Held up: Bern listing count is a stock, not nights; steady -8.9% across quarters and Q2 camping/group gains point to a demand shift. My read rewritten to lead with demand shift, platform shift marked unproven.",
+ "grounding_refusals": [
+  "editor: Verwaltungsgericht DECIDED quote from Baublatt not found (dropped; htr edge covers it)"
+ ],
+ "theses": "no moves",
+ "signals": "none published; none open",
+ "rules_counted": "'Vor dem Lesen die Arbeit früherer Läufe zusammenführen' helpful: ls-remote checked, main at 24 Nov issue, no unmerged branches.",
+ "problems": [
+  "Feeds thin on beats again; WebSearch carried the day.",
+  "hospitalitynet 403 even via fetch (browser not tried by tool).",
+  "Archive passages index lacks date/source for some backfilled passages (Q2 parahotel), so From the memory could only be dated by period.",
+  "Graph counts SDA relays (htr, nau, Baublatt) as independent origins in dossier."
+ ],
+ "engine_issues": [
+  "dossier 'independent_origins' counts agency relays (Keystone-SDA via htr/nau/Baublatt) as separate outlets.",
+  "passages.py search returns date '' and source null for some archived texts, which makes the From-the-memory date hard to give.",
+  "Same as 23/24 Nov: ranking floods the top 30 with regional general news."
+ ],
+ "differently": "Check BFS Sommersaison and absolute hotel figures on 7 Dec; look for the Bern Gemeinderat answer (primary) and Governor's UMK decrees for Badung/Denpasar."
+}
