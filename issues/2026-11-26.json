@@ -1,0 +1,99 @@
+{
+ "number": 8,
+ "date": "2026-11-26",
+ "stories": [
+  {
+   "kicker": "Regulierung · EU",
+   "headline": "Hotels und Gewerkschaften wollen EU-Grundregeln für gewerbliche Gastgeber",
+   "deck": "Das geplante EU-Gesetz für bezahlbares Wohnen erlaubt Beschränkungen der Kurzzeitvermietung nur in Gebieten mit Wohnungsnot. HOTREC und EFFAT verlangen am 25. November mehr: Mindeststandards unabhängig vom Wohnungsdruck und Arbeitsstandards auch für Reinigungskräfte und Property Manager. Für Letztere sollen die Plattformen sorgen.",
+   "body": "Die EU-Kommission hat den Affordable Housing Act am 9. September vorgeschlagen (COM(2026) 599). Er ist als Verordnung angelegt. Behörden erhalten damit eine Rechtsgrundlage, Kurzzeitvermietung und die Nutzung von Wohnungen als Zweitwohnung zu beschränken. Das gilt nur in ausgewiesenen «Gebieten mit Wohnungsstress», und auch dort nur, wenn die Behörde will. Grundlage ist eine Analyse des Wissenschaftlichen Dienstes des EU-Parlaments (EPRS) vom 11. November.\n\nDie Kriterien laut EPRS: Der Wohnpreis liegt beim Achtfachen des Einkommens oder darüber, das Verhältnis ist über zehn Jahre gestiegen und hat sich in drei Jahren nicht entspannt. Wer gelegentlich die eigene Hauptwohnung vermietet, ist ausgenommen. Neue Pflichten für Vermieter schafft der Vorschlag nicht. Beschränkungen gelten laut AK Europa höchstens fünf Jahre. Laut der Kanzlei scin muss eine Behörde zudem die Registrierung und die Löschung nicht konformer Inserate nach der EU-Verordnung 2024/1028 umsetzen. Diese Verordnung gilt seit dem 20. Mai 2026.\n\nDer europäische Hotelverband HOTREC und der Gewerkschaftsverband EFFAT unterstützen den Rahmen. In ihrer gemeinsamen Erklärung bemängeln sie aber, dass offen bleibt, ob Behörden beschränken müssen, wenn die Kriterien erfüllt sind. Ausserdem wollen sie Grundregeln unabhängig vom Wohnungsdruck. Dazu zählen Mindeststandards für Sicherheit, Haftung, Hygiene und Gästeschutz. Hinzu kommen Arbeitsstandards und Gesamtarbeitsverträge für alle, die in der Kurzzeitvermietung arbeiten, «including cleaners, property managers, reception and maintenance staff». Die Plattformen sollen dafür sorgen, dass Gastgeber diese Standards einhalten, und Gastgeber entfernen, die wegen schwerer Verstösse verurteilt wurden. Zudem soll 2024/1028 gestärkt werden, auch um Sozialdaten.\n\nDie Gegenseite: Die European Holiday Home Association (EHHA) bezweifelt laut EPRS, dass das Gesetz Wohnen günstiger macht oder Rechtssicherheit bringt. Airbnb hatte in der Konsultation vor dem Vorschlag verlangt, Pauschalbeschränkungen zu vermeiden und gezielt einzelne Quartiere zu erfassen. Dem Gewerkschaftsbund ETUC geht der Vorschlag nicht weit genug (AK Europa). Im Parlament führt der Binnenmarktausschuss IMCO, mit den Ko-Berichterstattern Dirk Gotink (EVP) und Georgia Tramacere (S&D). Einen Abstimmungstermin nennt keine Quelle. Diese Seite stützt sich auf die Erklärung der Verbände selbst, die EPRS-Analyse, AK Europa und eine Kanzleinotiz.",
+   "from_memory": "Am 16. September verlangte HotellerieSuisse in einem Positionspapier eine schweizweite Registrierungspflicht und nationale Mindeststandards, aber keine pauschalen Verbote oder starren Limiten. Rund 70 Prozent der Schweizer Kurzzeitvermietungsangebote würden inzwischen professionell oder semi-professionell betrieben, 2019 seien es rund 20 Prozent gewesen.",
+   "stat": "8Wohnpreis im Verhältnis zum Einkommen: eine von drei Bedingungen, damit ein Gebiet als angespannt gelten kann (EPRS)",
+   "my_read": "Der Vorschlag macht die Umsetzung von 2024/1028 im betroffenen Gebiet zur Voraussetzung jeder Beschränkung. Eine Behörde braucht also zuerst Register und Daten, bevor sie eingreifen darf. Dieses Register wollen die Verbände ausbauen, auch um Sozialdaten. Weiter reicht ihre zweite Forderung, wonach die Plattformen für die Arbeitsstandards ihrer Gastgeber verantwortlich sein sollen. Wie das gehen soll, sagen sie nicht. Eine mögliche Folge, die keine Quelle nennt und die Redaktion ableitet: Airbnb und Booking.com könnten Nachweise über Reinigungs- und Betriebspersonal verlangen. Solche Angaben liegen heute in PMS und Aufgabenplanung, also in Systemen wie Elev8. Noch ist das nur eine Lobbyforderung und kein Gesetzestext. Ob das Parlament sie aufnimmt, zeigt der IMCO-Bericht. Die Schweiz ist nicht EU-Mitglied, beide Regeln gelten dort nicht direkt. Hier läuft die Debatte über HotellerieSuisse und die Motion 24.4165 für eine nationale Datenerhebung, die im Ständerat noch aussteht.",
+   "score": {
+    "impact": 3,
+    "novelty": 3,
+    "origins": 2,
+    "depth": 2,
+    "total": 10
+   },
+   "sources": [
+    "HOTREC",
+    "EFFAT",
+    "EPRS",
+    "AK Europa",
+    "scin",
+    "HotellerieSuisse"
+   ]
+  },
+  {
+   "kicker": "Vertrieb · Google",
+   "headline": "Google will Hotel Ads in die Suchkampagnen überführen",
+   "deck": "Google überführt Hotel-Kampagnen in «Search campaigns for Travel». Gebote in Prozent des Zimmerpreises fallen weg, die kostenlosen Buchungslinks bleiben. Ob auch Ferienwohnungen betroffen sind, sagen die gelesenen Quellen nicht.",
+   "body": "Laut einem Hinweis auf den Hilfeseiten von Google Ads werden Hotel-Kampagnen ab dem vierten Quartal 2026 in «Search campaigns for Travel» überführt. Search Engine Roundtable hat den Hinweis laut Hospitality.today am 18. November entdeckt. Ein Google-Sprecher sagte Skift, Gebote, Reporting und die Automatik AI Max kämen damit auf eine Plattform. Die Änderung betreffe nur den Einkauf von Anzeigen, die kostenlosen Buchungslinks blieben unberührt. Alle drei gelesenen Berichte (Skift, Hospitality.today, Relevant Audience) stützen sich auf Googles eigene Angaben. Von Skift lag nur der frei zugängliche Anfang vor.\n\nBei den Geboten fallen Enhanced CPC und CPC% weg, also Gebote in Prozent des Zimmerpreises. Laut Relevant Audience laufen kommissionsbasierte Gebote aus. Übrig bleiben fixe Klickpreise oder automatische Gebote. Letztere brauchen ein Conversion-Tracking mit vollem Buchungswert. Auch der Multiplikator für die Aufenthaltsdauer entfällt. Laut Hospitality.today bleibt ein Gebot von 2 Dollar bei einer Suche über fünf Nächte bei 2 Dollar, solange niemand eine Anpassung von 400 Prozent setzt. Eine Kampagne kann künftig Textanzeigen, gesponserte Hotelkarten und Buchungslinks gemeinsam ausspielen. Die Hotelkarten lassen sich per Keyword ansteuern.\n\nBeim Zeitplan widersprechen sich die Angaben. Laut Hilfeseite beginnt die Umstellung im vierten Quartal 2026. Jedes Konto erhält seinen Termin per E-Mail und kann vorher selbst wechseln. Ein Migrationsleitfaden von Google nennt laut Relevant Audience dagegen die Mitte des ersten Halbjahres 2027 für die automatische Umstellung. Als Datenquelle bleibt der Hotel-Center-Feed. Ferienwohnungen erwähnt keine der Quellen in den gelesenen Teilen. Die Hilfeseite selbst hat die Redaktion nicht gelesen.",
+   "from_memory": "Am 2. Juli 2026 nannte Lodgify in einem Anbietervergleich einen Eintrag auf Google Vacation Rentals als Leistung seines Professional-Plans (ab 42 Dollar im Monat). Hospitable biete den Eintrag laut Lodgify ebenfalls ab dem Professional-Plan an. Google ist für PMS also schon ein verkaufter Kanal.",
+   "stat": "Q42026: Beginn laut Google-Hilfehinweis; ein Leitfaden nennt Mitte des ersten Halbjahres 2027",
+   "my_read": "Die Umstellung trifft Hotels, die Google für Anzeigen bezahlen. Für Gratis-Einträge gilt laut Google: Die kostenlosen Buchungslinks bleiben. Ob das auch für Einträge auf Google Vacation Rentals über ein PMS gilt, ist eine Ableitung der Redaktion. Anders sieht es bei Direktbuchungsseiten aus, die Anzeigen schalten. Dort verschwindet das Gebot in Prozent des Umsatzes, das der Provisionslogik von Vermietern am nächsten kommt. Ohne Conversion-Tracking mit Buchungswert bleibt nur der manuelle Klickpreis, und dieses Tracking müssen Buchungsmaschine und Website liefern. Ob Google dieselbe Umstellung für Ferienwohnungen plant, ist nicht belegt. Das ist die offene Frage für Elev8-Kunden mit eigener Website.",
+   "score": {
+    "impact": 2,
+    "novelty": 3,
+    "origins": 2,
+    "depth": 1,
+    "total": 8
+   },
+   "sources": [
+    "Google",
+    "Skift",
+    "Hospitality.today",
+    "Relevant Audience",
+    "Lodgify"
+   ]
+  }
+ ],
+ "in_brief": [
+  {
+   "kicker": "Plattformen · Expedia",
+   "headline": "Expedia kauft Kiwi.com",
+   "text": "Expedia Group hat am 25. November eine Vereinbarung zur Übernahme des tschechischen Online-Reisebüros Kiwi.com unterzeichnet. Einen Preis nennen beide nicht. Der Abschluss wird im ersten Halbjahr 2027 erwartet. Kiwi setzte 2025 laut Skift 227 Millionen Euro um. Beide Quellen nennen nur Flüge, für Endkunden und B2B-Partner. Unterkünfte erwähnen sie nicht.",
+   "sources": [
+    "Expedia Group (Business Wire)",
+    "Skift"
+   ]
+  },
+  {
+   "kicker": "Schweiz · Tourismuspolitik",
+   "headline": "Der Bund will Gäste lenken, nicht nur gewinnen",
+   "text": "Am Tourismus Forum Schweiz vom 24. November kündigte Richard Kämpf, Leiter Tourismuspolitik beim Seco, an, den Auftrag an Schweiz Tourismus um Nachfragelenkung zu erweitern. Die neue Tourismusstrategie soll der Bundesrat im Frühjahr 2027 verabschieden. Kämpf sagte auch, zur Kurzzeitvermietung und zur tatsächlichen Nutzung des Wohnraums brauche es bessere Daten. Das Seco will ein Mess- und Monitoring-System zu den Wirkungen des Tourismus aufbauen. Die Meldung stammt aus nur einer Quelle.",
+   "sources": [
+    "htr.ch"
+   ]
+  },
+  {
+   "kicker": "Bali · Zahlen",
+   "headline": "Koster erwartet 5,9 Prozent Wachstum",
+   "text": "Gouverneur Wayan Koster erwartet für Bali 2026 ein Wirtschaftswachstum von 5,9 Prozent (2025: 5,82 Prozent). Im dritten Quartal waren es laut Koster, unter Berufung auf das Statistikamt BPS, 5,85 Prozent. Derzeit kämen nach seinen Worten täglich 19 000 bis 25 000 ausländische und 12 000 bis 15 000 inländische Besucher. Der Tourismus trage rund 66 Prozent zur regionalen Wirtschaftsleistung bei. Die Besucherzahlen sind seine Aussage, keine Statistik.",
+   "sources": [
+    "Balinetizen"
+   ]
+  }
+ ],
+ "theses": [
+  {
+   "name": "Bali-Registrierung greift",
+   "p": 0.7,
+   "move": "→"
+  },
+  {
+   "name": "KI-Gästeservice wird Standard",
+   "p": 0.6,
+   "move": "→"
+  },
+  {
+   "name": "PMS-Konsolidierung",
+   "p": 0.6,
+   "move": "→"
+  }
+ ],
+ "heard": [],
+ "letter": "Der EU-Vorschlag für bezahlbares Wohnen liegt jetzt bei Parlament und Rat. Das Verfahren dürfte laut scin mehr als ein Jahr dauern. Soll die Zeitung jeden Schritt im Ausschuss melden oder erst, wenn ein Text feststeht? Und schalten Elev8-Kunden für ihre Direktbuchungsseiten Google-Anzeigen? Danach richtet sich, ob die Google-Umstellung weiter verfolgt wird."
+}

@@ -1,0 +1,39 @@
+{
+ "date": "2026-11-26",
+ "kind": "issue",
+ "start": "2026-11-26T03:45Z",
+ "end": "2026-11-26T04:20Z",
+ "environment_cached": false,
+ "environment": "pymupdf missing at start; ran engine/tools/env_setup.sh (packages + headless shell), then requests/feedparser/trafilatura/onnxruntime/pymupdf import ok",
+ "engine": "engine/ empty at start; git submodule update --init worked first try, pinned 90096e6",
+ "headless_browser": "available; no source rescued noted (phocuswire HTTP 403, hospitalitynet 403 via reporter)",
+ "replies": "none new (ArtifactData query status==new returned nothing)",
+ "sources_read": 63,
+ "sources_failed": [{"id": "source:phocuswire", "error": "HTTP 403"}, {"id": "source:vrbo-help-center", "error": "HTTP 429"}],
+ "items": {"new": 1094, "after_folding": 1085, "undated_backlog_dropped": 802, "note": "top 30 again dominated by Bali regional general news (detik-bali, idntimes, balinetizen, kanalbali); beat items found by keyword filter: HOTREC/EFFAT, Skift Google/Kiwi, htr Seco."},
+ "podcasts": "none listed",
+ "searches": ["Airbnb news 25 Nov (nothing new)", "Booking.com partners (Partner Division repeat)", "STR regulation DACH 25 Nov (nothing new; Vienna register decided 20 Oct, known)", "Bali villa/OTA crackdown Nov (nothing dated Nov)", "PMS funding/acquisition Nov (nothing)", "HOTREC EFFAT common standards (March 2026 statement found; Nov statement only on hotrec.eu)", "EU Affordable Housing Act STR (EPRS, AK Europa, scin found)", "Google Search campaigns for Travel (Hospitality.today, Relevant Audience, SER)", "Wien Landtag Kurzzeitvermietung (decided 20 Oct, known)", "Koster villa ilegal pajak (nothing Nov)", "PriceLabs/Hostaway/Guesty/Hospitable Nov (nothing official)", "AI guest messaging launch Nov (Conduit only, printed)", "EFFAT HOTREC joint statement AHA", "Expedia Kiwi.com acquisition"],
+ "reporter_batches": [
+  {"batch": "b1 EU Affordable Housing Act", "articles": 5, "skips": 1, "note": "transition-pathways page Jan 2026, superseded; HOTREC PDF read by editor afterwards (labour-standards/platform-duty quotes)"},
+  {"batch": "b2 Google Hotel Ads + Expedia/Kiwi", "articles": 5, "skips": 0, "note": "Skift teasers only (~1000 chars); hospitalitynet 403; Expedia release via Yahoo Finance copy (ir.expediagroup 403, businesswire timeout); company:expedia vs company:expedia-group both exist, not merged"},
+  {"batch": "b3 Swiss/Bali", "articles": 2, "skips": 2, "note": "Seco/htr single source (no SDA relay found); detik inflation skipped; no Nov Bali licensing news"}
+ ],
+ "candidates": [
+  {"name": "HOTREC/EFFAT on EU Affordable Housing Act", "impact": 3, "novelty": 3, "origins": 2, "depth": 2, "total": 10, "decision": "story 1", "corroboration": "primary statement (hotrec.eu page + PDF) counts 2; EPRS, AK Europa, scin for the act itself; EFFAT site has only March 2026 statement"},
+  {"name": "Google folds Hotel Ads into Search campaigns for Travel", "impact": 2, "novelty": 3, "origins": 2, "depth": 1, "total": 8, "decision": "story 2", "corroboration": "Google help notice (primary, via SER/Hospitality.today/Relevant Audience) + Google spokesperson in Skift; help page itself not fetched; depth = Lodgify July 2026 Google Vacation Rentals listing"},
+  {"name": "Expedia to acquire Kiwi.com", "impact": 1, "novelty": 3, "origins": 2, "depth": 1, "total": 7, "decision": "in brief", "corroboration": "Expedia release (Business Wire via Yahoo) + Skift"},
+  {"name": "Seco: Nachfragelenkung, Tourismusstrategie 2027", "impact": 1, "novelty": 3, "origins": 0, "depth": 1, "total": 5, "decision": "in brief (single source stated)"},
+  {"name": "Koster: Bali growth 5.9%, visitors per day", "impact": 1, "novelty": 2, "origins": 0, "depth": 1, "total": 4, "decision": "in brief (figures as said)"}
+ ],
+ "patterns": "Omri Morgenshtern/Booking Partner Division and Costa Rica bill: printed 19-24 Nov; nothing new",
+ "dossiers": {"eu": ["policy:eu-affordable-housing-act-com-2026-599", "policy:eu-str-regulation-2024-1028", "company:hotrec"], "google": ["company:google", "project:google-search-campaigns-for-travel"]},
+ "desk_check": "Changed: lead headline 'für alle' -> 'gewerbliche Gastgeber'; platform duty tied to labour standards only; 5-year cap attributed to AK Europa, listing removal to scin; stat '8' marked as one of three conditions; 'found guilty' wording; HES-SO clause dropped from memory; Motion 24.4165 described as data collection; Google headline softened to 'will ... überführen', stat shows both dates, 'Letztere' for tracking, 'in den gelesenen Teilen', Google free-links statement no longer extended to PMS listings; Expedia brief: no repeat of 24 Nov sentence, 'nur Flüge'; Seco monitoring not tied to STR; Koster Q3 via BPS attributed to Koster; back page: Parlament und Rat, duration per scin.",
+ "rival_read": "Qualified: My read no longer claims registration number becomes a listing condition; platform-proof-of-staff consequence marked as the paper's own inference; added the associations' call for stronger 2024/1028 incl. social data. Lead headline narrowed per desk check; not re-checked separately (change taken from the desk check itself).",
+ "grounding_refusals": [],
+ "theses": "no moves",
+ "signals": "none published; none open",
+ "rules_counted": "'Vor dem Lesen die Arbeit früherer Läufe zusammenführen' helpful: ls-remote, 5 claude/* branches all contained in main.",
+ "problems": ["Feeds thin on beats again; ranking top 30 is Bali general news.", "Skift and hospitalitynet unreadable beyond teaser/403.", "WebSearch returns little dated news for the last 72 h on platform/PMS beats."],
+ "engine_issues": ["Same as 23-25 Nov: ranking floods the top 30 with regional general news.", "dossier 'independent_origins' lists every source linked to the entities, not the outlets for the headline claim."],
+ "differently": "Fetch the Google Ads help page directly next time; follow IMCO draft report on the Affordable Housing Act; check BFS Sommersaison 7 Dec."
+}
