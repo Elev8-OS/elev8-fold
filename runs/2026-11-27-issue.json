@@ -1,0 +1,173 @@
+{
+ "date": "2026-11-27",
+ "kind": "issue",
+ "start": "2026-11-27T03:45Z",
+ "end": "2026-11-27T04:05Z",
+ "environment_cached": false,
+ "environment": "pymupdf missing at start; ran engine/tools/env_setup.sh (packages + headless shell), imports ok afterwards",
+ "engine": "engine/ empty at start; git submodule update --init worked first try, pinned 90096e6",
+ "headless_browser": "available; no source rescued (phocuswire 403, vrbo-help-center 429 in sources; marketscreener/quantisnow 403 and hospitalitynet 403 in reporter batches)",
+ "unmerged_branches": "checked claude/eager-volta-* branches per rule: nothing unmerged",
+ "replies": "none new (ArtifactData query status==new returned nothing)",
+ "sources_read": 70,
+ "sources_failed": [
+  {
+   "id": "source:phocuswire",
+   "error": "HTTP 403"
+  },
+  {
+   "id": "source:vrbo-help-center",
+   "error": "HTTP 429"
+  }
+ ],
+ "items": {
+  "new": 1241,
+  "after_folding": 1229,
+  "undated_backlog_dropped": 769,
+  "note": "top 30 dominated by general Swiss/Bali/Spanish news and Conduit blog evergreen posts; beat items found by keyword filter (63 hits), mostly hospitality.today AI-agent analysis pieces from 8-25 Nov not yet in graph"
+ },
+ "podcasts": "none listed",
+ "searches": [
+  "Airbnb news 26 Nov (only US party shootings, nothing industry)",
+  "Booking.com partners Nov (Partner Division, printed; BHFS payments agreement 10 Nov found)",
+  "Kurzzeitvermietung DACH Nov (nothing new dated; Interlaken court ruling found, 1 Oct)",
+  "Bali villa ilegal OTA Nov (nothing dated Nov)",
+  "Hostaway/Guesty/PriceLabs Nov (nothing official)",
+  "Zürich 5670 Kurzzeitunterkünfte (no source found)",
+  "Google agentic booking rules (UCP for Lodging FAQ found)",
+  "Interlaken Verwaltungsgericht",
+  "EU STR regulation week of 25 Nov (nothing)",
+  "Vayo Booking Holdings (Skift, GeekWire, release relays)",
+  "Bali tourism levy Nov (nothing new)",
+  "Airbnb/Booking EU court Nov (Booking Etraveli appeal 18 Nov)"
+ ],
+ "reporter_batches": [
+  {
+   "batch": "b1 Google UCP / AI agents",
+   "articles": 5,
+   "skips": 1,
+   "note": "hospitalitynet 403; Google pages give no date, draft date 25 Sep from hospitality.today; 9 collapsed UCP edges re-upserted with explicit ids"
+  },
+  {
+   "batch": "b2 Vayo",
+   "articles": 4,
+   "skips": 1,
+   "note": "marketscreener and quantisnow 403, release read only via Unite.AI relay"
+  },
+  {
+   "batch": "b3 Swiss/misc",
+   "articles": 5,
+   "skips": 1,
+   "note": "HotellerieSuisse board election (not printed: off-beat); Interlaken ruling page dated 1 Oct; BHFS agreement page dated 8 Sep; Conduit vendor comparison"
+  }
+ ],
+ "editor_writes": [
+  "Booking Etraveli appeal (Tageskarte, MS-Aktuell)",
+  "Booking.com terms ban AI assistants since 15 Sep 2025 (hospitality.today 12 Nov)",
+  "EVIDENCE_AGAINST on KI-Gästeservice thesis (Conduit comparison), no probability change"
+ ],
+ "candidates": [
+  {
+   "name": "Vayo books full trips incl. Expedia, Genius L3 for all users",
+   "impact": 2,
+   "novelty": 2,
+   "origins": 3,
+   "depth": 2,
+   "total": 9,
+   "decision": "story 1",
+   "corroboration": "searched 'Vayo Booking Holdings AI agent Genius Level 3': Skift, GeekWire, hospitality.today, Unite.AI/marketscreener/quantisnow relays of the release; desk check: all Vayo facts originate from Vayo (release + answers to GeekWire), counted as primary + hospitality.today analysis"
+  },
+  {
+   "name": "Google UCP for Lodging: agentic direct booking spec",
+   "impact": 2,
+   "novelty": 2,
+   "origins": 3,
+   "depth": 1,
+   "total": 8,
+   "decision": "story 2",
+   "corroboration": "Google developer pages (primary) + hospitality.today; hospitalitynet 403; dev.to commentary not read; draft dated 25 Sep, reported 25 Nov"
+  },
+  {
+   "name": "Booking appeals Etraveli ruling",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 2,
+   "depth": 0,
+   "total": 5,
+   "decision": "in brief"
+  },
+  {
+   "name": "Interlaken 90-night initiative valid (court, 1 Oct)",
+   "impact": 2,
+   "novelty": 1,
+   "origins": 0,
+   "depth": 1,
+   "total": 4,
+   "decision": "in brief, nachgetragen, single source"
+  },
+  {
+   "name": "BHFS payments agreement: VCC only to main owner (10 Nov)",
+   "impact": 2,
+   "novelty": 1,
+   "origins": 0,
+   "depth": 0,
+   "total": 3,
+   "decision": "in brief, nachgetragen, single source"
+  },
+  {
+   "name": "AI receptionists for STRs compared (Conduit)",
+   "impact": 1,
+   "novelty": 2,
+   "origins": 0,
+   "depth": 1,
+   "total": 4,
+   "decision": "in brief, vendor source"
+  },
+  {
+   "name": "HotellerieSuisse Verbandsleitung",
+   "impact": 0,
+   "novelty": 3,
+   "origins": 2,
+   "depth": 0,
+   "total": 5,
+   "decision": "dropped: off-beat"
+  },
+  {
+   "name": "Cloudflare Search for Agents",
+   "impact": 0,
+   "novelty": 3,
+   "origins": 0,
+   "depth": 0,
+   "total": 3,
+   "decision": "dropped"
+  }
+ ],
+ "patterns": "Booking Partner Division/Booking Holdings/Omri Morgenshtern again listed (printed_recently false in tool, but printed 19 Nov per earlier runs): nothing new",
+ "dossiers": {
+  "vayo": [
+   "company:vayo",
+   "company:booking-holdings",
+   "policy:booking-com-terms-ai-assistants-2025"
+  ],
+  "ucp": [
+   "project:google-ucp-lodging",
+   "project:google-ai-mode-hotel-booking",
+   "topic:ai-agent-access-hotel-booking",
+   "company:google"
+  ]
+ },
+ "desk_check": "Changed: stat 'bis 20%' with Booking-best-option condition; deck adds condition; 'Merchant of Record'; partner-page claim attributed to hospitality.today; headline 'sperrt' -> 'verbietet'; Expedia terms: robots/scraper ban kept; Vayo-origin note (all facts from Vayo); Citizens memory dated as report date and marked as printed 19 Nov; UCP: waitlist wording, Ronson test details and limits, Amadeus via Hospitality.today/Hotel Analyst moved off AI Mode sentence, FAQ vs hospitality.today attribution split, draft not read; Instinct memory caveats; My read 'zusätzlich zu den OTAs', partnerships named; briefs: Etraveli 'will anfechten', court reasoning fixed, dominance sentence replaced; Interlaken page date, einfache Anregung, Bönigen/Unterseen; BHFS as clarification, Associated Partner definition fixed, inference marked; Conduit headline neutral, 'Tarif Max'; thesis line narrowed.",
+ "rival_read": "Qualified My read of lead: permission regime rather than blanket block (United/Delta/Amazon same pattern), Genius funding and property control stated as open, Elev8 direct-site exposure marked as editor's inference. Headline claim unchanged, no second desk check.",
+ "grounding_refusals": "none reported",
+ "rules_counted": "none (merge-check rule applied, nothing to merge)",
+ "publish": "first publish refused (live version not viewed in this session); live version was the 26 Nov edition, nothing to merge; aligned labels with previous edition's German labels (Aus dem Gedächtnis, In Kürze, Rückseite, Thesen, Quellen) and republished as version 9",
+ "problems": [
+  "first publish refused as expected (artifact view requirement)",
+  "pages file needed '<!-- REPLY -->' not bare REPLY",
+  "template labels default to English (From the memory, In brief, Back page, Theses, Sources); previous runs localised by hand"
+ ],
+ "engine_issues": [
+  "site.py template does not localise page labels (From the memory, In brief, Back page, Theses, Sources) from reader.md language; each run localises by hand"
+ ],
+ "do_differently": "Localise labels in the first draft; consider a reader.md/site override for labels on the dreaming day."
+}

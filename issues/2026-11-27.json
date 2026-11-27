@@ -1,0 +1,106 @@
+{
+ "number": 9,
+ "date": "2026-11-27",
+ "stories": [
+  {
+   "kicker": "Vertrieb · Booking Holdings",
+   "headline": "Bookings KI-Agent bucht auch bei Expedia, Booking.com verbietet fremde Agenten",
+   "deck": "Vayo, das KI-Reise-Startup von Booking Holdings, bucht seit dem 17. November ganze Reisen, vorerst in einer geschlossenen Beta. Wenn Booking.com das beste Angebot hat, erhält jeder Nutzer sofort Genius-Preise der Stufe 3. Wer den Anteil über 10 Prozent trägt, hat bisher niemand gesagt.",
+   "body": "Booking Holdings hat Vayo am 14. Oktober gestartet. Seit dem 17. November bucht der Agent Flüge, Hotels, Mietwagen, Restaurants und Aktivitäten. Jede Buchung gibt der Reisende frei. Hotels, Mietwagen und Aktivitäten laufen über eine direkte Verbindung zu Booking.com, Restaurants über OpenTable, Tickets über SeatGeek. Flüge, Bahn, Fähren und Parkplätze bucht der Agent, indem er die Websites der Anbieter bedient, wo diese das zulassen. Wo nicht, gibt er den Bezahlvorgang an den Reisenden zurück. Laut GeekWire bucht er so auch bei Expedia, ohne Integration oder Partnerschaft.\n\nVayo ist nicht Merchant of Record. Bezahlt wird beim jeweiligen Anbieter, Provisionen nennt Vayo nicht (GeekWire). Booking Holdings will 100 Millionen Dollar investieren, abhängig von Fortschritt und Marktlage (Skift). Zahlen zu Nutzern oder Buchungen gibt es keine. Dass Vayo auch Ferienwohnungen bucht, steht nur in der Firmenmitteilung, wiedergegeben von Unite.AI. Die Mitteilung selbst war nicht abrufbar.\n\nDer Rabatt: Regulär braucht Genius-Stufe 3 laut Hospitality.today 15 Aufenthalte in zwei Jahren. Pflicht für Partner sind 10 Prozent, mehr ist laut Hospitality.today unter Berufung auf Booking.coms Partnerseite die Wahl des Betriebs. Wer bei Vayo-Buchungen die Differenz bezahlt, hat laut Hospitality.today niemand gesagt.\n\nDer Kontrast: Booking.coms Kundenbedingungen verbieten seit dem 15. September 2025 Buchungen durch KI-Assistenten ohne ausdrückliche schriftliche Erlaubnis. Das berichtete Hospitality.today am 12. November, die Bedingungen selbst hat die Redaktion nicht gelesen. Booking.com hat seit Oktober 2025 eine eigene App in ChatGPT. Expedias Bedingungen enthalten das übliche Verbot von Robotern und Scrapern, aber keine Klausel speziell für KI-Assistenten. Vayo nutzt bei Expedia also einen Weg, den Booking.com Dritten ohne Erlaubnis verbietet. Gesperrt worden sei Vayo bisher nirgends, sagt das Unternehmen (GeekWire). Alle Angaben zu Vayo stammen von Vayo selbst, aus der Mitteilung und aus Antworten an GeekWire. Skift, GeekWire und Hospitality.today berichten darüber, Hospitality.today ordnet den Rabatt ein.",
+   "from_memory": "In einem Bericht vom 15. November testeten Analysten von Citizens die Buchungsagenten Instinct und Metas Muse. Sie fanden sie enttäuschend, stuften aber Expedia als am stärksten gefährdet ein, danach Booking Holdings, Airbnb als am besten geschützt (Skift-Kolumne vom 18. November, hier am 19. November gemeldet).",
+   "stat": "bis 20%Genius-Rabatt der Stufe 3 auf ausgewählte Aufenthalte für Vayo-Nutzer, wenn Booking.com das beste Angebot hat (Skift)",
+   "my_read": "Für Vayo-Nutzer gilt Genius-Stufe 3, ohne Buchungshistorie. Rabatte über 10 Prozent stammen laut Hospitality.today aus den Raten der Betriebe, die sie anbieten. Ob das auch bei Vayo-Buchungen so ist und ob Betriebe es steuern können, ist offen. Für Gastgeber mit hohen Genius-Rabatten hängt daran die Marge solcher Buchungen. Ob Genius-Preise auch für Ferienwohnungen gelten, sagt keine Quelle. Der zweite Punkt: Die grossen Plattformen regeln KI-Zugang über Erlaubnisse. Booking.com lässt nur Agenten mit Vertrag zu, United, Delta und Amazon halten es laut Hospitality.today ähnlich, Expedia ist offener. Ob ein Agent auf einer Direktbuchungsseite bucht, hängt deshalb auch von Bot-Schutz und Bedingungen ab, nicht nur vom Preis. Das kann auch Buchungsseiten von Elev8-Kunden betreffen; das ist die Einschätzung der Redaktion. Noch ist Vayo eine Beta ohne Zahlen.",
+   "sources": [
+    "Skift",
+    "GeekWire",
+    "Hospitality.today",
+    "Unite.AI"
+   ],
+   "score": {
+    "impact": 2,
+    "novelty": 2,
+    "origins": 3,
+    "depth": 2,
+    "total": 9
+   }
+  },
+  {
+   "kicker": "Vertrieb · Google",
+   "headline": "Google legt offen, wie KI-Agenten direkt beim Hotel buchen sollen",
+   "deck": "Mit dem Universal Commerce Protocol für Unterkünfte will Google Buchungen im KI-Modus der Suche direkt beim Betrieb abschliessen. Die erste Version bucht ein Zimmer, der Zahlungsanbieter muss Googles Tokens verarbeiten. Googles Anmeldeseite bietet bisher nur eine Warteliste.",
+   "body": "Google beschreibt den Standard auf seinen Entwicklerseiten als offenen Standard für direkte Buchungen, auch im KI-Modus der Suche. «In den kommenden Monaten» will Google ihn für die Hotelbuchung im KI-Modus übernehmen, ein Datum fehlt. Laut Hospitality.today steht der Entwurf seit dem 25. September online. Ausgewertet hat ihn das Fachmedium am 25. November.\n\nLaut Googles FAQ prüft die erste Stufe Verfügbarkeit und bucht ein Zimmer. Der Zahlungsdienstleister des Betriebs muss Googles Tokens verarbeiten, Google Pay auf der eigenen Website ist nicht nötig. Preis und Verfügbarkeit werden vor dem Buchen in Echtzeit geprüft. Der Betrieb bleibt Merchant of Record. Die Anbindung beeinflusse das Ranking nicht, schreibt Google. Laut Hospitality.today, das den Entwurf ausgewertet hat, kann die Zahlung sofort, später oder vor Ort erfolgen. Stornobedingungen sind verbindlich, Ratennamen dürfen ihnen nicht widersprechen, und der Gast schliesst die Buchung selbst ab. Gebühren hat Google nicht veröffentlicht, die Regeln gelten als Entwurf. Onboarding und Spezifikation sind «coming soon». Den Entwurf selbst hat die Redaktion nicht gelesen, nur Googles Entwicklerseiten.\n\nBisher bucht der KI-Modus in den USA, seit dem 27. August über zehn Startpartner, fünf OTAs und fünf Ketten (Hospitality.today). Für den Pilot des neuen Standards sagte Amadeus am 10. November an einer Investorenkonferenz in London, innerhalb weniger Monate hätten sich 12 000 von rund 60 000 Hotels auf seinen Systemen angemeldet. Das ist Amadeus' eigene Zählung, berichtet von Hotel Analyst und Hospitality.today. Ob ein Agent eine Hotelseite überhaupt bedienen kann, ist eine zweite Frage. Im Test von Terence Ronson (Pertlink) am 18. und 19. Oktober liessen Marriott, IHG und Accor den Agenten in allen Läufen durch, Choice beide getesteten Assistenten. Hyatt sperrte Claude auf jeder Seite, ChatGPT kam im Andaz Singapore bis zur Zahlungsseite. Entschieden hat der Bot-Schutz, nicht die robots.txt. Getestet wurden zwei Assistenten bei Ketten, gebucht wurde nichts. Ferienwohnungen oder PMS erwähnen die gelesenen Google-Seiten nicht.",
+   "from_memory": "Am 20. November liess Skift den KI-Agenten Instinct 16 Airbnb-Inserate mit den Websites der Vermieter vergleichen. In 10 Fällen war die Direktbuchung günstiger, um bis zu 42 Prozent. Eine kleine Stichprobe, Steuern und Gebühren waren unterschiedlich ausgewiesen (hier am 23. November gemeldet). Der direkte Weg kann für Agenten also der günstigere sein.",
+   "stat": "1Zimmer pro Buchung in der ersten Stufe; mehrere Zimmer sind eine mögliche spätere Erweiterung (Google)",
+   "my_read": "Google baut einen Weg, auf dem ein Agent beim Betrieb selbst bucht, zusätzlich zu den OTAs. Das ist das Gegenstück zu Partnerschaften wie Booking.coms App in ChatGPT oder Expedias Teilnahme an Metas Muse. Für Ferienwohnungen gibt es diesen Weg noch nicht: Googles Seiten sprechen von Hotels und Zimmern, angebunden wird über Reservierungssysteme und Property-Feeds. Dehnt Google den Standard auf Ferienunterkünfte aus, läge die Schnittstelle bei PMS und Buchungsmaschinen, also bei Anbietern wie Elev8. Die Anforderungen sind schon lesbar: ein token-fähiger Zahlungsanbieter, verbindliche Stornoregeln, ein Zimmer pro Buchung. Offen bleibt, ob Google Gebühren verlangt. Davon hängt ab, ob der direkte Weg günstiger ist als die OTA-Provision.",
+   "sources": [
+    "Google for Developers",
+    "Hospitality.today"
+   ],
+   "score": {
+    "impact": 2,
+    "novelty": 2,
+    "origins": 3,
+    "depth": 1,
+    "total": 8
+   }
+  }
+ ],
+ "in_brief": [
+  {
+   "kicker": "Wettbewerb · Booking Holdings",
+   "headline": "Booking will das Etraveli-Urteil anfechten",
+   "text": "Booking Holdings hat am 18. November angekündigt, gegen das Urteil des EU-Gerichts vom 9. September Rechtsmittel einzulegen. Das Gericht hatte das Verbot der Etraveli-Übernahme (rund 1,63 Milliarden Euro) durch die EU-Kommission von 2023 bestätigt. Es beanstandete Rechenfehler der Kommission: Richtig gerechnet wäre Bookings Anteil an der Online-Hotelvermittlung nur um wenige Zehntelprozentpunkte gestiegen. Das Verbot hielt es trotzdem, weil auch ein kleiner Zuwachs eine marktbeherrschende Stellung festigen könne. Booking bestreitet unter anderem die Marktabgrenzung: Gäste buchten auch direkt, im Reisebüro oder auf anderen Plattformen. Die Kommission hatte Booking auf dem enger abgegrenzten Markt der Online-Hotelvermittlung im EWR als marktbeherrschend eingestuft. Beide Berichte stützen sich auf Bookings Mitteilung.",
+   "sources": [
+    "Tageskarte",
+    "MS-Aktuell"
+   ]
+  },
+  {
+   "kicker": "Regulierung · Schweiz",
+   "headline": "Nachgetragen: Gericht stützt Interlakens 90-Nächte-Initiative",
+   "text": "Das Berner Verwaltungsgericht hat die Beschwerde eines Eigentümers gegen die Initiative der SP Bödeli-Jungfrau abgewiesen, publiziert laut Seitendatum am 1. Oktober. Die Initiative will Wohnungen höchstens 90 Nächte pro Jahr an Feriengäste vermieten lassen. Ausgenommen sind bis zu fünf Betten, wenn der Vermieter ganzjährig im selben Haus wohnt. Das Gericht verweist auf Wohnungsnot und sinkenden Leerstand. Weil die Initiative eine einfache Anregung ist, behält die Gemeinde Spielraum bei der Ausgestaltung. Der Weiterzug ans Bundesgericht ist möglich. In Matten wurde eine gleichlautende Initiative angenommen, in Wilderswil zurückgezogen, Bönigen und Unterseen bereiten Verschärfungen vor. Gelesen wurde nur eine Quelle.",
+   "sources": [
+    "cash.ch (AWP)"
+   ]
+  },
+  {
+   "kicker": "Plattformen · Booking.com",
+   "headline": "Nachgetragen: Booking stellt klar, virtuelle Karten gehen an den Hauptinhaber",
+   "text": "Seit dem 10. November gilt ein geänderter Zahlungsvertrag von Booking Hospitality Financial Services. Virtuelle Kreditkarten werden laut Direzione Hotel ausdrücklich nur an den Hauptinhaber der Unterkunft ausgegeben, nicht an verbundene Partner. Der verbundene Partner ist neu definiert als jemand, der Zahlungen empfangen darf, bisher zählte, wer Reservierungen verwaltet oder erhält. Die Zahlungspflicht entsteht erst, wenn Booking beim Dritten kassiert hat. Zugestimmt hat, wer nicht bis zum 10. November gekündigt hat. Für Verwalter, die im Namen von Eigentümern abrechnen, kann das den Geldfluss betreffen; das ist die Einschätzung der Redaktion, die Quelle sagt es nicht. Einzige Quelle ist ein Fachmedium, den Vertrag selbst hat die Redaktion nicht gelesen.",
+   "sources": [
+    "Direzione Hotel"
+   ]
+  },
+  {
+   "kicker": "KI · Gästeservice",
+   "headline": "Neun KI-Telefonassistenten für Ferienvermieter im Vergleich",
+   "text": "Der Vergleich stammt von Conduit, das selbst auf der Liste steht und sich auf Platz zwei setzt. Conduit bündelt Sprache ab 18 Dollar pro Einheit und Monat. Bei ProhostAI kostet das KI-Telefon ab 30 Dollar im Monat extra, für rund 200 Minuten. Akia bietet KI-Sprache nur im Tarif Max. Ody hat keine direkte PMS-Anbindung und arbeitet über Make, Webhooks oder eine API. Alle Preise sind Herstellerangaben.",
+   "sources": [
+    "Conduit"
+   ]
+  }
+ ],
+ "theses": [
+  {
+   "name": "KI-Gästeservice wird Standard",
+   "p": 0.6,
+   "move": "→",
+   "why": "Conduits Vergleich (vom Anbieter selbst) nennt KI-Telefon bei zwei von neun Anbietern nur als Zusatz oder in einem höheren Tarif; das ändert die Lage nicht."
+  },
+  {
+   "name": "Bali-Registrierung greift",
+   "p": 0.7,
+   "move": "→",
+   "why": "Nichts Neues."
+  },
+  {
+   "name": "PMS-Konsolidierung",
+   "p": 0.6,
+   "move": "→",
+   "why": "Nichts Neues."
+  }
+ ],
+ "heard": [],
+ "letter": "KI-Agenten und Direktbuchung waren heute beide Hauptgeschichten. Soll die Zeitung das als eigenen Schwerpunkt führen, mit einer These dazu, ob 2027 ein KI-Agent nachweislich Ferienwohnungen direkt beim Verwalter bucht?",
+ "url": "https://claude.ai/artifact/1K9BigbztoRRakTdiPQaHw"
+}
