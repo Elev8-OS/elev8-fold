@@ -1,21 +1,143 @@
 {
- "queries": [
-  "Airbnb Booking.com Provision Gebühren Ranking Promotion Channel Manager API Änderung",
-  "Kurzzeitvermietung Regulierung Registrierungspflicht Lizenz Steuer Urteil Schweiz Deutschland Österreich EU",
-  "short-term rental regulation registration licence tax Bali Indonesia villa",
-  "property management software PMS channel manager funding acquisition launch Hostaway Guesty Hospitable",
-  "dynamic pricing vacation rental PriceLabs Wheelhouse revenue management",
-  "AI guest messaging assistant vacation rental hospitality automation launch",
-  "short-term rental market occupancy ADR RevPAR supply Bali Switzerland Europe"
- ],
- "sources": [
-  {"id": "source:airbnb-newsroom", "name": "Airbnb Newsroom", "kind": "newsroom", "url": "https://news.airbnb.com", "lang": "en", "cadence": "weekly", "status": "candidate"},
-  {"id": "source:booking-newsroom", "name": "Booking.com Newsroom", "kind": "newsroom", "url": "https://news.booking.com", "lang": "en", "cadence": "weekly", "status": "candidate"},
-  {"id": "source:skift", "name": "Skift", "kind": "page", "url": "https://skift.com", "lang": "en", "cadence": "daily", "status": "candidate"},
-  {"id": "source:phocuswire", "name": "PhocusWire", "kind": "page", "url": "https://www.phocuswire.com", "lang": "en", "cadence": "daily", "status": "candidate"},
-  {"id": "source:pricelabs-blog", "name": "PriceLabs Blog", "kind": "page", "url": "https://hello.pricelabs.co/blog/", "lang": "en", "cadence": "weekly", "status": "candidate"},
-  {"id": "source:hostaway-newsroom", "name": "Hostaway Blog", "kind": "page", "url": "https://www.hostaway.com/blog/", "lang": "en", "cadence": "weekly", "status": "candidate"},
-  {"id": "source:guesty-blog", "name": "Guesty Blog", "kind": "page", "url": "https://www.guesty.com/blog/", "lang": "en", "cadence": "weekly", "status": "candidate"},
-  {"id": "source:hotellerie-suisse", "name": "hotelleriesuisse News", "kind": "page", "url": "https://www.hotelleriesuisse.ch", "lang": "de", "cadence": "weekly", "status": "candidate"}
- ]
+  "queries": [
+    "Airbnb Booking.com Provision Gebühren Ranking Promotion Channel Manager API Änderung",
+    "Kurzzeitvermietung Regulierung Registrierungspflicht Lizenz Steuer Urteil Schweiz Deutschland Österreich EU",
+    "short-term rental regulation registration licence tax Bali Indonesia villa",
+    "property management software PMS channel manager funding acquisition launch Hostaway Guesty Hospitable",
+    "dynamic pricing vacation rental PriceLabs Wheelhouse revenue management",
+    "AI guest messaging assistant vacation rental hospitality automation launch",
+    "short-term rental market occupancy ADR RevPAR supply Bali Switzerland Europe"
+  ],
+  "sources": [
+    {
+      "id": "source:airbnb-newsroom",
+      "name": "Airbnb Newsroom",
+      "kind": "newsroom",
+      "url": "https://news.airbnb.com",
+      "lang": "en",
+      "cadence": "weekly",
+      "status": "candidate"
+    },
+    {
+      "id": "source:booking-newsroom",
+      "name": "Booking.com Newsroom",
+      "kind": "newsroom",
+      "url": "https://news.booking.com",
+      "lang": "en",
+      "cadence": "weekly",
+      "status": "candidate"
+    },
+    {
+      "id": "source:skift",
+      "name": "Skift",
+      "kind": "feed",
+      "url": "https://skift.com",
+      "lang": "en",
+      "cadence": "daily",
+      "status": "candidate",
+      "feed": "https://skift.com/feed/"
+    },
+    {
+      "id": "source:phocuswire",
+      "name": "PhocusWire",
+      "kind": "page",
+      "url": "https://www.phocuswire.com",
+      "lang": "en",
+      "cadence": "daily",
+      "status": "dead"
+    },
+    {
+      "id": "source:pricelabs-blog",
+      "name": "PriceLabs Blog",
+      "kind": "page",
+      "url": "https://hello.pricelabs.co/blog/",
+      "lang": "en",
+      "cadence": "weekly",
+      "status": "candidate"
+    },
+    {
+      "id": "source:hostaway-newsroom",
+      "name": "Hostaway Blog",
+      "kind": "page",
+      "url": "https://www.hostaway.com/blog/",
+      "lang": "en",
+      "cadence": "weekly",
+      "status": "candidate"
+    },
+    {
+      "id": "source:guesty-blog",
+      "name": "Guesty Blog",
+      "kind": "page",
+      "url": "https://www.guesty.com/blog/",
+      "lang": "en",
+      "cadence": "weekly",
+      "status": "candidate"
+    },
+    {
+      "id": "source:hotellerie-suisse",
+      "name": "hotelleriesuisse News",
+      "kind": "page",
+      "url": "https://www.hotelleriesuisse.ch",
+      "lang": "de",
+      "cadence": "weekly",
+      "status": "candidate"
+    },
+    {
+      "id": "source:hospitality-today",
+      "name": "Hospitality.today",
+      "kind": "feed",
+      "url": "https://www.hospitality.today",
+      "lang": "en",
+      "cadence": "daily",
+      "status": "candidate",
+      "feed": "https://www.hospitality.today/feed.rss"
+    },
+    {
+      "id": "source:htr",
+      "name": "htr.ch",
+      "kind": "page",
+      "url": "https://www.htr.ch",
+      "lang": "de",
+      "cadence": "daily",
+      "status": "candidate"
+    },
+    {
+      "id": "source:hotrec",
+      "name": "HOTREC News",
+      "kind": "page",
+      "url": "https://www.hotrec.eu",
+      "lang": "en",
+      "cadence": "daily",
+      "status": "candidate"
+    },
+    {
+      "id": "source:bfs",
+      "name": "Bundesamt für Statistik (BFS) Tourismus",
+      "kind": "primary",
+      "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/tourismus.html",
+      "lang": "de",
+      "cadence": "daily",
+      "status": "candidate"
+    },
+    {
+      "id": "source:shorttermrentalz",
+      "name": "Short Term Rentalz",
+      "kind": "feed",
+      "url": "https://shorttermrentalz.com",
+      "feed": "https://shorttermrentalz.com/feed/",
+      "lang": "en",
+      "cadence": "daily",
+      "status": "candidate"
+    },
+    {
+      "id": "source:vrmintel",
+      "name": "VRM Intel",
+      "kind": "feed",
+      "url": "https://vrmintel.com",
+      "feed": "https://vrmintel.com/feed/",
+      "lang": "en",
+      "cadence": "daily",
+      "status": "candidate"
+    }
+  ]
 }

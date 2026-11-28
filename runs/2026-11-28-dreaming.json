@@ -1,0 +1,97 @@
+{
+ "date": "2026-11-28",
+ "kind": "dreaming",
+ "start": "2026-11-28T03:46:19Z",
+ "end": "2026-11-28T03:51:48Z",
+ "environment_cached": false,
+ "environment": "unprepared: pymupdf missing; ran engine/tools/env_setup.sh (ok, incl. headless browser)",
+ "engine": "engine/ empty at start; git submodule update --init worked first try (pinned 90096e6, v0.2.1); updated to v0.3.0 at the end",
+ "unmerged_branches": "none: all 8 remote claude/* branches contain no commits beyond main (0ebb340)",
+ "replies": "none new",
+ "weak_facts": {
+  "listed": 73,
+  "verified": 71,
+  "note": "quote grounded exact against archived text and quote supports the fact; 2 left unverified: Hostaway LAUNCHED AI replies (0.4, only third-party evidence) and a thesis evidence edge without quote"
+ },
+ "corrections": [
+  "Barragan HEAD_OF Ministerio de Consumo -> WORKS_AT (he is secretario general de Consumo y Juego) via invalidate --rel",
+  "Omri Morgenshtern CEO_OF Agoda: duplicate edge from qz folded into the dated Skift edge as 'also', duplicate deleted",
+  "Marnie Wilking WORKS_AT Booking.com confirmed current_on 2026-11-28 (TNW 24.11.)"
+ ],
+ "conflicts": "Omri Morgenshtern CEO of Agoda and of Booking Partner Division (from 2027-01): both true per Skift and Quartz ('also'), kept",
+ "merges": [
+  "company:expedia-group into company:expedia (same company)"
+ ],
+ "not_same_as": [
+  "regulator:commission-economie-grand-conseil-geneve vs regulator:grand-conseil-geneve (committee vs parliament)"
+ ],
+ "deleted": [
+  "person:volker-soyez (orphan, off-beat)"
+ ],
+ "orphans_kept": [
+  "company:redawning (STR distributor, beat 3)",
+  "regulator:staenderat (Lex Airbnb goes through it)"
+ ],
+ "summaries": "25 entities without text got German summaries from their facts (Sonnet sub-agent)",
+ "sources_review": {
+  "finding": "No source had a feed; 70 Source nodes were homepages of outlets cited once (nau, cash, detikBali, ORF, BBC ...) and were read daily as listing pages: the root of 'ranking floods top 30 with regional general news' in the 24.-27.11. logs",
+  "citation": 68,
+  "dead": [
+   "source:phocuswire (403 in 5 runs, RSS also 403)",
+   "source:vrbo-help-center (429 in 4 runs)"
+  ],
+  "kept_read": [
+   "airbnb-newsroom",
+   "booking-newsroom",
+   "skift (now RSS feed)",
+   "pricelabs-blog",
+   "hostaway-newsroom",
+   "guesty-blog",
+   "hotellerie-suisse",
+   "hospitality-today (now RSS feed)",
+   "htr",
+   "hotrec",
+   "bfs"
+  ],
+  "added": [
+   "source:shorttermrentalz (RSS, 10 items, checked)",
+   "source:vrmintel (RSS, 12 items, checked)"
+  ],
+  "note": "stories counter on Source nodes is 0 everywhere; nothing sets props.stories"
+ },
+ "rules": {
+  "added": [
+   "Agenturmeldungen zählen als ein Ursprung",
+   "Seitenbeschriftungen gleich deutsch schreiben",
+   "Einmal zitierte Medien als citation anlegen"
+  ],
+  "counted": [
+   {
+    "rule": "Vor dem Lesen die Arbeit früherer Läufe zusammenführen",
+    "helpful": true,
+    "note": "checked, nothing to merge; engine v0.3.0 now does this with instance.py sync, so the rule can be retired after a week of clean syncs"
+   }
+  ],
+  "retired": []
+ },
+ "theses": "all three reviewed: well-formed, resolution dates and tests clear; no change",
+ "signals": "none published, none open",
+ "instance_edits": [
+  "sources.json: Skift and hospitality.today feeds, htr/hotrec/bfs/hospitality-today added, two new STR trade feeds, phocuswire dead"
+ ],
+ "engine_update": {
+  "from": "v0.2.1",
+  "to": "v0.3.0",
+  "instance_changes": [],
+  "ok": true
+ },
+ "engine_issues": [
+  "fetch.py article dates dsca.gob.es pages 2023-02-01 and undated help pages 2026-01-01 (23.11.)",
+  "upsert merges distinct facts sharing src/rel/dst/valid_from with different quotes; second quote overwrote the first (24.11.) - v0.3.0 changelog says differing figures are now shown",
+  "dossier independent_origins counts agency relays (Keystone-SDA via htr/nau/Baublatt) as separate outlets and lists every linked source, not the headline claim's outlets (25./26.11.)",
+  "passages.py search returns empty date and null source for some backfilled passages (25.11.)",
+  "site.py template does not localise page labels from reader.md language (27.11.)",
+  "Source props.stories is never set, so audit shows stories 0 for every source"
+ ],
+ "do_differently": "Monday: watch whether the new feeds give beat items in the top 30; if htr/hotrec homepages still bring noise, set them to citation too."
+}
